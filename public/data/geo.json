@@ -1,0 +1,9127 @@
+[
+  {
+    "Address": "Alabama Florence",
+    "Latitude": 34.79981,
+    "Longitude": -87.677251
+  },
+  {
+    "Address": "Alabama Hoover",
+    "Latitude": 33.405387,
+    "Longitude": -86.811378
+  },
+  {
+    "Address": "Alabama Prattville",
+    "Latitude": 32.464025,
+    "Longitude": -86.459697
+  },
+  {
+    "Address": "Alabama Tuscaloosa",
+    "Latitude": 33.209841,
+    "Longitude": -87.569173
+  },
+  {
+    "Address": "Alaska Anchorage",
+    "Latitude": 61.218056,
+    "Longitude": -149.900278
+  },
+  {
+    "Address": "Arizona Apache Junction",
+    "Latitude": 33.415048,
+    "Longitude": -111.549578
+  },
+  {
+    "Address": "Arizona Avondale",
+    "Latitude": 33.435598,
+    "Longitude": -112.349602
+  },
+  {
+    "Address": "Arizona Eagar",
+    "Latitude": 34.111158,
+    "Longitude": -109.291475
+  },
+  {
+    "Address": "Arizona El Mirage",
+    "Latitude": 33.613094,
+    "Longitude": -112.324604
+  },
+  {
+    "Address": "Arizona Gilbert",
+    "Latitude": 33.352826,
+    "Longitude": -111.789027
+  },
+  {
+    "Address": "Arizona Glendale",
+    "Latitude": 33.538652,
+    "Longitude": -112.185987
+  },
+  {
+    "Address": "Arizona Goodyear",
+    "Latitude": 33.435339,
+    "Longitude": -112.357657
+  },
+  {
+    "Address": "Arizona Maricopa",
+    "Latitude": 33.291797,
+    "Longitude": -112.429146
+  },
+  {
+    "Address": "Arizona Mesa",
+    "Latitude": 33.415184,
+    "Longitude": -111.831472
+  },
+  {
+    "Address": "Arizona Phoenix",
+    "Latitude": 33.448377,
+    "Longitude": -112.074037
+  },
+  {
+    "Address": "Arizona Prescott",
+    "Latitude": 34.540024,
+    "Longitude": -112.468502
+  },
+  {
+    "Address": "Arizona Scottsdale",
+    "Latitude": 33.49417,
+    "Longitude": -111.926052
+  },
+  {
+    "Address": "Arizona Tempe",
+    "Latitude": 33.42551,
+    "Longitude": -111.940005
+  },
+  {
+    "Address": "Arizona Tucson",
+    "Latitude": 32.221743,
+    "Longitude": -110.926479
+  },
+  {
+    "Address": "Arizona Yuma",
+    "Latitude": 32.692651,
+    "Longitude": -114.627692
+  },
+  {
+    "Address": "Arizona Northern Arizona University",
+    "Latitude": 35.18519,
+    "Longitude": -111.654707
+  },
+  {
+    "Address": "Arizona University of Arizona",
+    "Latitude": 32.231885,
+    "Longitude": -110.950109
+  },
+  {
+    "Address": "Arizona Cochise",
+    "Latitude": 31.828458,
+    "Longitude": -109.949686
+  },
+  {
+    "Address": "Arizona Maricopa",
+    "Latitude": 33.291797,
+    "Longitude": -112.429146
+  },
+  {
+    "Address": "Arizona Pima",
+    "Latitude": 32.057499,
+    "Longitude": -111.666072
+  },
+  {
+    "Address": "Arizona Yuma",
+    "Latitude": 32.692651,
+    "Longitude": -114.627692
+  },
+  {
+    "Address": "Arkansas Bentonville",
+    "Latitude": 36.372854,
+    "Longitude": -94.208817
+  },
+  {
+    "Address": "Arkansas Berryville",
+    "Latitude": 36.364792,
+    "Longitude": -93.567967
+  },
+  {
+    "Address": "Arkansas Cabot",
+    "Latitude": 34.974532,
+    "Longitude": -92.016534
+  },
+  {
+    "Address": "Arkansas England",
+    "Latitude": 34.544261,
+    "Longitude": -91.969028
+  },
+  {
+    "Address": "Arkansas Fairfield Bay",
+    "Latitude": 35.594244,
+    "Longitude": -92.277932
+  },
+  {
+    "Address": "Arkansas Fort Smith",
+    "Latitude": 35.385924,
+    "Longitude": -94.398547
+  },
+  {
+    "Address": "Arkansas Gurdon",
+    "Latitude": 33.920937,
+    "Longitude": -93.154059
+  },
+  {
+    "Address": "Arkansas Marion",
+    "Latitude": 35.214534,
+    "Longitude": -90.196483
+  },
+  {
+    "Address": "Arkansas North Little Rock",
+    "Latitude": 34.769536,
+    "Longitude": -92.267094
+  },
+  {
+    "Address": "Arkansas Pine Bluff",
+    "Latitude": 34.228431,
+    "Longitude": -92.003195
+  },
+  {
+    "Address": "Arkansas Rogers",
+    "Latitude": 36.33202,
+    "Longitude": -94.118537
+  },
+  {
+    "Address": "Arkansas Sherwood",
+    "Latitude": 34.815091,
+    "Longitude": -92.224315
+  },
+  {
+    "Address": "Arkansas University of Arkansas",
+    "Latitude": 36.067832,
+    "Longitude": -94.173655
+  },
+  {
+    "Address": "Arkansas Crawford",
+    "Latitude": 35.576276,
+    "Longitude": -94.315422
+  },
+  {
+    "Address": "Arkansas Faulkner",
+    "Latitude": 35.103586,
+    "Longitude": -92.381362
+  },
+  {
+    "Address": "Arkansas Lonoke",
+    "Latitude": 34.78398,
+    "Longitude": -91.899861
+  },
+  {
+    "Address": "Arkansas Pulaski",
+    "Latitude": 34.753862,
+    "Longitude": -92.223667
+  },
+  {
+    "Address": "Arkansas Sebastian",
+    "Latitude": 35.22604,
+    "Longitude": -94.315422
+  },
+  {
+    "Address": "Arkansas Greene",
+    "Latitude": 36.131493,
+    "Longitude": -90.563609
+  },
+  {
+    "Address": "Arkansas Pope",
+    "Latitude": 35.440627,
+    "Longitude": -93.017571
+  },
+  {
+    "Address": "California Adelanto",
+    "Latitude": 34.58277,
+    "Longitude": -117.409215
+  },
+  {
+    "Address": "California Agoura Hills",
+    "Latitude": 34.15334,
+    "Longitude": -118.761676
+  },
+  {
+    "Address": "California Alameda",
+    "Latitude": 37.765207,
+    "Longitude": -122.241636
+  },
+  {
+    "Address": "California Alhambra",
+    "Latitude": 34.095287,
+    "Longitude": -118.127015
+  },
+  {
+    "Address": "California Antioch",
+    "Latitude": 38.004921,
+    "Longitude": -121.805789
+  },
+  {
+    "Address": "California Arcadia",
+    "Latitude": 34.139729,
+    "Longitude": -118.035345
+  },
+  {
+    "Address": "California Atascadero",
+    "Latitude": 35.489417,
+    "Longitude": -120.670725
+  },
+  {
+    "Address": "California Atwater",
+    "Latitude": 37.347717,
+    "Longitude": -120.609084
+  },
+  {
+    "Address": "California Auburn",
+    "Latitude": 38.896565,
+    "Longitude": -121.07689
+  },
+  {
+    "Address": "California Azusa",
+    "Latitude": 34.133619,
+    "Longitude": -117.907563
+  },
+  {
+    "Address": "California Bakersfield",
+    "Latitude": 35.373292,
+    "Longitude": -119.018712
+  },
+  {
+    "Address": "California Baldwin Park",
+    "Latitude": 34.085287,
+    "Longitude": -117.960898
+  },
+  {
+    "Address": "California Banning",
+    "Latitude": 33.925571,
+    "Longitude": -116.87641
+  },
+  {
+    "Address": "California Berkeley",
+    "Latitude": 37.871593,
+    "Longitude": -122.272747
+  },
+  {
+    "Address": "California Beverly Hills",
+    "Latitude": 34.07362,
+    "Longitude": -118.400356
+  },
+  {
+    "Address": "California Brentwood3",
+    "Latitude": 37.931868,
+    "Longitude": -121.695786
+  },
+  {
+    "Address": "California Buena Park3",
+    "Latitude": 33.810146,
+    "Longitude": -118.027646
+  },
+  {
+    "Address": "California Burbank",
+    "Latitude": 34.180839,
+    "Longitude": -118.308966
+  },
+  {
+    "Address": "California Calabasas",
+    "Latitude": 34.136721,
+    "Longitude": -118.661481
+  },
+  {
+    "Address": "California Camarillo",
+    "Latitude": 34.216394,
+    "Longitude": -119.037602
+  },
+  {
+    "Address": "California Campbell",
+    "Latitude": 37.287165,
+    "Longitude": -121.949957
+  },
+  {
+    "Address": "California Carlsbad",
+    "Latitude": 33.158093,
+    "Longitude": -117.350594
+  },
+  {
+    "Address": "California Carson",
+    "Latitude": 33.831675,
+    "Longitude": -118.281693
+  },
+  {
+    "Address": "California Cerritos",
+    "Latitude": 33.858348,
+    "Longitude": -118.064787
+  },
+  {
+    "Address": "California Chico",
+    "Latitude": 39.728494,
+    "Longitude": -121.837478
+  },
+  {
+    "Address": "California Chino",
+    "Latitude": 34.012235,
+    "Longitude": -117.688944
+  },
+  {
+    "Address": "California Chula Vista",
+    "Latitude": 32.640054,
+    "Longitude": -117.084196
+  },
+  {
+    "Address": "California Citrus Heights",
+    "Latitude": 38.707125,
+    "Longitude": -121.281061
+  },
+  {
+    "Address": "California Claremont",
+    "Latitude": 34.096676,
+    "Longitude": -117.719779
+  },
+  {
+    "Address": "California Clearlake",
+    "Latitude": 38.958231,
+    "Longitude": -122.626373
+  },
+  {
+    "Address": "California Clovis",
+    "Latitude": 36.825228,
+    "Longitude": -119.702919
+  },
+  {
+    "Address": "California Colton",
+    "Latitude": 34.073902,
+    "Longitude": -117.313655
+  },
+  {
+    "Address": "California Compton",
+    "Latitude": 33.895849,
+    "Longitude": -118.220071
+  },
+  {
+    "Address": "California Concord",
+    "Latitude": 37.977978,
+    "Longitude": -122.031073
+  },
+  {
+    "Address": "California Corcoran",
+    "Latitude": 36.098007,
+    "Longitude": -119.560402
+  },
+  {
+    "Address": "California Corona",
+    "Latitude": 33.875294,
+    "Longitude": -117.566438
+  },
+  {
+    "Address": "California Coronado",
+    "Latitude": 32.685885,
+    "Longitude": -117.183089
+  },
+  {
+    "Address": "California Costa Mesa",
+    "Latitude": 33.641216,
+    "Longitude": -117.918822
+  },
+  {
+    "Address": "California Covina",
+    "Latitude": 34.090009,
+    "Longitude": -117.89034
+  },
+  {
+    "Address": "California Cupertino",
+    "Latitude": 37.322998,
+    "Longitude": -122.032182
+  },
+  {
+    "Address": "California Cypress",
+    "Latitude": 33.816937,
+    "Longitude": -118.036851
+  },
+  {
+    "Address": "California Daly City",
+    "Latitude": 37.687924,
+    "Longitude": -122.470208
+  },
+  {
+    "Address": "California Dana Point",
+    "Latitude": 33.467226,
+    "Longitude": -117.698101
+  },
+  {
+    "Address": "California Davis",
+    "Latitude": 38.538232,
+    "Longitude": -121.761712
+  },
+  {
+    "Address": "California Duarte",
+    "Latitude": 34.139451,
+    "Longitude": -117.977287
+  },
+  {
+    "Address": "California El Cajon",
+    "Latitude": 32.794773,
+    "Longitude": -116.962527
+  },
+  {
+    "Address": "California El Cerrito",
+    "Latitude": 37.916133,
+    "Longitude": -122.310765
+  },
+  {
+    "Address": "California Elk Grove",
+    "Latitude": 38.408799,
+    "Longitude": -121.371618
+  },
+  {
+    "Address": "California El Monte",
+    "Latitude": 34.068621,
+    "Longitude": -118.027567
+  },
+  {
+    "Address": "California Emeryville",
+    "Latitude": 37.831316,
+    "Longitude": -122.285247
+  },
+  {
+    "Address": "California Encinitas",
+    "Latitude": 33.036987,
+    "Longitude": -117.291982
+  },
+  {
+    "Address": "California Escondido",
+    "Latitude": 33.119207,
+    "Longitude": -117.086421
+  },
+  {
+    "Address": "California Eureka",
+    "Latitude": 40.802071,
+    "Longitude": -124.163673
+  },
+  {
+    "Address": "California Fairfield",
+    "Latitude": 38.249358,
+    "Longitude": -122.039966
+  },
+  {
+    "Address": "California Fontana",
+    "Latitude": 34.092234,
+    "Longitude": -117.435048
+  },
+  {
+    "Address": "California Foster City",
+    "Latitude": 37.558547,
+    "Longitude": -122.271079
+  },
+  {
+    "Address": "California Fresno",
+    "Latitude": 36.746842,
+    "Longitude": -119.772587
+  },
+  {
+    "Address": "California Fullerton",
+    "Latitude": 33.870365,
+    "Longitude": -117.924212
+  },
+  {
+    "Address": "California Galt",
+    "Latitude": 38.254637,
+    "Longitude": -121.299949
+  },
+  {
+    "Address": "California Garden Grove",
+    "Latitude": 33.774269,
+    "Longitude": -117.937995
+  },
+  {
+    "Address": "California Gilroy",
+    "Latitude": 37.005782,
+    "Longitude": -121.568275
+  },
+  {
+    "Address": "California Glendale",
+    "Latitude": 34.142508,
+    "Longitude": -118.255075
+  },
+  {
+    "Address": "California Glendora",
+    "Latitude": 34.136119,
+    "Longitude": -117.865339
+  },
+  {
+    "Address": "California Gridley",
+    "Latitude": 39.363777,
+    "Longitude": -121.693583
+  },
+  {
+    "Address": "California Hanford",
+    "Latitude": 36.32745,
+    "Longitude": -119.645684
+  },
+  {
+    "Address": "California Hawaiian Gardens",
+    "Latitude": 33.831405,
+    "Longitude": -118.072842
+  },
+  {
+    "Address": "California Hayward",
+    "Latitude": 37.668821,
+    "Longitude": -122.080796
+  },
+  {
+    "Address": "California Healdsburg",
+    "Latitude": 38.610466,
+    "Longitude": -122.869161
+  },
+  {
+    "Address": "California Hercules",
+    "Latitude": 38.017144,
+    "Longitude": -122.288581
+  },
+  {
+    "Address": "California Holtville",
+    "Latitude": 32.811161,
+    "Longitude": -115.380264
+  },
+  {
+    "Address": "California Huntington Beach",
+    "Latitude": 33.659484,
+    "Longitude": -117.998803
+  },
+  {
+    "Address": "California Imperial Beach",
+    "Latitude": 32.583944,
+    "Longitude": -117.113085
+  },
+  {
+    "Address": "California Irvine",
+    "Latitude": 33.684567,
+    "Longitude": -117.826505
+  },
+  {
+    "Address": "California Jurupa Valley",
+    "Latitude": 33.997197,
+    "Longitude": -117.48548
+  },
+  {
+    "Address": "California Laguna Beach",
+    "Latitude": 33.542719,
+    "Longitude": -117.785357
+  },
+  {
+    "Address": "California La Habra",
+    "Latitude": 33.931859,
+    "Longitude": -117.946137
+  },
+  {
+    "Address": "California Lake Elsinore",
+    "Latitude": 33.668077,
+    "Longitude": -117.327262
+  },
+  {
+    "Address": "California Lake Forest",
+    "Latitude": 33.646944,
+    "Longitude": -117.686102
+  },
+  {
+    "Address": "California Lakewood",
+    "Latitude": 33.853627,
+    "Longitude": -118.133956
+  },
+  {
+    "Address": "California La Mirada",
+    "Latitude": 33.917236,
+    "Longitude": -118.012009
+  },
+  {
+    "Address": "California Lancaster",
+    "Latitude": 34.686785,
+    "Longitude": -118.154163
+  },
+  {
+    "Address": "California La Quinta",
+    "Latitude": 33.663357,
+    "Longitude": -116.310009
+  },
+  {
+    "Address": "California Lemon Grove",
+    "Latitude": 32.742552,
+    "Longitude": -117.031417
+  },
+  {
+    "Address": "California Lemoore",
+    "Latitude": 36.300784,
+    "Longitude": -119.782911
+  },
+  {
+    "Address": "California Livermore",
+    "Latitude": 37.681875,
+    "Longitude": -121.768009
+  },
+  {
+    "Address": "California Lodi",
+    "Latitude": 38.134148,
+    "Longitude": -121.272219
+  },
+  {
+    "Address": "California Lomita",
+    "Latitude": 33.792239,
+    "Longitude": -118.315072
+  },
+  {
+    "Address": "California Long Beach",
+    "Latitude": 33.77005,
+    "Longitude": -118.193739
+  },
+  {
+    "Address": "California Los Alamitos",
+    "Latitude": 33.803201,
+    "Longitude": -118.071889
+  },
+  {
+    "Address": "California Los Angeles",
+    "Latitude": 34.052234,
+    "Longitude": -118.243685
+  },
+  {
+    "Address": "California Los Gatos",
+    "Latitude": 37.235808,
+    "Longitude": -121.962375
+  },
+  {
+    "Address": "California Lynwood",
+    "Latitude": 33.930293,
+    "Longitude": -118.21146
+  },
+  {
+    "Address": "California Malibu",
+    "Latitude": 34.025922,
+    "Longitude": -118.779757
+  },
+  {
+    "Address": "California Manhattan Beach",
+    "Latitude": 33.884736,
+    "Longitude": -118.410909
+  },
+  {
+    "Address": "California Manteca",
+    "Latitude": 37.797427,
+    "Longitude": -121.216053
+  },
+  {
+    "Address": "California Milpitas",
+    "Latitude": 37.432334,
+    "Longitude": -121.899574
+  },
+  {
+    "Address": "California Modesto",
+    "Latitude": 37.639097,
+    "Longitude": -120.996878
+  },
+  {
+    "Address": "California Montclair",
+    "Latitude": 34.07751,
+    "Longitude": -117.689778
+  },
+  {
+    "Address": "California Monterey",
+    "Latitude": 36.600238,
+    "Longitude": -121.894676
+  },
+  {
+    "Address": "California Moreno Valley",
+    "Latitude": 33.942466,
+    "Longitude": -117.229672
+  },
+  {
+    "Address": "California Morgan Hill",
+    "Latitude": 37.130501,
+    "Longitude": -121.65439
+  },
+  {
+    "Address": "California Murrieta3",
+    "Latitude": 33.553914,
+    "Longitude": -117.213923
+  },
+  {
+    "Address": "California National City",
+    "Latitude": 32.678109,
+    "Longitude": -117.099197
+  },
+  {
+    "Address": "California Newark",
+    "Latitude": 37.529659,
+    "Longitude": -122.04024
+  },
+  {
+    "Address": "California Newport Beach",
+    "Latitude": 33.618883,
+    "Longitude": -117.929849
+  },
+  {
+    "Address": "California Norwalk",
+    "Latitude": 33.902237,
+    "Longitude": -118.081733
+  },
+  {
+    "Address": "California Oakland",
+    "Latitude": 37.804364,
+    "Longitude": -122.271114
+  },
+  {
+    "Address": "California Oceanside",
+    "Latitude": 33.19587,
+    "Longitude": -117.379483
+  },
+  {
+    "Address": "California Ontario",
+    "Latitude": 34.063344,
+    "Longitude": -117.650888
+  },
+  {
+    "Address": "California Orange",
+    "Latitude": 33.787914,
+    "Longitude": -117.853101
+  },
+  {
+    "Address": "California Oroville",
+    "Latitude": 39.513775,
+    "Longitude": -121.556359
+  },
+  {
+    "Address": "California Oxnard",
+    "Latitude": 34.197505,
+    "Longitude": -119.177052
+  },
+  {
+    "Address": "California Pacifica",
+    "Latitude": 37.613825,
+    "Longitude": -122.486919
+  },
+  {
+    "Address": "California Pacific Grove",
+    "Latitude": 36.617737,
+    "Longitude": -121.916622
+  },
+  {
+    "Address": "California Palmdale",
+    "Latitude": 34.579434,
+    "Longitude": -118.116461
+  },
+  {
+    "Address": "California Palm Springs",
+    "Latitude": 33.830296,
+    "Longitude": -116.545292
+  },
+  {
+    "Address": "California Palo Alto",
+    "Latitude": 37.441883,
+    "Longitude": -122.143019
+  },
+  {
+    "Address": "California Paramount",
+    "Latitude": 33.88946,
+    "Longitude": -118.159791
+  },
+  {
+    "Address": "California Pasadena",
+    "Latitude": 34.147785,
+    "Longitude": -118.144516
+  },
+  {
+    "Address": "California Pico Rivera",
+    "Latitude": 33.983069,
+    "Longitude": -118.096735
+  },
+  {
+    "Address": "California Pinole",
+    "Latitude": 38.004367,
+    "Longitude": -122.298859
+  },
+  {
+    "Address": "California Placentia",
+    "Latitude": 33.871073,
+    "Longitude": -117.862755
+  },
+  {
+    "Address": "California Rancho Cordova",
+    "Latitude": 38.589072,
+    "Longitude": -121.302728
+  },
+  {
+    "Address": "California Rancho Palos Verdes",
+    "Latitude": 33.744461,
+    "Longitude": -118.387017
+  },
+  {
+    "Address": "California Red Bluff",
+    "Latitude": 40.178489,
+    "Longitude": -122.23583
+  },
+  {
+    "Address": "California Redding",
+    "Latitude": 40.58654,
+    "Longitude": -122.391675
+  },
+  {
+    "Address": "California Redlands",
+    "Latitude": 34.055569,
+    "Longitude": -117.182538
+  },
+  {
+    "Address": "California Redondo Beach",
+    "Latitude": 33.849182,
+    "Longitude": -118.388408
+  },
+  {
+    "Address": "California Redwood City",
+    "Latitude": 37.485215,
+    "Longitude": -122.236355
+  },
+  {
+    "Address": "California Richmond",
+    "Latitude": 37.935758,
+    "Longitude": -122.347749
+  },
+  {
+    "Address": "California Ridgecrest",
+    "Latitude": 35.622456,
+    "Longitude": -117.670897
+  },
+  {
+    "Address": "California Riverside",
+    "Latitude": 33.953349,
+    "Longitude": -117.396156
+  },
+  {
+    "Address": "California Rohnert Park",
+    "Latitude": 38.339637,
+    "Longitude": -122.701098
+  },
+  {
+    "Address": "California Rolling Hills Estates",
+    "Latitude": 33.787794,
+    "Longitude": -118.358128
+  },
+  {
+    "Address": "California Roseville",
+    "Latitude": 38.752124,
+    "Longitude": -121.288006
+  },
+  {
+    "Address": "California Sacramento",
+    "Latitude": 38.581572,
+    "Longitude": -121.4944
+  },
+  {
+    "Address": "California Salinas",
+    "Latitude": 36.677737,
+    "Longitude": -121.655501
+  },
+  {
+    "Address": "California San Bernardino",
+    "Latitude": 34.108345,
+    "Longitude": -117.289765
+  },
+  {
+    "Address": "California San Diego",
+    "Latitude": 32.715738,
+    "Longitude": -117.161084
+  },
+  {
+    "Address": "California San Dimas",
+    "Latitude": 34.106676,
+    "Longitude": -117.806726
+  },
+  {
+    "Address": "California San Francisco",
+    "Latitude": 37.77493,
+    "Longitude": -122.419416
+  },
+  {
+    "Address": "California San Jose",
+    "Latitude": 37.338208,
+    "Longitude": -121.886329
+  },
+  {
+    "Address": "California San Leandro",
+    "Latitude": 37.72493,
+    "Longitude": -122.156077
+  },
+  {
+    "Address": "California San Luis Obispo",
+    "Latitude": 35.282752,
+    "Longitude": -120.659616
+  },
+  {
+    "Address": "California San Mateo",
+    "Latitude": 37.562992,
+    "Longitude": -122.325525
+  },
+  {
+    "Address": "California Santa Ana",
+    "Latitude": 33.745473,
+    "Longitude": -117.867653
+  },
+  {
+    "Address": "California Santa Barbara",
+    "Latitude": 34.420831,
+    "Longitude": -119.69819
+  },
+  {
+    "Address": "California Santa Clara",
+    "Latitude": 37.354108,
+    "Longitude": -121.955236
+  },
+  {
+    "Address": "California Santa Clarita",
+    "Latitude": 34.391664,
+    "Longitude": -118.542586
+  },
+  {
+    "Address": "California Santa Cruz",
+    "Latitude": 36.974117,
+    "Longitude": -122.030796
+  },
+  {
+    "Address": "California Santa Maria",
+    "Latitude": 34.953034,
+    "Longitude": -120.435719
+  },
+  {
+    "Address": "California Santa Rosa",
+    "Latitude": 38.440429,
+    "Longitude": -122.714055
+  },
+  {
+    "Address": "California Santee",
+    "Latitude": 32.838383,
+    "Longitude": -116.973917
+  },
+  {
+    "Address": "California Saratoga",
+    "Latitude": 37.263832,
+    "Longitude": -122.023015
+  },
+  {
+    "Address": "California Simi Valley",
+    "Latitude": 34.269447,
+    "Longitude": -118.781482
+  },
+  {
+    "Address": "California Sonora",
+    "Latitude": 37.98295,
+    "Longitude": -120.382172
+  },
+  {
+    "Address": "California South Gate",
+    "Latitude": 33.954737,
+    "Longitude": -118.212016
+  },
+  {
+    "Address": "California South Lake Tahoe",
+    "Latitude": 38.939926,
+    "Longitude": -119.977187
+  },
+  {
+    "Address": "California Stanton",
+    "Latitude": 33.802888,
+    "Longitude": -117.99312
+  },
+  {
+    "Address": "California Stockton",
+    "Latitude": 37.957702,
+    "Longitude": -121.29078
+  },
+  {
+    "Address": "California Sunnyvale",
+    "Latitude": 37.36883,
+    "Longitude": -122.03635
+  },
+  {
+    "Address": "California Taft",
+    "Latitude": 35.142467,
+    "Longitude": -119.456508
+  },
+  {
+    "Address": "California Tehachapi",
+    "Latitude": 35.132188,
+    "Longitude": -118.448974
+  },
+  {
+    "Address": "California Temecula",
+    "Latitude": 33.493639,
+    "Longitude": -117.148365
+  },
+  {
+    "Address": "California Temple City",
+    "Latitude": 34.107231,
+    "Longitude": -118.057846
+  },
+  {
+    "Address": "California Thousand Oaks",
+    "Latitude": 34.170561,
+    "Longitude": -118.837594
+  },
+  {
+    "Address": "California Torrance",
+    "Latitude": 33.835849,
+    "Longitude": -118.340629
+  },
+  {
+    "Address": "California Tracy",
+    "Latitude": 37.739651,
+    "Longitude": -121.425223
+  },
+  {
+    "Address": "California Turlock",
+    "Latitude": 37.494657,
+    "Longitude": -120.846594
+  },
+  {
+    "Address": "California Union City",
+    "Latitude": 37.593392,
+    "Longitude": -122.04383
+  },
+  {
+    "Address": "California Vallejo",
+    "Latitude": 38.104086,
+    "Longitude": -122.256637
+  },
+  {
+    "Address": "California Ventura",
+    "Latitude": 34.274646,
+    "Longitude": -119.229032
+  },
+  {
+    "Address": "California Vernon",
+    "Latitude": 34.003903,
+    "Longitude": -118.230073
+  },
+  {
+    "Address": "California Victorville",
+    "Latitude": 34.536218,
+    "Longitude": -117.292764
+  },
+  {
+    "Address": "California Visalia",
+    "Latitude": 36.330228,
+    "Longitude": -119.292058
+  },
+  {
+    "Address": "California Vista",
+    "Latitude": 33.200037,
+    "Longitude": -117.242536
+  },
+  {
+    "Address": "California Walnut Creek",
+    "Latitude": 37.910078,
+    "Longitude": -122.065182
+  },
+  {
+    "Address": "California West Covina",
+    "Latitude": 34.068621,
+    "Longitude": -117.938953
+  },
+  {
+    "Address": "California West Hollywood",
+    "Latitude": 34.090009,
+    "Longitude": -118.361744
+  },
+  {
+    "Address": "California Westlake Village",
+    "Latitude": 34.146647,
+    "Longitude": -118.807373
+  },
+  {
+    "Address": "California Westminster",
+    "Latitude": 33.759176,
+    "Longitude": -117.989706
+  },
+  {
+    "Address": "California Yorba Linda",
+    "Latitude": 33.888504,
+    "Longitude": -117.813257
+  },
+  {
+    "Address": "California Yuba City",
+    "Latitude": 39.140448,
+    "Longitude": -121.616911
+  },
+  {
+    "Address": "California Yucca Valley",
+    "Latitude": 34.114174,
+    "Longitude": -116.432235
+  },
+  {
+    "Address": "California California State Polytechnic University: Pomona",
+    "Latitude": 34.057565,
+    "Longitude": -117.820741
+  },
+  {
+    "Address": "California California State Polytechnic University: San Luis Obispo",
+    "Latitude": 35.305005,
+    "Longitude": -120.662494
+  },
+  {
+    "Address": "California California State University: Dominguez Hills",
+    "Latitude": 33.863371,
+    "Longitude": -118.255281
+  },
+  {
+    "Address": "California California State University: Long Beach",
+    "Latitude": 33.783824,
+    "Longitude": -118.11409
+  },
+  {
+    "Address": "California California State University: San Bernardino",
+    "Latitude": 34.182179,
+    "Longitude": -117.323532
+  },
+  {
+    "Address": "California California State University: San Jose",
+    "Latitude": 37.335187,
+    "Longitude": -121.881072
+  },
+  {
+    "Address": "California California State University: San Marcos",
+    "Latitude": 33.129557,
+    "Longitude": -117.159945
+  },
+  {
+    "Address": "California California State University: Stanislaus",
+    "Latitude": 37.524571,
+    "Longitude": -120.856889
+  },
+  {
+    "Address": "California Humboldt State University",
+    "Latitude": 40.875275,
+    "Longitude": -124.077821
+  },
+  {
+    "Address": "California Marin Community College",
+    "Latitude": 37.955595,
+    "Longitude": -122.5496
+  },
+  {
+    "Address": "California University of California: Berkeley",
+    "Latitude": 37.871899,
+    "Longitude": -122.25854
+  },
+  {
+    "Address": "California University of California: Davis",
+    "Latitude": 38.538232,
+    "Longitude": -121.761712
+  },
+  {
+    "Address": "California University of California: Riverside",
+    "Latitude": 33.973706,
+    "Longitude": -117.328064
+  },
+  {
+    "Address": "California University of California: San Diego",
+    "Latitude": 32.88006,
+    "Longitude": -117.234013
+  },
+  {
+    "Address": "California University of California: Santa Cruz",
+    "Latitude": 36.991386,
+    "Longitude": -122.060872
+  },
+  {
+    "Address": "California El Dorado",
+    "Latitude": 38.742638,
+    "Longitude": -120.435763
+  },
+  {
+    "Address": "California Kern",
+    "Latitude": 35.493727,
+    "Longitude": -118.85968
+  },
+  {
+    "Address": "California Kings",
+    "Latitude": 36.098849,
+    "Longitude": -119.88152
+  },
+  {
+    "Address": "California Los Angeles",
+    "Latitude": 34.052234,
+    "Longitude": -118.243685
+  },
+  {
+    "Address": "California Orange",
+    "Latitude": 33.787914,
+    "Longitude": -117.853101
+  },
+  {
+    "Address": "California Riverside",
+    "Latitude": 33.953349,
+    "Longitude": -117.396156
+  },
+  {
+    "Address": "California Sacramento",
+    "Latitude": 38.581572,
+    "Longitude": -121.4944
+  },
+  {
+    "Address": "California San Bernardino",
+    "Latitude": 34.108345,
+    "Longitude": -117.289765
+  },
+  {
+    "Address": "California San Diego",
+    "Latitude": 32.715738,
+    "Longitude": -117.161084
+  },
+  {
+    "Address": "California San Luis Obispo",
+    "Latitude": 35.282752,
+    "Longitude": -120.659616
+  },
+  {
+    "Address": "California San Mateo",
+    "Latitude": 37.562992,
+    "Longitude": -122.325525
+  },
+  {
+    "Address": "California Santa Barbara",
+    "Latitude": 34.420831,
+    "Longitude": -119.69819
+  },
+  {
+    "Address": "California Santa Clara",
+    "Latitude": 37.354108,
+    "Longitude": -121.955236
+  },
+  {
+    "Address": "California Santa Cruz",
+    "Latitude": 36.974117,
+    "Longitude": -122.030796
+  },
+  {
+    "Address": "California Shasta",
+    "Latitude": 40.598119,
+    "Longitude": -122.490757
+  },
+  {
+    "Address": "California Sonoma",
+    "Latitude": 38.291859,
+    "Longitude": -122.458036
+  },
+  {
+    "Address": "California Ventura",
+    "Latitude": 34.274646,
+    "Longitude": -119.229032
+  },
+  {
+    "Address": "California Yuba",
+    "Latitude": 39.254703,
+    "Longitude": -121.399899
+  },
+  {
+    "Address": "California Alpine",
+    "Latitude": 32.835052,
+    "Longitude": -116.766411
+  },
+  {
+    "Address": "California Amador",
+    "Latitude": 38.348892,
+    "Longitude": -120.774093
+  },
+  {
+    "Address": "California Calaveras",
+    "Latitude": 38.196048,
+    "Longitude": -120.680504
+  },
+  {
+    "Address": "California Lake",
+    "Latitude": 39.083964,
+    "Longitude": -122.80845
+  },
+  {
+    "Address": "California Highway Patrol",
+    "Latitude": 35.045418,
+    "Longitude": -118.161159
+  },
+  {
+    "Address": "California Department of Parks and Recreation",
+    "Latitude": 38.706315,
+    "Longitude": -121.168846
+  },
+  {
+    "Address": "California Fontana Unified School District",
+    "Latitude": 34.077979,
+    "Longitude": -117.454399
+  },
+  {
+    "Address": "California Los Angeles Transportation Services Bureau",
+    "Latitude": 34.045379,
+    "Longitude": -118.451263
+  },
+  {
+    "Address": "California Port of San Diego Harbor",
+    "Latitude": 32.735316,
+    "Longitude": -117.177217
+  },
+  {
+    "Address": "California San Francisco Bay Area Rapid Transit: Alameda County",
+    "Latitude": 37.80875,
+    "Longitude": -122.263705
+  },
+  {
+    "Address": "California San Francisco Bay Area Rapid Transit: Contra Costa County",
+    "Latitude": 37.908579,
+    "Longitude": -122.303842
+  },
+  {
+    "Address": "California San Francisco Bay Area Rapid Transit: San Francisco County",
+    "Latitude": 37.615963,
+    "Longitude": -122.392415
+  },
+  {
+    "Address": "Colorado Arvada",
+    "Latitude": 39.802764,
+    "Longitude": -105.087484
+  },
+  {
+    "Address": "Colorado Aurora",
+    "Latitude": 39.729432,
+    "Longitude": -104.83192
+  },
+  {
+    "Address": "Colorado Castle Rock",
+    "Latitude": 39.372212,
+    "Longitude": -104.85609
+  },
+  {
+    "Address": "Colorado Centennial",
+    "Latitude": 39.580745,
+    "Longitude": -104.877173
+  },
+  {
+    "Address": "Colorado Colorado Springs",
+    "Latitude": 38.833882,
+    "Longitude": -104.821363
+  },
+  {
+    "Address": "Colorado Commerce City",
+    "Latitude": 39.80832,
+    "Longitude": -104.933868
+  },
+  {
+    "Address": "Colorado Denver",
+    "Latitude": 39.739236,
+    "Longitude": -104.990251
+  },
+  {
+    "Address": "Colorado Dillon",
+    "Latitude": 39.630264,
+    "Longitude": -106.043352
+  },
+  {
+    "Address": "Colorado Durango",
+    "Latitude": 37.27528,
+    "Longitude": -107.880067
+  },
+  {
+    "Address": "Colorado Englewood",
+    "Latitude": 39.647765,
+    "Longitude": -104.98776
+  },
+  {
+    "Address": "Colorado Erie",
+    "Latitude": 40.050262,
+    "Longitude": -105.049982
+  },
+  {
+    "Address": "Colorado Fountain",
+    "Latitude": 38.682219,
+    "Longitude": -104.700806
+  },
+  {
+    "Address": "Colorado Glendale",
+    "Latitude": 39.704987,
+    "Longitude": -104.93359
+  },
+  {
+    "Address": "Colorado Glenwood Springs",
+    "Latitude": 39.550538,
+    "Longitude": -107.324776
+  },
+  {
+    "Address": "Colorado Golden",
+    "Latitude": 39.755543,
+    "Longitude": -105.2211
+  },
+  {
+    "Address": "Colorado Grand Junction",
+    "Latitude": 39.063871,
+    "Longitude": -108.550649
+  },
+  {
+    "Address": "Colorado Greeley",
+    "Latitude": 40.423314,
+    "Longitude": -104.709132
+  },
+  {
+    "Address": "Colorado Greenwood Village",
+    "Latitude": 39.61721,
+    "Longitude": -104.950814
+  },
+  {
+    "Address": "Colorado Lafayette",
+    "Latitude": 39.993596,
+    "Longitude": -105.089706
+  },
+  {
+    "Address": "Colorado Lakewood",
+    "Latitude": 39.70471,
+    "Longitude": -105.081373
+  },
+  {
+    "Address": "Colorado Littleton",
+    "Latitude": 39.613321,
+    "Longitude": -105.01665
+  },
+  {
+    "Address": "Colorado Lone Tree",
+    "Latitude": 39.536482,
+    "Longitude": -104.897068
+  },
+  {
+    "Address": "Colorado Longmont",
+    "Latitude": 40.167207,
+    "Longitude": -105.101927
+  },
+  {
+    "Address": "Colorado Loveland",
+    "Latitude": 40.397761,
+    "Longitude": -105.07498
+  },
+  {
+    "Address": "Colorado Monument",
+    "Latitude": 39.057522,
+    "Longitude": -108.6939
+  },
+  {
+    "Address": "Colorado Pueblo",
+    "Latitude": 38.254447,
+    "Longitude": -104.609141
+  },
+  {
+    "Address": "Colorado Rifle",
+    "Latitude": 39.534702,
+    "Longitude": -107.78312
+  },
+  {
+    "Address": "Colorado Snowmass Village",
+    "Latitude": 39.213042,
+    "Longitude": -106.937821
+  },
+  {
+    "Address": "Colorado Steamboat Springs",
+    "Latitude": 40.484977,
+    "Longitude": -106.831716
+  },
+  {
+    "Address": "Colorado Telluride",
+    "Latitude": 37.937494,
+    "Longitude": -107.812285
+  },
+  {
+    "Address": "Colorado Thornton",
+    "Latitude": 39.868041,
+    "Longitude": -104.971924
+  },
+  {
+    "Address": "Colorado Westminster",
+    "Latitude": 39.836653,
+    "Longitude": -105.037205
+  },
+  {
+    "Address": "Colorado Colorado State University",
+    "Latitude": 40.573436,
+    "Longitude": -105.086547
+  },
+  {
+    "Address": "Colorado University of Colorado",
+    "Latitude": 40.007581,
+    "Longitude": -105.265942
+  },
+  {
+    "Address": "Colorado Adams",
+    "Latitude": 39.839827,
+    "Longitude": -104.193092
+  },
+  {
+    "Address": "Colorado Arapahoe",
+    "Latitude": 39.62031,
+    "Longitude": -104.332644
+  },
+  {
+    "Address": "Colorado El Paso",
+    "Latitude": 38.910833,
+    "Longitude": -104.47233
+  },
+  {
+    "Address": "Colorado Larimer",
+    "Latitude": 40.695557,
+    "Longitude": -105.594339
+  },
+  {
+    "Address": "Colorado Mesa",
+    "Latitude": 39.080859,
+    "Longitude": -108.554337
+  },
+  {
+    "Address": "Colorado Park",
+    "Latitude": 39.089793,
+    "Longitude": -105.594339
+  },
+  {
+    "Address": "Colorado Pueblo",
+    "Latitude": 38.254447,
+    "Longitude": -104.609141
+  },
+  {
+    "Address": "Colorado Weld",
+    "Latitude": 40.392072,
+    "Longitude": -104.715823
+  },
+  {
+    "Address": "Colorado Cheyenne",
+    "Latitude": 38.800256,
+    "Longitude": -102.621621
+  },
+  {
+    "Address": "Colorado Garfield",
+    "Latitude": 39.658478,
+    "Longitude": -107.763621
+  },
+  {
+    "Address": "Colorado Logan",
+    "Latitude": 40.705618,
+    "Longitude": -102.989615
+  },
+  {
+    "Address": "Colorado Montezuma",
+    "Latitude": 39.581098,
+    "Longitude": -105.867234
+  },
+  {
+    "Address": "Colorado Pitkin",
+    "Latitude": 38.609161,
+    "Longitude": -106.516696
+  },
+  {
+    "Address": "Colorado Colorado State Patrol",
+    "Latitude": 39.842516,
+    "Longitude": -104.923352
+  },
+  {
+    "Address": "Connecticut Bethel",
+    "Latitude": 41.371228,
+    "Longitude": -73.413962
+  },
+  {
+    "Address": "Connecticut Bridgeport",
+    "Latitude": 41.186548,
+    "Longitude": -73.195177
+  },
+  {
+    "Address": "Connecticut Canton",
+    "Latitude": 41.824757,
+    "Longitude": -72.895618
+  },
+  {
+    "Address": "Connecticut Danbury",
+    "Latitude": 41.394817,
+    "Longitude": -73.454011
+  },
+  {
+    "Address": "Connecticut Derby",
+    "Latitude": 41.320652,
+    "Longitude": -73.088997
+  },
+  {
+    "Address": "Connecticut East Hampton",
+    "Latitude": 41.575775,
+    "Longitude": -72.502625
+  },
+  {
+    "Address": "Connecticut East Hartford",
+    "Latitude": 41.763422,
+    "Longitude": -72.612834
+  },
+  {
+    "Address": "Connecticut East Windsor",
+    "Latitude": 41.916136,
+    "Longitude": -72.55788
+  },
+  {
+    "Address": "Connecticut Enfield",
+    "Latitude": 42.002718,
+    "Longitude": -72.544145
+  },
+  {
+    "Address": "Connecticut Glastonbury",
+    "Latitude": 41.686179,
+    "Longitude": -72.545078
+  },
+  {
+    "Address": "Connecticut Groton",
+    "Latitude": 41.349746,
+    "Longitude": -72.079072
+  },
+  {
+    "Address": "Connecticut Groton Town",
+    "Latitude": 41.349746,
+    "Longitude": -72.079072
+  },
+  {
+    "Address": "Connecticut Guilford",
+    "Latitude": 41.288906,
+    "Longitude": -72.674364
+  },
+  {
+    "Address": "Connecticut Hamden",
+    "Latitude": 41.383878,
+    "Longitude": -72.902606
+  },
+  {
+    "Address": "Connecticut Hartford",
+    "Latitude": 41.763711,
+    "Longitude": -72.685093
+  },
+  {
+    "Address": "Connecticut Manchester",
+    "Latitude": 41.77593,
+    "Longitude": -72.521501
+  },
+  {
+    "Address": "Connecticut Meriden",
+    "Latitude": 41.538154,
+    "Longitude": -72.807043
+  },
+  {
+    "Address": "Connecticut Middletown",
+    "Latitude": 41.562321,
+    "Longitude": -72.650649
+  },
+  {
+    "Address": "Connecticut Milford",
+    "Latitude": 41.230698,
+    "Longitude": -73.064036
+  },
+  {
+    "Address": "Connecticut New Britain",
+    "Latitude": 41.66121,
+    "Longitude": -72.779542
+  },
+  {
+    "Address": "Connecticut New Haven",
+    "Latitude": 41.308274,
+    "Longitude": -72.927883
+  },
+  {
+    "Address": "Connecticut Newington",
+    "Latitude": 41.6973,
+    "Longitude": -72.722829
+  },
+  {
+    "Address": "Connecticut New London",
+    "Latitude": 41.355654,
+    "Longitude": -72.099521
+  },
+  {
+    "Address": "Connecticut New Milford",
+    "Latitude": 41.577043,
+    "Longitude": -73.408546
+  },
+  {
+    "Address": "Connecticut North Branford",
+    "Latitude": 41.327597,
+    "Longitude": -72.76732
+  },
+  {
+    "Address": "Connecticut Norwalk",
+    "Latitude": 41.117744,
+    "Longitude": -73.408158
+  },
+  {
+    "Address": "Connecticut Norwich",
+    "Latitude": 41.524265,
+    "Longitude": -72.07591
+  },
+  {
+    "Address": "Connecticut Old Saybrook",
+    "Latitude": 41.296016,
+    "Longitude": -72.38453
+  },
+  {
+    "Address": "Connecticut Plainville",
+    "Latitude": 41.675746,
+    "Longitude": -72.863363
+  },
+  {
+    "Address": "Connecticut Plymouth",
+    "Latitude": 41.672042,
+    "Longitude": -73.052885
+  },
+  {
+    "Address": "Connecticut Southington",
+    "Latitude": 41.596487,
+    "Longitude": -72.877601
+  },
+  {
+    "Address": "Connecticut South Windsor",
+    "Latitude": 41.848987,
+    "Longitude": -72.571755
+  },
+  {
+    "Address": "Connecticut Stamford",
+    "Latitude": 41.05343,
+    "Longitude": -73.538734
+  },
+  {
+    "Address": "Connecticut Stratford",
+    "Latitude": 41.184541,
+    "Longitude": -73.133165
+  },
+  {
+    "Address": "Connecticut Suffield",
+    "Latitude": 41.991506,
+    "Longitude": -72.701774
+  },
+  {
+    "Address": "Connecticut Torrington",
+    "Latitude": 41.800305,
+    "Longitude": -73.121171
+  },
+  {
+    "Address": "Connecticut Wallingford",
+    "Latitude": 41.457011,
+    "Longitude": -72.823074
+  },
+  {
+    "Address": "Connecticut Waterbury",
+    "Latitude": 41.558153,
+    "Longitude": -73.051496
+  },
+  {
+    "Address": "Connecticut West Haven",
+    "Latitude": 41.270548,
+    "Longitude": -72.946971
+  },
+  {
+    "Address": "Connecticut Willimantic",
+    "Latitude": 41.710654,
+    "Longitude": -72.208134
+  },
+  {
+    "Address": "Connecticut Winchester",
+    "Latitude": 41.935763,
+    "Longitude": -73.111356
+  },
+  {
+    "Address": "Connecticut Windsor Locks",
+    "Latitude": 41.924292,
+    "Longitude": -72.645447
+  },
+  {
+    "Address": "Connecticut Wolcott",
+    "Latitude": 41.60232,
+    "Longitude": -72.986772
+  },
+  {
+    "Address": "Connecticut Central Connecticut State University",
+    "Latitude": 41.693255,
+    "Longitude": -72.764167
+  },
+  {
+    "Address": "Connecticut Southern Connecticut State University",
+    "Latitude": 41.332566,
+    "Longitude": -72.947462
+  },
+  {
+    "Address": "Connecticut University of Connecticut, Storrs, Avery Point",
+    "Latitude": 41.807741,
+    "Longitude": -72.253981
+  },
+  {
+    "Address": "Connecticut Yale University",
+    "Latitude": 41.316324,
+    "Longitude": -72.922343
+  },
+  {
+    "Address": "Connecticut Connecticut State Police",
+    "Latitude": 41.569198,
+    "Longitude": -72.727545
+  },
+  {
+    "Address": "DC Washington",
+    "Latitude": 38.907192,
+    "Longitude": -77.036871
+  },
+  {
+    "Address": "DC Metro Transit Police",
+    "Latitude": 38.897846,
+    "Longitude": -77.019469
+  },
+  {
+    "Address": "Delaware Dover",
+    "Latitude": 39.158168,
+    "Longitude": -75.524368
+  },
+  {
+    "Address": "Delaware Milford",
+    "Latitude": 38.912613,
+    "Longitude": -75.427975
+  },
+  {
+    "Address": "Delaware Milton",
+    "Latitude": 38.777612,
+    "Longitude": -75.309914
+  },
+  {
+    "Address": "Delaware New Castle",
+    "Latitude": 39.66204,
+    "Longitude": -75.566817
+  },
+  {
+    "Address": "Delaware Seaford",
+    "Latitude": 38.641226,
+    "Longitude": -75.611038
+  },
+  {
+    "Address": "Delaware Smyrna",
+    "Latitude": 39.299834,
+    "Longitude": -75.604649
+  },
+  {
+    "Address": "Delaware Delaware State University",
+    "Latitude": 39.186137,
+    "Longitude": -75.542273
+  },
+  {
+    "Address": "Delaware New Castle County Police Department",
+    "Latitude": 39.709519,
+    "Longitude": -75.566975
+  },
+  {
+    "Address": "Delaware State Police: Kent County",
+    "Latitude": 39.091335,
+    "Longitude": -75.497715
+  },
+  {
+    "Address": "Delaware State Police: New Castle County",
+    "Latitude": 39.60608,
+    "Longitude": -75.728417
+  },
+  {
+    "Address": "Delaware State Police: Sussex County",
+    "Latitude": 38.719969,
+    "Longitude": -75.588886
+  },
+  {
+    "Address": "Florida Delray Beach",
+    "Latitude": 26.461463,
+    "Longitude": -80.07282
+  },
+  {
+    "Address": "Florida Gainesville",
+    "Latitude": 29.651634,
+    "Longitude": -82.324826
+  },
+  {
+    "Address": "Florida Hallandale",
+    "Latitude": 25.981202,
+    "Longitude": -80.148379
+  },
+  {
+    "Address": "Florida Homestead",
+    "Latitude": 25.468722,
+    "Longitude": -80.477557
+  },
+  {
+    "Address": "Florida Jacksonville",
+    "Latitude": 30.332184,
+    "Longitude": -81.655651
+  },
+  {
+    "Address": "Florida Jupiter",
+    "Latitude": 26.934225,
+    "Longitude": -80.094209
+  },
+  {
+    "Address": "Florida Lake Alfred",
+    "Latitude": 28.091963,
+    "Longitude": -81.723411
+  },
+  {
+    "Address": "Florida Largo",
+    "Latitude": 27.909467,
+    "Longitude": -82.787324
+  },
+  {
+    "Address": "Florida Melbourne",
+    "Latitude": 28.083627,
+    "Longitude": -80.608109
+  },
+  {
+    "Address": "Florida Miramar",
+    "Latitude": 25.986076,
+    "Longitude": -80.30356
+  },
+  {
+    "Address": "Florida North Miami",
+    "Latitude": 25.890095,
+    "Longitude": -80.186714
+  },
+  {
+    "Address": "Florida North Miami Beach",
+    "Latitude": 25.933149,
+    "Longitude": -80.162546
+  },
+  {
+    "Address": "Florida North Port",
+    "Latitude": 27.044224,
+    "Longitude": -82.235925
+  },
+  {
+    "Address": "Florida Orlando",
+    "Latitude": 28.538336,
+    "Longitude": -81.379236
+  },
+  {
+    "Address": "Florida Palm Bay",
+    "Latitude": 28.034462,
+    "Longitude": -80.588665
+  },
+  {
+    "Address": "Florida Panama City",
+    "Latitude": 30.158813,
+    "Longitude": -85.660206
+  },
+  {
+    "Address": "Florida Pembroke Pines",
+    "Latitude": 26.007765,
+    "Longitude": -80.296256
+  },
+  {
+    "Address": "Florida Pensacola",
+    "Latitude": 30.421309,
+    "Longitude": -87.216915
+  },
+  {
+    "Address": "Florida Pompano Beach",
+    "Latitude": 26.23786,
+    "Longitude": -80.124767
+  },
+  {
+    "Address": "Florida Port St. Lucie",
+    "Latitude": 27.273049,
+    "Longitude": -80.358226
+  },
+  {
+    "Address": "Florida Sanford",
+    "Latitude": 28.802861,
+    "Longitude": -81.269453
+  },
+  {
+    "Address": "Florida St. Petersburg",
+    "Latitude": 27.751828,
+    "Longitude": -82.626734
+  },
+  {
+    "Address": "Florida Sunrise",
+    "Latitude": 26.166971,
+    "Longitude": -80.256595
+  },
+  {
+    "Address": "Florida Tallahassee",
+    "Latitude": 30.438256,
+    "Longitude": -84.280733
+  },
+  {
+    "Address": "Florida Venice",
+    "Latitude": 27.099778,
+    "Longitude": -82.454263
+  },
+  {
+    "Address": "Florida Weston",
+    "Latitude": 26.100365,
+    "Longitude": -80.399775
+  },
+  {
+    "Address": "Florida Alachua",
+    "Latitude": 29.793814,
+    "Longitude": -82.494423
+  },
+  {
+    "Address": "Florida Brevard",
+    "Latitude": 28.263933,
+    "Longitude": -80.721442
+  },
+  {
+    "Address": "Florida Charlotte",
+    "Latitude": 26.894601,
+    "Longitude": -81.909826
+  },
+  {
+    "Address": "Florida Clay",
+    "Latitude": 29.994356,
+    "Longitude": -81.778702
+  },
+  {
+    "Address": "Florida Collier",
+    "Latitude": 26.069985,
+    "Longitude": -81.427898
+  },
+  {
+    "Address": "Florida Flagler",
+    "Latitude": 29.408607,
+    "Longitude": -81.251883
+  },
+  {
+    "Address": "Florida Hillsborough",
+    "Latitude": 27.99036,
+    "Longitude": -82.301773
+  },
+  {
+    "Address": "Florida Lake",
+    "Latitude": 26.968954,
+    "Longitude": -80.797583
+  },
+  {
+    "Address": "Florida Manatee",
+    "Latitude": 27.47992,
+    "Longitude": -82.345189
+  },
+  {
+    "Address": "Florida Orange",
+    "Latitude": 28.4845,
+    "Longitude": -81.251883
+  },
+  {
+    "Address": "Florida Osceola",
+    "Latitude": 28.101984,
+    "Longitude": -81.075466
+  },
+  {
+    "Address": "Florida Palm Beach",
+    "Latitude": 26.705621,
+    "Longitude": -80.03643
+  },
+  {
+    "Address": "Florida Pasco",
+    "Latitude": 28.323242,
+    "Longitude": -82.43194
+  },
+  {
+    "Address": "Florida Santa Rosa",
+    "Latitude": 30.768991,
+    "Longitude": -86.982429
+  },
+  {
+    "Address": "Florida Volusia",
+    "Latitude": 29.027984,
+    "Longitude": -81.075466
+  },
+  {
+    "Address": "Georgia Atlanta",
+    "Latitude": 33.748995,
+    "Longitude": -84.387982
+  },
+  {
+    "Address": "Georgia Conyers",
+    "Latitude": 33.66761,
+    "Longitude": -84.01769
+  },
+  {
+    "Address": "Georgia Villa Rica",
+    "Latitude": 33.732052,
+    "Longitude": -84.919108
+  },
+  {
+    "Address": "Georgia Kennesaw State University",
+    "Latitude": 34.038078,
+    "Longitude": -84.581572
+  },
+  {
+    "Address": "Georgia University of Georgia",
+    "Latitude": 33.948005,
+    "Longitude": -83.377322
+  },
+  {
+    "Address": "Georgia Cobb County Police Department",
+    "Latitude": 33.955029,
+    "Longitude": -84.545168
+  },
+  {
+    "Address": "Georgia Henry County Police Department",
+    "Latitude": 33.443899,
+    "Longitude": -84.13722
+  },
+  {
+    "Address": "Idaho Boise",
+    "Latitude": 43.61871,
+    "Longitude": -116.214607
+  },
+  {
+    "Address": "Idaho Caldwell",
+    "Latitude": 43.662938,
+    "Longitude": -116.68736
+  },
+  {
+    "Address": "Idaho Chubbuck",
+    "Latitude": 42.920748,
+    "Longitude": -112.466091
+  },
+  {
+    "Address": "Idaho Coeur d'Alene",
+    "Latitude": 47.677683,
+    "Longitude": -116.780466
+  },
+  {
+    "Address": "Idaho Hailey",
+    "Latitude": 43.519629,
+    "Longitude": -114.315324
+  },
+  {
+    "Address": "Idaho Montpelier",
+    "Latitude": 42.32215,
+    "Longitude": -111.297704
+  },
+  {
+    "Address": "Idaho Nampa",
+    "Latitude": 43.540717,
+    "Longitude": -116.563463
+  },
+  {
+    "Address": "Idaho Payette",
+    "Latitude": 44.07822,
+    "Longitude": -116.933771
+  },
+  {
+    "Address": "Idaho Twin Falls",
+    "Latitude": 42.562967,
+    "Longitude": -114.460871
+  },
+  {
+    "Address": "Idaho Ada",
+    "Latitude": 43.478767,
+    "Longitude": -116.24203
+  },
+  {
+    "Address": "Idaho Cassia",
+    "Latitude": 42.358036,
+    "Longitude": -113.57285
+  },
+  {
+    "Address": "Idaho Shoshone",
+    "Latitude": 42.936017,
+    "Longitude": -114.405875
+  },
+  {
+    "Address": "Illinois Aurora",
+    "Latitude": 41.760585,
+    "Longitude": -88.320072
+  },
+  {
+    "Address": "Illinois Bartlett",
+    "Latitude": 41.995028,
+    "Longitude": -88.18563
+  },
+  {
+    "Address": "Illinois Berwyn",
+    "Latitude": 41.850587,
+    "Longitude": -87.793668
+  },
+  {
+    "Address": "Illinois Carol Stream",
+    "Latitude": 41.912529,
+    "Longitude": -88.134793
+  },
+  {
+    "Address": "Illinois Champaign",
+    "Latitude": 40.11642,
+    "Longitude": -88.243383
+  },
+  {
+    "Address": "Illinois Chester",
+    "Latitude": 37.913663,
+    "Longitude": -89.82205
+  },
+  {
+    "Address": "Illinois Chicago",
+    "Latitude": 41.878114,
+    "Longitude": -87.629798
+  },
+  {
+    "Address": "Illinois Crystal Lake",
+    "Latitude": 42.241134,
+    "Longitude": -88.316196
+  },
+  {
+    "Address": "Illinois De Kalb",
+    "Latitude": 41.929474,
+    "Longitude": -88.750365
+  },
+  {
+    "Address": "Illinois Dixon",
+    "Latitude": 41.838921,
+    "Longitude": -89.479548
+  },
+  {
+    "Address": "Illinois Harvey",
+    "Latitude": 41.610034,
+    "Longitude": -87.646713
+  },
+  {
+    "Address": "Illinois Irving",
+    "Latitude": 39.20588,
+    "Longitude": -89.40453
+  },
+  {
+    "Address": "Illinois La Grange",
+    "Latitude": 41.805031,
+    "Longitude": -87.869225
+  },
+  {
+    "Address": "Illinois Mokena",
+    "Latitude": 41.526144,
+    "Longitude": -87.889219
+  },
+  {
+    "Address": "Illinois Moline",
+    "Latitude": 41.5067,
+    "Longitude": -90.515134
+  },
+  {
+    "Address": "Illinois Morton",
+    "Latitude": 40.612816,
+    "Longitude": -89.459261
+  },
+  {
+    "Address": "Illinois Normal",
+    "Latitude": 40.514203,
+    "Longitude": -88.990631
+  },
+  {
+    "Address": "Illinois Pekin",
+    "Latitude": 40.567539,
+    "Longitude": -89.640658
+  },
+  {
+    "Address": "Illinois Peoria",
+    "Latitude": 40.693649,
+    "Longitude": -89.588986
+  },
+  {
+    "Address": "Illinois Quincy",
+    "Latitude": 39.935602,
+    "Longitude": -91.409873
+  },
+  {
+    "Address": "Illinois Rockford",
+    "Latitude": 42.271131,
+    "Longitude": -89.093995
+  },
+  {
+    "Address": "Illinois Roscoe",
+    "Latitude": 42.413351,
+    "Longitude": -89.009274
+  },
+  {
+    "Address": "Illinois Skokie",
+    "Latitude": 42.032403,
+    "Longitude": -87.741625
+  },
+  {
+    "Address": "Illinois Springfield",
+    "Latitude": 39.781721,
+    "Longitude": -89.650148
+  },
+  {
+    "Address": "Illinois St. Charles",
+    "Latitude": 41.914195,
+    "Longitude": -88.308687
+  },
+  {
+    "Address": "Illinois Sterling",
+    "Latitude": 41.788642,
+    "Longitude": -89.696219
+  },
+  {
+    "Address": "Illinois Urbana",
+    "Latitude": 40.110588,
+    "Longitude": -88.20727
+  },
+  {
+    "Address": "Illinois Northwestern University",
+    "Latitude": 42.056459,
+    "Longitude": -87.675267
+  },
+  {
+    "Address": "Illinois University of Illinois",
+    "Latitude": 40.101952,
+    "Longitude": -88.227161
+  },
+  {
+    "Address": "Illinois Cook",
+    "Latitude": 41.737659,
+    "Longitude": -87.697554
+  },
+  {
+    "Address": "Illinois Jackson",
+    "Latitude": 37.72183,
+    "Longitude": -89.322695
+  },
+  {
+    "Address": "Illinois Lake",
+    "Latitude": 42.368936,
+    "Longitude": -87.827153
+  },
+  {
+    "Address": "Illinois McLean",
+    "Latitude": 40.547843,
+    "Longitude": -88.864698
+  },
+  {
+    "Address": "Illinois Peoria",
+    "Latitude": 40.693649,
+    "Longitude": -89.588986
+  },
+  {
+    "Address": "Illinois Sangamon",
+    "Latitude": 39.733735,
+    "Longitude": -89.625165
+  },
+  {
+    "Address": "Illinois Will",
+    "Latitude": 41.505472,
+    "Longitude": -88.090076
+  },
+  {
+    "Address": "Illinois Cumberland",
+    "Latitude": 39.265353,
+    "Longitude": -88.20716
+  },
+  {
+    "Address": "Illinois Douglas",
+    "Latitude": 39.761763,
+    "Longitude": -88.20716
+  },
+  {
+    "Address": "Indiana Bloomington",
+    "Latitude": 39.165325,
+    "Longitude": -86.526386
+  },
+  {
+    "Address": "Indiana Fort Wayne",
+    "Latitude": 41.079273,
+    "Longitude": -85.139351
+  },
+  {
+    "Address": "Indiana Franklin",
+    "Latitude": 39.480606,
+    "Longitude": -86.054986
+  },
+  {
+    "Address": "Indiana Goshen",
+    "Latitude": 41.582272,
+    "Longitude": -85.834438
+  },
+  {
+    "Address": "Indiana Indianapolis",
+    "Latitude": 39.768403,
+    "Longitude": -86.158068
+  },
+  {
+    "Address": "Indiana Mishawaka",
+    "Latitude": 41.661993,
+    "Longitude": -86.158616
+  },
+  {
+    "Address": "Indiana South Bend",
+    "Latitude": 41.676355,
+    "Longitude": -86.25199
+  },
+  {
+    "Address": "Indiana Ball State University",
+    "Latitude": 40.206103,
+    "Longitude": -85.406986
+  },
+  {
+    "Address": "Indiana Purdue University",
+    "Latitude": 40.423705,
+    "Longitude": -86.921195
+  },
+  {
+    "Address": "Indiana Elkhart",
+    "Latitude": 41.681994,
+    "Longitude": -85.976667
+  },
+  {
+    "Address": "Indiana State Police: Henry County",
+    "Latitude": 39.568418,
+    "Longitude": -86.887807
+  },
+  {
+    "Address": "Indiana State Police: Knox County",
+    "Latitude": 39.568418,
+    "Longitude": -86.887807
+  },
+  {
+    "Address": "Indiana State Police: Lake County",
+    "Latitude": 39.568418,
+    "Longitude": -86.887807
+  },
+  {
+    "Address": "Indiana State Police: Monroe County",
+    "Latitude": 39.18103,
+    "Longitude": -86.560628
+  },
+  {
+    "Address": "Indiana State Police: Perry County",
+    "Latitude": 39.568418,
+    "Longitude": -86.887807
+  },
+  {
+    "Address": "Iowa Altoona",
+    "Latitude": 41.643551,
+    "Longitude": -93.475084
+  },
+  {
+    "Address": "Iowa Ames",
+    "Latitude": 42.030781,
+    "Longitude": -93.631913
+  },
+  {
+    "Address": "Iowa Grinnell",
+    "Latitude": 41.743409,
+    "Longitude": -92.723246
+  },
+  {
+    "Address": "Iowa Indianola",
+    "Latitude": 41.358048,
+    "Longitude": -93.557438
+  },
+  {
+    "Address": "Iowa Waterloo",
+    "Latitude": 42.492786,
+    "Longitude": -92.342577
+  },
+  {
+    "Address": "Iowa Iowa State University",
+    "Latitude": 42.026619,
+    "Longitude": -93.646465
+  },
+  {
+    "Address": "Iowa Mills",
+    "Latitude": 41.06245,
+    "Longitude": -95.645795
+  },
+  {
+    "Address": "Iowa Scott",
+    "Latitude": 41.63932,
+    "Longitude": -90.63937
+  },
+  {
+    "Address": "Iowa Ida",
+    "Latitude": 42.341869,
+    "Longitude": -95.477781
+  },
+  {
+    "Address": "Kansas Andover",
+    "Latitude": 37.713904,
+    "Longitude": -97.136429
+  },
+  {
+    "Address": "Kansas Arkansas City",
+    "Latitude": 37.061974,
+    "Longitude": -97.038371
+  },
+  {
+    "Address": "Kansas Belleville",
+    "Latitude": 39.82445,
+    "Longitude": -97.632541
+  },
+  {
+    "Address": "Kansas Cheney",
+    "Latitude": 37.630015,
+    "Longitude": -97.782551
+  },
+  {
+    "Address": "Kansas Dodge City",
+    "Latitude": 37.752798,
+    "Longitude": -100.017079
+  },
+  {
+    "Address": "Kansas Gardner",
+    "Latitude": 38.810841,
+    "Longitude": -94.927187
+  },
+  {
+    "Address": "Kansas Hays",
+    "Latitude": 38.879178,
+    "Longitude": -99.32677
+  },
+  {
+    "Address": "Kansas Hutchinson",
+    "Latitude": 38.060845,
+    "Longitude": -97.929774
+  },
+  {
+    "Address": "Kansas Iola",
+    "Latitude": 37.92448,
+    "Longitude": -95.399981
+  },
+  {
+    "Address": "Kansas Lansing",
+    "Latitude": 39.248613,
+    "Longitude": -94.900241
+  },
+  {
+    "Address": "Kansas Larned",
+    "Latitude": 38.180569,
+    "Longitude": -99.098713
+  },
+  {
+    "Address": "Kansas Lawrence",
+    "Latitude": 38.971669,
+    "Longitude": -95.23525
+  },
+  {
+    "Address": "Kansas Leavenworth",
+    "Latitude": 39.311111,
+    "Longitude": -94.922464
+  },
+  {
+    "Address": "Kansas Lenexa",
+    "Latitude": 38.953617,
+    "Longitude": -94.733571
+  },
+  {
+    "Address": "Kansas Louisburg",
+    "Latitude": 38.619456,
+    "Longitude": -94.68079
+  },
+  {
+    "Address": "Kansas McPherson",
+    "Latitude": 38.370842,
+    "Longitude": -97.664209
+  },
+  {
+    "Address": "Kansas Mulvane",
+    "Latitude": 37.474464,
+    "Longitude": -97.243933
+  },
+  {
+    "Address": "Kansas Parsons",
+    "Latitude": 37.340338,
+    "Longitude": -95.261084
+  },
+  {
+    "Address": "Kansas Pittsburg",
+    "Latitude": 37.410884,
+    "Longitude": -94.70496
+  },
+  {
+    "Address": "Kansas Pratt",
+    "Latitude": 37.643907,
+    "Longitude": -98.737591
+  },
+  {
+    "Address": "Kansas Protection",
+    "Latitude": 37.201415,
+    "Longitude": -99.484007
+  },
+  {
+    "Address": "Kansas Wichita",
+    "Latitude": 37.687176,
+    "Longitude": -97.330053
+  },
+  {
+    "Address": "Kansas Douglas",
+    "Latitude": 38.910784,
+    "Longitude": -95.268444
+  },
+  {
+    "Address": "Kansas Leavenworth",
+    "Latitude": 39.311111,
+    "Longitude": -94.922464
+  },
+  {
+    "Address": "Kansas Riley County Police Department",
+    "Latitude": 39.170365,
+    "Longitude": -96.602359
+  },
+  {
+    "Address": "Kansas Shawnee",
+    "Latitude": 39.022848,
+    "Longitude": -94.715187
+  },
+  {
+    "Address": "Kansas Wyandotte",
+    "Latitude": 39.098681,
+    "Longitude": -94.769159
+  },
+  {
+    "Address": "Kansas Ellis",
+    "Latitude": 38.938066,
+    "Longitude": -99.560667
+  },
+  {
+    "Address": "Kansas Greenwood",
+    "Latitude": 37.902591,
+    "Longitude": -96.152699
+  },
+  {
+    "Address": "Kansas Marshall",
+    "Latitude": 39.10366,
+    "Longitude": -94.577803
+  },
+  {
+    "Address": "Kentucky Ashland",
+    "Latitude": 38.478414,
+    "Longitude": -82.637939
+  },
+  {
+    "Address": "Kentucky Bellevue",
+    "Latitude": 39.106449,
+    "Longitude": -84.478831
+  },
+  {
+    "Address": "Kentucky Berea",
+    "Latitude": 37.568694,
+    "Longitude": -84.296322
+  },
+  {
+    "Address": "Kentucky Bowling Green",
+    "Latitude": 36.968522,
+    "Longitude": -86.480804
+  },
+  {
+    "Address": "Kentucky Burkesville",
+    "Latitude": 36.79034,
+    "Longitude": -85.370519
+  },
+  {
+    "Address": "Kentucky Cadiz",
+    "Latitude": 36.86505,
+    "Longitude": -87.835295
+  },
+  {
+    "Address": "Kentucky Carlisle",
+    "Latitude": 38.31202,
+    "Longitude": -84.027427
+  },
+  {
+    "Address": "Kentucky Carrollton",
+    "Latitude": 38.680896,
+    "Longitude": -85.179398
+  },
+  {
+    "Address": "Kentucky Corbin",
+    "Latitude": 36.948699,
+    "Longitude": -84.096876
+  },
+  {
+    "Address": "Kentucky Covington",
+    "Latitude": 39.083671,
+    "Longitude": -84.508554
+  },
+  {
+    "Address": "Kentucky Cynthiana",
+    "Latitude": 38.390353,
+    "Longitude": -84.294101
+  },
+  {
+    "Address": "Kentucky Danville",
+    "Latitude": 37.645633,
+    "Longitude": -84.77217
+  },
+  {
+    "Address": "Kentucky Elizabethtown",
+    "Latitude": 37.703065,
+    "Longitude": -85.864941
+  },
+  {
+    "Address": "Kentucky Elkton",
+    "Latitude": 36.810043,
+    "Longitude": -87.154167
+  },
+  {
+    "Address": "Kentucky Elsmere",
+    "Latitude": 39.012561,
+    "Longitude": -84.604666
+  },
+  {
+    "Address": "Kentucky Flatwoods",
+    "Latitude": 38.52258,
+    "Longitude": -82.717108
+  },
+  {
+    "Address": "Kentucky Florence",
+    "Latitude": 38.99895,
+    "Longitude": -84.626611
+  },
+  {
+    "Address": "Kentucky Frankfort",
+    "Latitude": 38.200906,
+    "Longitude": -84.873284
+  },
+  {
+    "Address": "Kentucky Georgetown",
+    "Latitude": 38.209797,
+    "Longitude": -84.558831
+  },
+  {
+    "Address": "Kentucky Harrodsburg",
+    "Latitude": 37.762298,
+    "Longitude": -84.843285
+  },
+  {
+    "Address": "Kentucky Hazard",
+    "Latitude": 37.24954,
+    "Longitude": -83.193228
+  },
+  {
+    "Address": "Kentucky Henderson",
+    "Latitude": 37.836154,
+    "Longitude": -87.590013
+  },
+  {
+    "Address": "Kentucky Hillview",
+    "Latitude": 38.069789,
+    "Longitude": -85.685515
+  },
+  {
+    "Address": "Kentucky Hopkinsville",
+    "Latitude": 36.865601,
+    "Longitude": -87.488619
+  },
+  {
+    "Address": "Kentucky Leitchfield",
+    "Latitude": 37.480054,
+    "Longitude": -86.293864
+  },
+  {
+    "Address": "Kentucky Lexington",
+    "Latitude": 38.040584,
+    "Longitude": -84.503716
+  },
+  {
+    "Address": "Kentucky Louisville Metro",
+    "Latitude": 38.244969,
+    "Longitude": -85.747842
+  },
+  {
+    "Address": "Kentucky Ludlow",
+    "Latitude": 39.09256,
+    "Longitude": -84.547443
+  },
+  {
+    "Address": "Kentucky Madisonville",
+    "Latitude": 37.328101,
+    "Longitude": -87.498888
+  },
+  {
+    "Address": "Kentucky Morehead",
+    "Latitude": 38.183971,
+    "Longitude": -83.432684
+  },
+  {
+    "Address": "Kentucky Mount Washington",
+    "Latitude": 38.050063,
+    "Longitude": -85.545788
+  },
+  {
+    "Address": "Kentucky Murray",
+    "Latitude": 36.610333,
+    "Longitude": -88.314761
+  },
+  {
+    "Address": "Kentucky Newport",
+    "Latitude": 39.091449,
+    "Longitude": -84.495776
+  },
+  {
+    "Address": "Kentucky Oak Grove",
+    "Latitude": 36.665047,
+    "Longitude": -87.442788
+  },
+  {
+    "Address": "Kentucky Owensboro",
+    "Latitude": 37.771907,
+    "Longitude": -87.111168
+  },
+  {
+    "Address": "Kentucky Paducah",
+    "Latitude": 37.083389,
+    "Longitude": -88.600048
+  },
+  {
+    "Address": "Kentucky Paris",
+    "Latitude": 38.209799,
+    "Longitude": -84.252987
+  },
+  {
+    "Address": "Kentucky Radcliff",
+    "Latitude": 37.840346,
+    "Longitude": -85.94913
+  },
+  {
+    "Address": "Kentucky Ravenna",
+    "Latitude": 37.684527,
+    "Longitude": -83.952979
+  },
+  {
+    "Address": "Kentucky Richmond",
+    "Latitude": 37.747857,
+    "Longitude": -84.294654
+  },
+  {
+    "Address": "Kentucky Russellville",
+    "Latitude": 36.84532,
+    "Longitude": -86.887219
+  },
+  {
+    "Address": "Kentucky Shelbyville",
+    "Latitude": 38.212014,
+    "Longitude": -85.223567
+  },
+  {
+    "Address": "Kentucky Shepherdsville",
+    "Latitude": 37.988399,
+    "Longitude": -85.715792
+  },
+  {
+    "Address": "Kentucky Shively",
+    "Latitude": 38.20007,
+    "Longitude": -85.822741
+  },
+  {
+    "Address": "Kentucky St. Matthews",
+    "Latitude": 38.243566,
+    "Longitude": -85.635779
+  },
+  {
+    "Address": "Kentucky Vine Grove",
+    "Latitude": 37.810067,
+    "Longitude": -85.981352
+  },
+  {
+    "Address": "Kentucky Williamsburg",
+    "Latitude": 36.743417,
+    "Longitude": -84.159656
+  },
+  {
+    "Address": "Kentucky Winchester",
+    "Latitude": 37.990079,
+    "Longitude": -84.17965
+  },
+  {
+    "Address": "Kentucky Morehead State University",
+    "Latitude": 38.18888,
+    "Longitude": -83.431178
+  },
+  {
+    "Address": "Kentucky University of Louisville",
+    "Latitude": 38.212276,
+    "Longitude": -85.758502
+  },
+  {
+    "Address": "Kentucky Boone",
+    "Latitude": 38.994057,
+    "Longitude": -84.731556
+  },
+  {
+    "Address": "Kentucky Bullitt",
+    "Latitude": 37.984211,
+    "Longitude": -85.684578
+  },
+  {
+    "Address": "Kentucky Christian",
+    "Latitude": 38.34101,
+    "Longitude": -82.947385
+  },
+  {
+    "Address": "Kentucky Daviess",
+    "Latitude": 37.730798,
+    "Longitude": -87.102375
+  },
+  {
+    "Address": "Kentucky Hardin",
+    "Latitude": 36.764777,
+    "Longitude": -88.295313
+  },
+  {
+    "Address": "Kentucky Meade",
+    "Latitude": 37.96015,
+    "Longitude": -86.21585
+  },
+  {
+    "Address": "Kentucky Shelby",
+    "Latitude": 38.177808,
+    "Longitude": -85.230841
+  },
+  {
+    "Address": "Kentucky Trigg",
+    "Latitude": 36.847364,
+    "Longitude": -87.776333
+  },
+  {
+    "Address": "Kentucky Calloway",
+    "Latitude": 36.640277,
+    "Longitude": -88.285042
+  },
+  {
+    "Address": "Kentucky Clay",
+    "Latitude": 37.476712,
+    "Longitude": -87.820016
+  },
+  {
+    "Address": "Kentucky Hopkins",
+    "Latitude": 37.315309,
+    "Longitude": -87.579129
+  },
+  {
+    "Address": "Kentucky Knott",
+    "Latitude": 37.346112,
+    "Longitude": -82.993161
+  },
+  {
+    "Address": "Kentucky Knox",
+    "Latitude": 36.926058,
+    "Longitude": -83.889706
+  },
+  {
+    "Address": "Kentucky Lyon",
+    "Latitude": 37.024726,
+    "Longitude": -88.090076
+  },
+  {
+    "Address": "Kentucky Marshall",
+    "Latitude": 36.857377,
+    "Longitude": -88.401604
+  },
+  {
+    "Address": "Kentucky Nelson",
+    "Latitude": 37.764746,
+    "Longitude": -85.478807
+  },
+  {
+    "Address": "Kentucky Ohio",
+    "Latitude": 37.839333,
+    "Longitude": -84.270018
+  },
+  {
+    "Address": "Kentucky Perry",
+    "Latitude": 39.075834,
+    "Longitude": -95.393308
+  },
+  {
+    "Address": "Kentucky State Police: Campbellsburg",
+    "Latitude": 38.516673,
+    "Longitude": -85.23089
+  },
+  {
+    "Address": "Kentucky State Police: Dry Ridge",
+    "Latitude": 38.715022,
+    "Longitude": -84.590891
+  },
+  {
+    "Address": "Kentucky State Police: Frankfort",
+    "Latitude": 38.180159,
+    "Longitude": -84.900228
+  },
+  {
+    "Address": "Kentucky State Police: Henderson",
+    "Latitude": 37.79243,
+    "Longitude": -87.570612
+  },
+  {
+    "Address": "Kentucky State Police: Madisonville",
+    "Latitude": 37.211431,
+    "Longitude": -87.416795
+  },
+  {
+    "Address": "Kentucky State Police: Morehead",
+    "Latitude": 38.190715,
+    "Longitude": -83.476647
+  },
+  {
+    "Address": "Kentucky State Police: Pikeville",
+    "Latitude": 37.51638,
+    "Longitude": -82.562815
+  },
+  {
+    "Address": "Kentucky State Police: Richmond",
+    "Latitude": 37.734652,
+    "Longitude": -84.299469
+  },
+  {
+    "Address": "Kentucky Montgomery County School District",
+    "Latitude": 38.04471,
+    "Longitude": -83.941836
+  },
+  {
+    "Address": "Louisiana New Orleans",
+    "Latitude": 29.951066,
+    "Longitude": -90.071532
+  },
+  {
+    "Address": "Louisiana University of New Orleans",
+    "Latitude": 30.028596,
+    "Longitude": -90.066036
+  },
+  {
+    "Address": "Louisiana Ascension",
+    "Latitude": 30.20173,
+    "Longitude": -90.943847
+  },
+  {
+    "Address": "Louisiana Calcasieu",
+    "Latitude": 30.208929,
+    "Longitude": -93.338892
+  },
+  {
+    "Address": "Louisiana Iberia",
+    "Latitude": 29.499263,
+    "Longitude": -91.753882
+  },
+  {
+    "Address": "Louisiana Jefferson",
+    "Latitude": 29.966037,
+    "Longitude": -90.15313
+  },
+  {
+    "Address": "Maine Auburn",
+    "Latitude": 44.097851,
+    "Longitude": -70.231165
+  },
+  {
+    "Address": "Maine Belfast",
+    "Latitude": 44.425909,
+    "Longitude": -69.006423
+  },
+  {
+    "Address": "Maine Cape Elizabeth",
+    "Latitude": 43.563696,
+    "Longitude": -70.200047
+  },
+  {
+    "Address": "Maine Ellsworth",
+    "Latitude": 44.54341,
+    "Longitude": -68.419464
+  },
+  {
+    "Address": "Maine Lewiston",
+    "Latitude": 44.100351,
+    "Longitude": -70.214776
+  },
+  {
+    "Address": "Maine Machias3",
+    "Latitude": 44.725615,
+    "Longitude": -67.523386
+  },
+  {
+    "Address": "Maine Mexico",
+    "Latitude": 44.557109,
+    "Longitude": -70.543358
+  },
+  {
+    "Address": "Maine Old Orchard Beach",
+    "Latitude": 43.517766,
+    "Longitude": -70.377291
+  },
+  {
+    "Address": "Maine Portland",
+    "Latitude": 43.661471,
+    "Longitude": -70.255326
+  },
+  {
+    "Address": "Maine Scarborough",
+    "Latitude": 43.590197,
+    "Longitude": -70.334492
+  },
+  {
+    "Address": "Maine Searsport",
+    "Latitude": 44.463934,
+    "Longitude": -68.903863
+  },
+  {
+    "Address": "Maine Skowhegan",
+    "Latitude": 44.765037,
+    "Longitude": -69.71938
+  },
+  {
+    "Address": "Maine South Portland",
+    "Latitude": 43.641472,
+    "Longitude": -70.240881
+  },
+  {
+    "Address": "Maine Wiscasset",
+    "Latitude": 44.002892,
+    "Longitude": -69.665583
+  },
+  {
+    "Address": "Maine Sagadahoc",
+    "Latitude": 43.817127,
+    "Longitude": -69.782553
+  },
+  {
+    "Address": "Maine Waldo",
+    "Latitude": 44.512574,
+    "Longitude": -69.076148
+  },
+  {
+    "Address": "Maine State Police",
+    "Latitude": 43.511478,
+    "Longitude": -70.717685
+  },
+  {
+    "Address": "Maryland Aberdeen",
+    "Latitude": 39.509556,
+    "Longitude": -76.16412
+  },
+  {
+    "Address": "Maryland Annapolis",
+    "Latitude": 38.978445,
+    "Longitude": -76.492183
+  },
+  {
+    "Address": "Maryland Baltimore",
+    "Latitude": 39.290385,
+    "Longitude": -76.612189
+  },
+  {
+    "Address": "Maryland Bel Air",
+    "Latitude": 39.535941,
+    "Longitude": -76.348293
+  },
+  {
+    "Address": "Maryland Frederick",
+    "Latitude": 39.414269,
+    "Longitude": -77.410541
+  },
+  {
+    "Address": "Maryland Greenbelt",
+    "Latitude": 39.004554,
+    "Longitude": -76.875528
+  },
+  {
+    "Address": "Maryland St. Mary's College",
+    "Latitude": 38.190926,
+    "Longitude": -76.429031
+  },
+  {
+    "Address": "Maryland Towson University",
+    "Latitude": 39.392512,
+    "Longitude": -76.612639
+  },
+  {
+    "Address": "Maryland Baltimore County Police Department",
+    "Latitude": 39.40036,
+    "Longitude": -76.588887
+  },
+  {
+    "Address": "Maryland Carroll",
+    "Latitude": 39.542342,
+    "Longitude": -77.056446
+  },
+  {
+    "Address": "Maryland Charles",
+    "Latitude": 38.522178,
+    "Longitude": -77.10249
+  },
+  {
+    "Address": "Maryland Frederick",
+    "Latitude": 39.414269,
+    "Longitude": -77.410541
+  },
+  {
+    "Address": "Maryland Harford",
+    "Latitude": 39.583896,
+    "Longitude": -76.363728
+  },
+  {
+    "Address": "Maryland Howard County Police Department",
+    "Latitude": 39.27569,
+    "Longitude": -76.807398
+  },
+  {
+    "Address": "Maryland Montgomery County Police Department",
+    "Latitude": 39.149752,
+    "Longitude": -77.234057
+  },
+  {
+    "Address": "Maryland Prince George's County Police Department",
+    "Latitude": 38.918073,
+    "Longitude": -76.875539
+  },
+  {
+    "Address": "Maryland Garrett",
+    "Latitude": 39.568124,
+    "Longitude": -79.290213
+  },
+  {
+    "Address": "Maryland State Police: Frederick County",
+    "Latitude": 39.407135,
+    "Longitude": -77.375224
+  },
+  {
+    "Address": "Maryland State Police: Queen Anne's County",
+    "Latitude": 39.033121,
+    "Longitude": -76.020042
+  },
+  {
+    "Address": "Maryland State Fire Marshal",
+    "Latitude": 39.374314,
+    "Longitude": -76.722173
+  },
+  {
+    "Address": "Massachusetts Acton",
+    "Latitude": 42.485093,
+    "Longitude": -71.43284
+  },
+  {
+    "Address": "Massachusetts Amesbury",
+    "Latitude": 42.858393,
+    "Longitude": -70.930038
+  },
+  {
+    "Address": "Massachusetts Amherst",
+    "Latitude": 42.391157,
+    "Longitude": -72.526712
+  },
+  {
+    "Address": "Massachusetts Attleboro",
+    "Latitude": 41.944544,
+    "Longitude": -71.285608
+  },
+  {
+    "Address": "Massachusetts Bedford",
+    "Latitude": 42.490623,
+    "Longitude": -71.276009
+  },
+  {
+    "Address": "Massachusetts Belmont",
+    "Latitude": 42.395641,
+    "Longitude": -71.177611
+  },
+  {
+    "Address": "Massachusetts Beverly",
+    "Latitude": 42.558428,
+    "Longitude": -70.880049
+  },
+  {
+    "Address": "Massachusetts Billerica",
+    "Latitude": 42.558422,
+    "Longitude": -71.268946
+  },
+  {
+    "Address": "Massachusetts Bolton",
+    "Latitude": 42.433426,
+    "Longitude": -71.607845
+  },
+  {
+    "Address": "Massachusetts Boston",
+    "Latitude": 42.360083,
+    "Longitude": -71.05888
+  },
+  {
+    "Address": "Massachusetts Braintree",
+    "Latitude": 42.207902,
+    "Longitude": -71.004001
+  },
+  {
+    "Address": "Massachusetts Brookline",
+    "Latitude": 42.331764,
+    "Longitude": -71.121163
+  },
+  {
+    "Address": "Massachusetts Cambridge",
+    "Latitude": 42.373616,
+    "Longitude": -71.109733
+  },
+  {
+    "Address": "Massachusetts Chelsea",
+    "Latitude": 42.391764,
+    "Longitude": -71.032828
+  },
+  {
+    "Address": "Massachusetts Danvers",
+    "Latitude": 42.575001,
+    "Longitude": -70.932122
+  },
+  {
+    "Address": "Massachusetts Douglas",
+    "Latitude": 42.054345,
+    "Longitude": -71.739379
+  },
+  {
+    "Address": "Massachusetts Dover",
+    "Latitude": 42.245875,
+    "Longitude": -71.282872
+  },
+  {
+    "Address": "Massachusetts Dracut",
+    "Latitude": 42.670369,
+    "Longitude": -71.302005
+  },
+  {
+    "Address": "Massachusetts East Longmeadow",
+    "Latitude": 42.06454,
+    "Longitude": -72.512586
+  },
+  {
+    "Address": "Massachusetts Edgartown",
+    "Latitude": 41.389005,
+    "Longitude": -70.51336
+  },
+  {
+    "Address": "Massachusetts Fall River",
+    "Latitude": 41.701491,
+    "Longitude": -71.155045
+  },
+  {
+    "Address": "Massachusetts Framingham",
+    "Latitude": 42.279286,
+    "Longitude": -71.416156
+  },
+  {
+    "Address": "Massachusetts Greenfield",
+    "Latitude": 42.587915,
+    "Longitude": -72.59941
+  },
+  {
+    "Address": "Massachusetts Haverhill",
+    "Latitude": 42.776202,
+    "Longitude": -71.07728
+  },
+  {
+    "Address": "Massachusetts Kingston",
+    "Latitude": 41.993275,
+    "Longitude": -70.728478
+  },
+  {
+    "Address": "Massachusetts Lakeville",
+    "Latitude": 41.845917,
+    "Longitude": -70.949523
+  },
+  {
+    "Address": "Massachusetts Lincoln",
+    "Latitude": 42.425928,
+    "Longitude": -71.303947
+  },
+  {
+    "Address": "Massachusetts Lowell",
+    "Latitude": 42.633425,
+    "Longitude": -71.316172
+  },
+  {
+    "Address": "Massachusetts Lunenburg",
+    "Latitude": 42.594527,
+    "Longitude": -71.724503
+  },
+  {
+    "Address": "Massachusetts Lynn",
+    "Latitude": 42.466763,
+    "Longitude": -70.949494
+  },
+  {
+    "Address": "Massachusetts Malden",
+    "Latitude": 42.425096,
+    "Longitude": -71.066163
+  },
+  {
+    "Address": "Massachusetts Marblehead",
+    "Latitude": 42.499958,
+    "Longitude": -70.857802
+  },
+  {
+    "Address": "Massachusetts Marlborough",
+    "Latitude": 42.345927,
+    "Longitude": -71.552287
+  },
+  {
+    "Address": "Massachusetts Medford",
+    "Latitude": 42.41843,
+    "Longitude": -71.106164
+  },
+  {
+    "Address": "Massachusetts Middleboro",
+    "Latitude": 41.892994,
+    "Longitude": -70.910771
+  },
+  {
+    "Address": "Massachusetts Milton",
+    "Latitude": 42.249532,
+    "Longitude": -71.066165
+  },
+  {
+    "Address": "Massachusetts Monson",
+    "Latitude": 42.104245,
+    "Longitude": -72.318952
+  },
+  {
+    "Address": "Massachusetts Needham",
+    "Latitude": 42.280929,
+    "Longitude": -71.237755
+  },
+  {
+    "Address": "Massachusetts New Bedford",
+    "Latitude": 41.636215,
+    "Longitude": -70.934205
+  },
+  {
+    "Address": "Massachusetts Newburyport",
+    "Latitude": 42.812591,
+    "Longitude": -70.877275
+  },
+  {
+    "Address": "Massachusetts Norton",
+    "Latitude": 41.96677,
+    "Longitude": -71.186996
+  },
+  {
+    "Address": "Massachusetts Peabody",
+    "Latitude": 42.527873,
+    "Longitude": -70.928661
+  },
+  {
+    "Address": "Massachusetts Pittsfield",
+    "Latitude": 42.450085,
+    "Longitude": -73.245382
+  },
+  {
+    "Address": "Massachusetts Plainville",
+    "Latitude": 42.004266,
+    "Longitude": -71.332833
+  },
+  {
+    "Address": "Massachusetts Plymouth",
+    "Latitude": 41.958446,
+    "Longitude": -70.667262
+  },
+  {
+    "Address": "Massachusetts Provincetown",
+    "Latitude": 42.058441,
+    "Longitude": -70.178643
+  },
+  {
+    "Address": "Massachusetts Quincy",
+    "Latitude": 42.252877,
+    "Longitude": -71.002271
+  },
+  {
+    "Address": "Massachusetts Randolph",
+    "Latitude": 42.161974,
+    "Longitude": -71.042551
+  },
+  {
+    "Address": "Massachusetts Reading",
+    "Latitude": 42.525656,
+    "Longitude": -71.095289
+  },
+  {
+    "Address": "Massachusetts Revere",
+    "Latitude": 42.40843,
+    "Longitude": -71.011995
+  },
+  {
+    "Address": "Massachusetts Salem",
+    "Latitude": 42.51954,
+    "Longitude": -70.896716
+  },
+  {
+    "Address": "Massachusetts Saugus",
+    "Latitude": 42.465142,
+    "Longitude": -71.011047
+  },
+  {
+    "Address": "Massachusetts Sharon",
+    "Latitude": 42.12365,
+    "Longitude": -71.178624
+  },
+  {
+    "Address": "Massachusetts Shrewsbury",
+    "Latitude": 42.295927,
+    "Longitude": -71.712847
+  },
+  {
+    "Address": "Massachusetts Somerville",
+    "Latitude": 42.387597,
+    "Longitude": -71.099497
+  },
+  {
+    "Address": "Massachusetts South Hadley",
+    "Latitude": 42.259173,
+    "Longitude": -72.574793
+  },
+  {
+    "Address": "Massachusetts Spencer",
+    "Latitude": 42.243968,
+    "Longitude": -71.992287
+  },
+  {
+    "Address": "Massachusetts Springfield",
+    "Latitude": 42.101483,
+    "Longitude": -72.589811
+  },
+  {
+    "Address": "Massachusetts Stoughton",
+    "Latitude": 42.12291,
+    "Longitude": -71.109201
+  },
+  {
+    "Address": "Massachusetts Swampscott",
+    "Latitude": 42.470944,
+    "Longitude": -70.917556
+  },
+  {
+    "Address": "Massachusetts Taunton",
+    "Latitude": 41.900101,
+    "Longitude": -71.089767
+  },
+  {
+    "Address": "Massachusetts Waltham",
+    "Latitude": 42.376485,
+    "Longitude": -71.235611
+  },
+  {
+    "Address": "Massachusetts Watertown",
+    "Latitude": 42.37093,
+    "Longitude": -71.182832
+  },
+  {
+    "Address": "Massachusetts Westborough",
+    "Latitude": 42.269522,
+    "Longitude": -71.616129
+  },
+  {
+    "Address": "Massachusetts West Boylston",
+    "Latitude": 42.366759,
+    "Longitude": -71.785627
+  },
+  {
+    "Address": "Massachusetts West Springfield",
+    "Latitude": 42.107038,
+    "Longitude": -72.620367
+  },
+  {
+    "Address": "Massachusetts Williamstown",
+    "Latitude": 42.71202,
+    "Longitude": -73.20369
+  },
+  {
+    "Address": "Massachusetts Worcester",
+    "Latitude": 42.262593,
+    "Longitude": -71.802293
+  },
+  {
+    "Address": "Massachusetts Boston College",
+    "Latitude": 42.335549,
+    "Longitude": -71.168495
+  },
+  {
+    "Address": "Massachusetts Boston University",
+    "Latitude": 42.3505,
+    "Longitude": -71.105399
+  },
+  {
+    "Address": "Massachusetts Bridgewater State University",
+    "Latitude": 41.98774,
+    "Longitude": -70.966001
+  },
+  {
+    "Address": "Massachusetts Dean College",
+    "Latitude": 42.085449,
+    "Longitude": -71.398395
+  },
+  {
+    "Address": "Massachusetts Emerson College",
+    "Latitude": 42.35203,
+    "Longitude": -71.065655
+  },
+  {
+    "Address": "Massachusetts Massachusetts College of Liberal Arts",
+    "Latitude": 42.691554,
+    "Longitude": -73.103337
+  },
+  {
+    "Address": "Massachusetts Northeastern University",
+    "Latitude": 42.339807,
+    "Longitude": -71.089172
+  },
+  {
+    "Address": "Massachusetts Tufts University",
+    "Latitude": 42.407484,
+    "Longitude": -71.119023
+  },
+  {
+    "Address": "Massachusetts University of Massachusetts: Amherst",
+    "Latitude": 42.391157,
+    "Longitude": -72.526712
+  },
+  {
+    "Address": "Massachusetts University of Massachusetts: Harbor Campus",
+    "Latitude": 42.314841,
+    "Longitude": -71.036738
+  },
+  {
+    "Address": "Michigan Adrian",
+    "Latitude": 41.897547,
+    "Longitude": -84.037166
+  },
+  {
+    "Address": "Michigan Albion",
+    "Latitude": 42.243097,
+    "Longitude": -84.75303
+  },
+  {
+    "Address": "Michigan Alpena",
+    "Latitude": 45.061679,
+    "Longitude": -83.432753
+  },
+  {
+    "Address": "Michigan Ann Arbor",
+    "Latitude": 42.280826,
+    "Longitude": -83.743038
+  },
+  {
+    "Address": "Michigan Bangor",
+    "Latitude": 42.312536,
+    "Longitude": -86.113079
+  },
+  {
+    "Address": "Michigan Bath Township",
+    "Latitude": 42.818737,
+    "Longitude": -84.448559
+  },
+  {
+    "Address": "Michigan Battle Creek",
+    "Latitude": 42.321152,
+    "Longitude": -85.179714
+  },
+  {
+    "Address": "Michigan Benton Harbor",
+    "Latitude": 42.116707,
+    "Longitude": -86.454189
+  },
+  {
+    "Address": "Michigan Benton Township",
+    "Latitude": 42.109733,
+    "Longitude": -86.417323
+  },
+  {
+    "Address": "Michigan Birmingham",
+    "Latitude": 42.546701,
+    "Longitude": -83.211319
+  },
+  {
+    "Address": "Michigan Blackman Township",
+    "Latitude": 42.279917,
+    "Longitude": -84.45927
+  },
+  {
+    "Address": "Michigan Bloomfield Township",
+    "Latitude": 42.57931,
+    "Longitude": -83.282709
+  },
+  {
+    "Address": "Michigan Brownstown Township",
+    "Latitude": 42.126116,
+    "Longitude": -83.257233
+  },
+  {
+    "Address": "Michigan Buchanan",
+    "Latitude": 41.827268,
+    "Longitude": -86.361125
+  },
+  {
+    "Address": "Michigan Buena Vista Township",
+    "Latitude": 43.450828,
+    "Longitude": -83.886343
+  },
+  {
+    "Address": "Michigan Burton",
+    "Latitude": 42.999472,
+    "Longitude": -83.616342
+  },
+  {
+    "Address": "Michigan Canton Township",
+    "Latitude": 42.308644,
+    "Longitude": -83.482116
+  },
+  {
+    "Address": "Michigan Charlotte",
+    "Latitude": 42.563648,
+    "Longitude": -84.835821
+  },
+  {
+    "Address": "Michigan Chesterfield Township",
+    "Latitude": 42.696066,
+    "Longitude": -82.799419
+  },
+  {
+    "Address": "Michigan Chocolay Township",
+    "Latitude": 46.464324,
+    "Longitude": -87.261631
+  },
+  {
+    "Address": "Michigan Clare",
+    "Latitude": 43.81947,
+    "Longitude": -84.768628
+  },
+  {
+    "Address": "Michigan Clinton Township",
+    "Latitude": 42.586888,
+    "Longitude": -82.919551
+  },
+  {
+    "Address": "Michigan Coldwater",
+    "Latitude": 41.940326,
+    "Longitude": -85.000521
+  },
+  {
+    "Address": "Michigan Dearborn",
+    "Latitude": 42.32226,
+    "Longitude": -83.176314
+  },
+  {
+    "Address": "Michigan Detroit",
+    "Latitude": 42.331427,
+    "Longitude": -83.045754
+  },
+  {
+    "Address": "Michigan East Grand Rapids",
+    "Latitude": 42.941139,
+    "Longitude": -85.610028
+  },
+  {
+    "Address": "Michigan Eastpointe",
+    "Latitude": 42.46837,
+    "Longitude": -82.955475
+  },
+  {
+    "Address": "Michigan Elk Rapids",
+    "Latitude": 44.895558,
+    "Longitude": -85.41646
+  },
+  {
+    "Address": "Michigan Escanaba",
+    "Latitude": 45.745247,
+    "Longitude": -87.06458
+  },
+  {
+    "Address": "Michigan Essexville",
+    "Latitude": 43.6153,
+    "Longitude": -83.841919
+  },
+  {
+    "Address": "Michigan Farmington",
+    "Latitude": 42.46448,
+    "Longitude": -83.376322
+  },
+  {
+    "Address": "Michigan Ferndale",
+    "Latitude": 42.460592,
+    "Longitude": -83.134648
+  },
+  {
+    "Address": "Michigan Flint Township",
+    "Latitude": 42.995886,
+    "Longitude": -83.773024
+  },
+  {
+    "Address": "Michigan Flushing",
+    "Latitude": 43.063083,
+    "Longitude": -83.851073
+  },
+  {
+    "Address": "Michigan Forsyth Township",
+    "Latitude": 46.219559,
+    "Longitude": -87.471488
+  },
+  {
+    "Address": "Michigan Franklin",
+    "Latitude": 42.522257,
+    "Longitude": -83.306043
+  },
+  {
+    "Address": "Michigan Fraser",
+    "Latitude": 42.539202,
+    "Longitude": -82.949365
+  },
+  {
+    "Address": "Michigan Fruitport",
+    "Latitude": 43.131962,
+    "Longitude": -86.154775
+  },
+  {
+    "Address": "Michigan Garden City",
+    "Latitude": 42.325593,
+    "Longitude": -83.331042
+  },
+  {
+    "Address": "Michigan Gerrish Township",
+    "Latitude": 44.482483,
+    "Longitude": -84.668835
+  },
+  {
+    "Address": "Michigan Grand Blanc Township",
+    "Latitude": 42.912517,
+    "Longitude": -83.666758
+  },
+  {
+    "Address": "Michigan Grand Rapids",
+    "Latitude": 42.96336,
+    "Longitude": -85.668086
+  },
+  {
+    "Address": "Michigan Grandville",
+    "Latitude": 42.909748,
+    "Longitude": -85.763088
+  },
+  {
+    "Address": "Michigan Grayling",
+    "Latitude": 44.661404,
+    "Longitude": -84.714751
+  },
+  {
+    "Address": "Michigan Grosse Pointe Park",
+    "Latitude": 42.375871,
+    "Longitude": -82.937416
+  },
+  {
+    "Address": "Michigan Grosse Pointe Woods",
+    "Latitude": 42.443648,
+    "Longitude": -82.90686
+  },
+  {
+    "Address": "Michigan Hamtramck",
+    "Latitude": 42.392815,
+    "Longitude": -83.049644
+  },
+  {
+    "Address": "Michigan Harper Woods",
+    "Latitude": 42.433092,
+    "Longitude": -82.924083
+  },
+  {
+    "Address": "Michigan Hartford",
+    "Latitude": 42.206705,
+    "Longitude": -86.166688
+  },
+  {
+    "Address": "Michigan Hazel Park",
+    "Latitude": 42.462536,
+    "Longitude": -83.104091
+  },
+  {
+    "Address": "Michigan Highland Park",
+    "Latitude": 42.405593,
+    "Longitude": -83.096868
+  },
+  {
+    "Address": "Michigan Holland",
+    "Latitude": 42.787524,
+    "Longitude": -86.10893
+  },
+  {
+    "Address": "Michigan Huntington Woods",
+    "Latitude": 42.480591,
+    "Longitude": -83.166871
+  },
+  {
+    "Address": "Michigan Inkster",
+    "Latitude": 42.294205,
+    "Longitude": -83.30993
+  },
+  {
+    "Address": "Michigan Jackson",
+    "Latitude": 42.245869,
+    "Longitude": -84.401346
+  },
+  {
+    "Address": "Michigan Jonesville",
+    "Latitude": 41.984213,
+    "Longitude": -84.661901
+  },
+  {
+    "Address": "Michigan Kalamazoo",
+    "Latitude": 42.291707,
+    "Longitude": -85.587229
+  },
+  {
+    "Address": "Michigan Kentwood",
+    "Latitude": 42.869473,
+    "Longitude": -85.644749
+  },
+  {
+    "Address": "Michigan Lake Orion",
+    "Latitude": 42.784475,
+    "Longitude": -83.239661
+  },
+  {
+    "Address": "Michigan Lansing",
+    "Latitude": 42.732535,
+    "Longitude": -84.555535
+  },
+  {
+    "Address": "Michigan Lincoln Township",
+    "Latitude": 42.015382,
+    "Longitude": -86.509761
+  },
+  {
+    "Address": "Michigan Livonia",
+    "Latitude": 42.36837,
+    "Longitude": -83.35271
+  },
+  {
+    "Address": "Michigan Mackinac Island",
+    "Latitude": 45.84918,
+    "Longitude": -84.618934
+  },
+  {
+    "Address": "Michigan Madison Heights",
+    "Latitude": 42.485869,
+    "Longitude": -83.105203
+  },
+  {
+    "Address": "Michigan Madison Township",
+    "Latitude": 41.856028,
+    "Longitude": -84.069596
+  },
+  {
+    "Address": "Michigan Marshall",
+    "Latitude": 42.272264,
+    "Longitude": -84.963315
+  },
+  {
+    "Address": "Michigan Meridian Township",
+    "Latitude": 42.726539,
+    "Longitude": -84.415064
+  },
+  {
+    "Address": "Michigan Midland",
+    "Latitude": 43.615583,
+    "Longitude": -84.247212
+  },
+  {
+    "Address": "Michigan Milan",
+    "Latitude": 42.08532,
+    "Longitude": -83.682438
+  },
+  {
+    "Address": "Michigan Milford",
+    "Latitude": 42.591668,
+    "Longitude": -83.60037
+  },
+  {
+    "Address": "Michigan Monroe",
+    "Latitude": 41.916434,
+    "Longitude": -83.39771
+  },
+  {
+    "Address": "Michigan Mount Morris Township",
+    "Latitude": 43.100569,
+    "Longitude": -83.741163
+  },
+  {
+    "Address": "Michigan Mount Pleasant",
+    "Latitude": 43.597807,
+    "Longitude": -84.767514
+  },
+  {
+    "Address": "Michigan Muskegon",
+    "Latitude": 43.234181,
+    "Longitude": -86.248392
+  },
+  {
+    "Address": "Michigan Muskegon Heights",
+    "Latitude": 43.201126,
+    "Longitude": -86.238946
+  },
+  {
+    "Address": "Michigan Newaygo",
+    "Latitude": 43.419743,
+    "Longitude": -85.800051
+  },
+  {
+    "Address": "Michigan Northfield Township",
+    "Latitude": 42.400386,
+    "Longitude": -83.743381
+  },
+  {
+    "Address": "Michigan Northville Township",
+    "Latitude": 42.413814,
+    "Longitude": -83.469025
+  },
+  {
+    "Address": "Michigan Norton Shores",
+    "Latitude": 43.168904,
+    "Longitude": -86.263946
+  },
+  {
+    "Address": "Michigan Novi",
+    "Latitude": 42.48059,
+    "Longitude": -83.475491
+  },
+  {
+    "Address": "Michigan Ontwa Township-Edwardsburg",
+    "Latitude": 41.795604,
+    "Longitude": -86.080838
+  },
+  {
+    "Address": "Michigan Owosso",
+    "Latitude": 42.997805,
+    "Longitude": -84.176636
+  },
+  {
+    "Address": "Michigan Pittsfield Township",
+    "Latitude": 42.210317,
+    "Longitude": -83.724107
+  },
+  {
+    "Address": "Michigan Portage",
+    "Latitude": 42.201154,
+    "Longitude": -85.580002
+  },
+  {
+    "Address": "Michigan Port Huron",
+    "Latitude": 42.970863,
+    "Longitude": -82.424914
+  },
+  {
+    "Address": "Michigan Romeo",
+    "Latitude": 42.802808,
+    "Longitude": -83.012987
+  },
+  {
+    "Address": "Michigan Roseville",
+    "Latitude": 42.497258,
+    "Longitude": -82.937141
+  },
+  {
+    "Address": "Michigan Royal Oak",
+    "Latitude": 42.48948,
+    "Longitude": -83.144649
+  },
+  {
+    "Address": "Michigan Saginaw",
+    "Latitude": 43.41947,
+    "Longitude": -83.950807
+  },
+  {
+    "Address": "Michigan Saginaw Township",
+    "Latitude": 43.453002,
+    "Longitude": -84.027317
+  },
+  {
+    "Address": "Michigan Saline",
+    "Latitude": 42.166707,
+    "Longitude": -83.781607
+  },
+  {
+    "Address": "Michigan Sault Ste. Marie",
+    "Latitude": 46.4953,
+    "Longitude": -84.345317
+  },
+  {
+    "Address": "Michigan Shelby Township",
+    "Latitude": 42.670782,
+    "Longitude": -83.032993
+  },
+  {
+    "Address": "Michigan Southfield",
+    "Latitude": 42.473369,
+    "Longitude": -83.221873
+  },
+  {
+    "Address": "Michigan Sparta",
+    "Latitude": 43.160858,
+    "Longitude": -85.710039
+  },
+  {
+    "Address": "Michigan St. Joseph",
+    "Latitude": 42.093858,
+    "Longitude": -86.489546
+  },
+  {
+    "Address": "Michigan Sumpter Township",
+    "Latitude": 42.138872,
+    "Longitude": -83.494132
+  },
+  {
+    "Address": "Michigan Taylor",
+    "Latitude": 42.240872,
+    "Longitude": -83.269651
+  },
+  {
+    "Address": "Michigan Three Rivers",
+    "Latitude": 41.943937,
+    "Longitude": -85.632493
+  },
+  {
+    "Address": "Michigan Traverse City",
+    "Latitude": 44.763057,
+    "Longitude": -85.620632
+  },
+  {
+    "Address": "Michigan Trenton",
+    "Latitude": 42.139486,
+    "Longitude": -83.178259
+  },
+  {
+    "Address": "Michigan Troy",
+    "Latitude": 42.60641,
+    "Longitude": -83.149775
+  },
+  {
+    "Address": "Michigan Utica",
+    "Latitude": 42.626145,
+    "Longitude": -83.033538
+  },
+  {
+    "Address": "Michigan Van Buren Township",
+    "Latitude": 42.220317,
+    "Longitude": -83.483824
+  },
+  {
+    "Address": "Michigan Warren",
+    "Latitude": 42.514457,
+    "Longitude": -83.014653
+  },
+  {
+    "Address": "Michigan Waterford Township",
+    "Latitude": 42.690744,
+    "Longitude": -83.406613
+  },
+  {
+    "Address": "Michigan Wayland",
+    "Latitude": 42.673921,
+    "Longitude": -85.644744
+  },
+  {
+    "Address": "Michigan Wayne",
+    "Latitude": 42.281427,
+    "Longitude": -83.386321
+  },
+  {
+    "Address": "Michigan West Bloomfield Township",
+    "Latitude": 42.567853,
+    "Longitude": -83.373339
+  },
+  {
+    "Address": "Michigan Westland",
+    "Latitude": 42.324204,
+    "Longitude": -83.400211
+  },
+  {
+    "Address": "Michigan White Lake Township",
+    "Latitude": 42.6593,
+    "Longitude": -83.485691
+  },
+  {
+    "Address": "Michigan Woodhaven",
+    "Latitude": 42.138984,
+    "Longitude": -83.241799
+  },
+  {
+    "Address": "Michigan Wyoming",
+    "Latitude": 42.91336,
+    "Longitude": -85.705308
+  },
+  {
+    "Address": "Michigan Eastern Michigan University",
+    "Latitude": 42.25068,
+    "Longitude": -83.624089
+  },
+  {
+    "Address": "Michigan Michigan State University",
+    "Latitude": 42.701848,
+    "Longitude": -84.482172
+  },
+  {
+    "Address": "Michigan Oakland University3",
+    "Latitude": 42.639508,
+    "Longitude": -83.292834
+  },
+  {
+    "Address": "Michigan Saginaw Valley State University",
+    "Latitude": 43.514273,
+    "Longitude": -83.962356
+  },
+  {
+    "Address": "Michigan University of Michigan",
+    "Latitude": 42.278044,
+    "Longitude": -83.738224
+  },
+  {
+    "Address": "Michigan Western Michigan University",
+    "Latitude": 42.283734,
+    "Longitude": -85.610251
+  },
+  {
+    "Address": "Michigan Eaton",
+    "Latitude": 42.58865,
+    "Longitude": -84.773332
+  },
+  {
+    "Address": "Michigan Ingham",
+    "Latitude": 42.646894,
+    "Longitude": -84.354205
+  },
+  {
+    "Address": "Michigan Jackson",
+    "Latitude": 42.245869,
+    "Longitude": -84.401346
+  },
+  {
+    "Address": "Michigan Kent",
+    "Latitude": 43.009703,
+    "Longitude": -85.520024
+  },
+  {
+    "Address": "Michigan Livingston",
+    "Latitude": 42.620795,
+    "Longitude": -83.847302
+  },
+  {
+    "Address": "Michigan Macomb",
+    "Latitude": 42.665197,
+    "Longitude": -82.928643
+  },
+  {
+    "Address": "Michigan Monroe",
+    "Latitude": 41.916434,
+    "Longitude": -83.39771
+  },
+  {
+    "Address": "Michigan Oakland",
+    "Latitude": 42.756111,
+    "Longitude": -83.143457
+  },
+  {
+    "Address": "Michigan Ottawa",
+    "Latitude": 42.953023,
+    "Longitude": -86.093731
+  },
+  {
+    "Address": "Michigan Van Buren",
+    "Latitude": 42.220317,
+    "Longitude": -83.483824
+  },
+  {
+    "Address": "Michigan Washtenaw",
+    "Latitude": 42.307649,
+    "Longitude": -83.847302
+  },
+  {
+    "Address": "Michigan Missaukee",
+    "Latitude": 44.366621,
+    "Longitude": -85.023346
+  },
+  {
+    "Address": "Michigan Ogemaw",
+    "Latitude": 44.327074,
+    "Longitude": -84.185712
+  },
+  {
+    "Address": "Michigan Otsego",
+    "Latitude": 42.46059,
+    "Longitude": -85.696406
+  },
+  {
+    "Address": "Michigan Tuscola",
+    "Latitude": 43.530114,
+    "Longitude": -83.50702
+  },
+  {
+    "Address": "Michigan State Police: Cass County",
+    "Latitude": 44.226994,
+    "Longitude": -85.395205
+  },
+  {
+    "Address": "Michigan State Police: Genesee County",
+    "Latitude": 43.001544,
+    "Longitude": -83.770789
+  },
+  {
+    "Address": "Michigan State Police: Jackson County",
+    "Latitude": 42.29173,
+    "Longitude": -84.396148
+  },
+  {
+    "Address": "Michigan State Police: Oakland County",
+    "Latitude": 42.474642,
+    "Longitude": -83.190604
+  },
+  {
+    "Address": "Michigan State Police: Van Buren County",
+    "Latitude": 42.200495,
+    "Longitude": -85.969397
+  },
+  {
+    "Address": "Michigan Gerald R. Ford International Airport",
+    "Latitude": 42.884663,
+    "Longitude": -85.524843
+  },
+  {
+    "Address": "Michigan State Police: Huron-Clinton Metropolitan Authority",
+    "Latitude": 42.522672,
+    "Longitude": -83.687404
+  },
+  {
+    "Address": "Minnesota Bemidji",
+    "Latitude": 47.487536,
+    "Longitude": -94.885849
+  },
+  {
+    "Address": "Minnesota Blaine",
+    "Latitude": 45.160799,
+    "Longitude": -93.234949
+  },
+  {
+    "Address": "Minnesota Brooklyn Park",
+    "Latitude": 45.094132,
+    "Longitude": -93.35634
+  },
+  {
+    "Address": "Minnesota Chaska",
+    "Latitude": 44.789345,
+    "Longitude": -93.601839
+  },
+  {
+    "Address": "Minnesota Columbia Heights",
+    "Latitude": 45.048197,
+    "Longitude": -93.24741
+  },
+  {
+    "Address": "Minnesota Crosby",
+    "Latitude": 46.482185,
+    "Longitude": -93.957761
+  },
+  {
+    "Address": "Minnesota Duluth",
+    "Latitude": 46.786672,
+    "Longitude": -92.100485
+  },
+  {
+    "Address": "Minnesota Eagan",
+    "Latitude": 44.804132,
+    "Longitude": -93.166886
+  },
+  {
+    "Address": "Minnesota Eden Prairie",
+    "Latitude": 44.854686,
+    "Longitude": -93.470786
+  },
+  {
+    "Address": "Minnesota Elk River",
+    "Latitude": 45.337728,
+    "Longitude": -93.569112
+  },
+  {
+    "Address": "Minnesota Faribault",
+    "Latitude": 44.294964,
+    "Longitude": -93.268827
+  },
+  {
+    "Address": "Minnesota Inver Grove Heights",
+    "Latitude": 44.848022,
+    "Longitude": -93.042715
+  },
+  {
+    "Address": "Minnesota Lino Lakes",
+    "Latitude": 45.160244,
+    "Longitude": -93.088832
+  },
+  {
+    "Address": "Minnesota Mankato",
+    "Latitude": 44.163578,
+    "Longitude": -93.9994
+  },
+  {
+    "Address": "Minnesota Maple Grove",
+    "Latitude": 45.072464,
+    "Longitude": -93.455788
+  },
+  {
+    "Address": "Minnesota Marshall",
+    "Latitude": 44.448423,
+    "Longitude": -95.791192
+  },
+  {
+    "Address": "Minnesota Mendota Heights",
+    "Latitude": 44.883577,
+    "Longitude": -93.138275
+  },
+  {
+    "Address": "Minnesota Minneapolis",
+    "Latitude": 44.977753,
+    "Longitude": -93.265011
+  },
+  {
+    "Address": "Minnesota Moorhead",
+    "Latitude": 46.865905,
+    "Longitude": -96.762332
+  },
+  {
+    "Address": "Minnesota Plymouth",
+    "Latitude": 45.010519,
+    "Longitude": -93.455509
+  },
+  {
+    "Address": "Minnesota Rochester",
+    "Latitude": 44.012122,
+    "Longitude": -92.480199
+  },
+  {
+    "Address": "Minnesota Roseville",
+    "Latitude": 45.006077,
+    "Longitude": -93.156611
+  },
+  {
+    "Address": "Minnesota Savage",
+    "Latitude": 44.764733,
+    "Longitude": -93.359115
+  },
+  {
+    "Address": "Minnesota Shakopee",
+    "Latitude": 44.797396,
+    "Longitude": -93.527286
+  },
+  {
+    "Address": "Minnesota Shoreview",
+    "Latitude": 45.079133,
+    "Longitude": -93.147167
+  },
+  {
+    "Address": "Minnesota Spring Lake Park",
+    "Latitude": 45.107743,
+    "Longitude": -93.238004
+  },
+  {
+    "Address": "Minnesota St. Anthony",
+    "Latitude": 45.020557,
+    "Longitude": -93.217934
+  },
+  {
+    "Address": "Minnesota St. Cloud",
+    "Latitude": 45.557945,
+    "Longitude": -94.16324
+  },
+  {
+    "Address": "Minnesota St. Louis Park",
+    "Latitude": 44.959738,
+    "Longitude": -93.370219
+  },
+  {
+    "Address": "Minnesota St. Paul",
+    "Latitude": 44.953703,
+    "Longitude": -93.089958
+  },
+  {
+    "Address": "Minnesota Wadena",
+    "Latitude": 46.442461,
+    "Longitude": -95.136139
+  },
+  {
+    "Address": "Minnesota Waite Park",
+    "Latitude": 45.557187,
+    "Longitude": -94.224158
+  },
+  {
+    "Address": "Minnesota West St. Paul",
+    "Latitude": 44.916077,
+    "Longitude": -93.101607
+  },
+  {
+    "Address": "Minnesota Woodbury",
+    "Latitude": 44.923855,
+    "Longitude": -92.95938
+  },
+  {
+    "Address": "Minnesota University of Minnesota",
+    "Latitude": 44.97399,
+    "Longitude": -93.227729
+  },
+  {
+    "Address": "Minnesota Hennepin",
+    "Latitude": 45.020891,
+    "Longitude": -93.509457
+  },
+  {
+    "Address": "Minnesota Mille Lacs",
+    "Latitude": 45.92284,
+    "Longitude": -93.621874
+  },
+  {
+    "Address": "Minnesota Mahnomen",
+    "Latitude": 47.317275,
+    "Longitude": -95.965538
+  },
+  {
+    "Address": "Minnesota Rice",
+    "Latitude": 45.7529,
+    "Longitude": -94.222328
+  },
+  {
+    "Address": "Mississippi Biloxi",
+    "Latitude": 30.396032,
+    "Longitude": -88.885308
+  },
+  {
+    "Address": "Mississippi Gulfport",
+    "Latitude": 30.36742,
+    "Longitude": -89.092816
+  },
+  {
+    "Address": "Missouri Branson",
+    "Latitude": 36.643673,
+    "Longitude": -93.218514
+  },
+  {
+    "Address": "Missouri Clayton",
+    "Latitude": 38.642552,
+    "Longitude": -90.323726
+  },
+  {
+    "Address": "Missouri Grandview",
+    "Latitude": 38.885841,
+    "Longitude": -94.53301
+  },
+  {
+    "Address": "Missouri Independence",
+    "Latitude": 39.091116,
+    "Longitude": -94.415507
+  },
+  {
+    "Address": "Missouri Joplin",
+    "Latitude": 37.084227,
+    "Longitude": -94.513281
+  },
+  {
+    "Address": "Missouri Kansas City",
+    "Latitude": 39.099727,
+    "Longitude": -94.578567
+  },
+  {
+    "Address": "Missouri Raytown",
+    "Latitude": 39.008617,
+    "Longitude": -94.463564
+  },
+  {
+    "Address": "Missouri Springfield",
+    "Latitude": 37.208957,
+    "Longitude": -93.292299
+  },
+  {
+    "Address": "Missouri St. Charles",
+    "Latitude": 38.788106,
+    "Longitude": -90.497436
+  },
+  {
+    "Address": "Missouri St. Joseph",
+    "Latitude": 39.767458,
+    "Longitude": -94.846681
+  },
+  {
+    "Address": "Missouri St. Louis",
+    "Latitude": 38.627003,
+    "Longitude": -90.199404
+  },
+  {
+    "Address": "Missouri University City",
+    "Latitude": 38.668241,
+    "Longitude": -90.332486
+  },
+  {
+    "Address": "Missouri University of Missouri",
+    "Latitude": 38.940381,
+    "Longitude": -92.327738
+  },
+  {
+    "Address": "Missouri De Kalb",
+    "Latitude": 39.58694,
+    "Longitude": -94.925243
+  },
+  {
+    "Address": "Missouri Jefferson",
+    "Latitude": 38.58923,
+    "Longitude": -92.263039
+  },
+  {
+    "Address": "Missouri St. Charles",
+    "Latitude": 38.788106,
+    "Longitude": -90.497436
+  },
+  {
+    "Address": "Missouri St. Louis County Police Department",
+    "Latitude": 38.649873,
+    "Longitude": -90.338956
+  },
+  {
+    "Address": "Missouri Carroll",
+    "Latitude": 39.516657,
+    "Longitude": -93.500345
+  },
+  {
+    "Address": "Missouri Henry",
+    "Latitude": 38.338659,
+    "Longitude": -93.824824
+  },
+  {
+    "Address": "Missouri Laclede",
+    "Latitude": 39.785579,
+    "Longitude": -93.166593
+  },
+  {
+    "Address": "Montana Billings",
+    "Latitude": 45.783286,
+    "Longitude": -108.50069
+  },
+  {
+    "Address": "Montana Columbia Falls",
+    "Latitude": 48.379964,
+    "Longitude": -114.180404
+  },
+  {
+    "Address": "Montana Great Falls",
+    "Latitude": 47.494184,
+    "Longitude": -111.283345
+  },
+  {
+    "Address": "Montana Hamilton",
+    "Latitude": 46.247144,
+    "Longitude": -114.154816
+  },
+  {
+    "Address": "Montana Helena",
+    "Latitude": 46.588371,
+    "Longitude": -112.024505
+  },
+  {
+    "Address": "Montana Kalispell",
+    "Latitude": 48.191989,
+    "Longitude": -114.316813
+  },
+  {
+    "Address": "Montana Missoula",
+    "Latitude": 46.878718,
+    "Longitude": -113.996586
+  },
+  {
+    "Address": "Montana Montana State University",
+    "Latitude": 45.666756,
+    "Longitude": -111.04981
+  },
+  {
+    "Address": "Montana Cascade",
+    "Latitude": 47.270901,
+    "Longitude": -111.700895
+  },
+  {
+    "Address": "Montana Missoula",
+    "Latitude": 46.878718,
+    "Longitude": -113.996586
+  },
+  {
+    "Address": "Montana Park",
+    "Latitude": 48.759613,
+    "Longitude": -113.787023
+  },
+  {
+    "Address": "Montana Silver Bow",
+    "Latitude": 45.880429,
+    "Longitude": -112.584306
+  },
+  {
+    "Address": "Nebraska Columbus",
+    "Latitude": 41.430297,
+    "Longitude": -97.35939
+  },
+  {
+    "Address": "Nebraska Cozad",
+    "Latitude": 40.856396,
+    "Longitude": -99.985678
+  },
+  {
+    "Address": "Nebraska Grand Island",
+    "Latitude": 40.926396,
+    "Longitude": -98.342012
+  },
+  {
+    "Address": "Nebraska Kearney",
+    "Latitude": 40.69933,
+    "Longitude": -99.081678
+  },
+  {
+    "Address": "Nebraska Lexington",
+    "Latitude": 40.78084,
+    "Longitude": -99.741505
+  },
+  {
+    "Address": "Nebraska Lincoln",
+    "Latitude": 40.825763,
+    "Longitude": -96.685198
+  },
+  {
+    "Address": "Nebraska Omaha",
+    "Latitude": 41.252363,
+    "Longitude": -95.997988
+  },
+  {
+    "Address": "Nebraska Sidney",
+    "Latitude": 41.144822,
+    "Longitude": -102.97745
+  },
+  {
+    "Address": "Nebraska Lancaster",
+    "Latitude": 40.847149,
+    "Longitude": -96.663812
+  },
+  {
+    "Address": "Nebraska Dawson",
+    "Latitude": 40.131112,
+    "Longitude": -95.830549
+  },
+  {
+    "Address": "Nevada Carlin",
+    "Latitude": 40.713807,
+    "Longitude": -116.103966
+  },
+  {
+    "Address": "Nevada Henderson",
+    "Latitude": 36.039525,
+    "Longitude": -114.981721
+  },
+  {
+    "Address": "Nevada Las Vegas Metropolitan Police Department",
+    "Latitude": 36.127336,
+    "Longitude": -115.146714
+  },
+  {
+    "Address": "Nevada North Las Vegas",
+    "Latitude": 36.198859,
+    "Longitude": -115.117501
+  },
+  {
+    "Address": "Nevada Reno",
+    "Latitude": 39.529633,
+    "Longitude": -119.813803
+  },
+  {
+    "Address": "New_Hampshire Ashland",
+    "Latitude": 43.695318,
+    "Longitude": -71.630632
+  },
+  {
+    "Address": "New_Hampshire Bedford",
+    "Latitude": 42.946329,
+    "Longitude": -71.513201
+  },
+  {
+    "Address": "New_Hampshire Concord",
+    "Latitude": 43.208137,
+    "Longitude": -71.537572
+  },
+  {
+    "Address": "New_Hampshire Conway",
+    "Latitude": 43.979183,
+    "Longitude": -71.120348
+  },
+  {
+    "Address": "New_Hampshire Farmington",
+    "Latitude": 43.389761,
+    "Longitude": -71.065062
+  },
+  {
+    "Address": "New_Hampshire Hampton",
+    "Latitude": 42.937593,
+    "Longitude": -70.838922
+  },
+  {
+    "Address": "New_Hampshire Hampton Falls",
+    "Latitude": 42.916223,
+    "Longitude": -70.863811
+  },
+  {
+    "Address": "New_Hampshire Hanover",
+    "Latitude": 43.702245,
+    "Longitude": -72.289553
+  },
+  {
+    "Address": "New_Hampshire Keene",
+    "Latitude": 42.933692,
+    "Longitude": -72.278141
+  },
+  {
+    "Address": "New_Hampshire Londonderry",
+    "Latitude": 42.86513,
+    "Longitude": -71.373927
+  },
+  {
+    "Address": "New_Hampshire Manchester",
+    "Latitude": 42.99564,
+    "Longitude": -71.454789
+  },
+  {
+    "Address": "New_Hampshire Newbury",
+    "Latitude": 43.321465,
+    "Longitude": -72.035917
+  },
+  {
+    "Address": "New_Hampshire Pelham",
+    "Latitude": 42.734534,
+    "Longitude": -71.324507
+  },
+  {
+    "Address": "New_Hampshire Plaistow",
+    "Latitude": 42.836478,
+    "Longitude": -71.094781
+  },
+  {
+    "Address": "New_Hampshire Windham",
+    "Latitude": 42.800644,
+    "Longitude": -71.304229
+  },
+  {
+    "Address": "New_Hampshire University of New Hampshire",
+    "Latitude": 43.138948,
+    "Longitude": -70.937025
+  },
+  {
+    "Address": "New_Jersey Aberdeen Township",
+    "Latitude": 40.417095,
+    "Longitude": -74.222115
+  },
+  {
+    "Address": "New_Jersey Allenhurst",
+    "Latitude": 40.236224,
+    "Longitude": -74.000693
+  },
+  {
+    "Address": "New_Jersey Asbury Park",
+    "Latitude": 40.220391,
+    "Longitude": -74.012082
+  },
+  {
+    "Address": "New_Jersey Bedminster Township",
+    "Latitude": 40.669264,
+    "Longitude": -74.6804
+  },
+  {
+    "Address": "New_Jersey Belleville",
+    "Latitude": 40.793674,
+    "Longitude": -74.150047
+  },
+  {
+    "Address": "New_Jersey Brick Township",
+    "Latitude": 40.057838,
+    "Longitude": -74.137183
+  },
+  {
+    "Address": "New_Jersey Burlington",
+    "Latitude": 40.071222,
+    "Longitude": -74.864887
+  },
+  {
+    "Address": "New_Jersey Burlington Township",
+    "Latitude": 40.056147,
+    "Longitude": -74.845882
+  },
+  {
+    "Address": "New_Jersey Caldwell",
+    "Latitude": 40.839822,
+    "Longitude": -74.276537
+  },
+  {
+    "Address": "New_Jersey Cinnaminson Township",
+    "Latitude": 39.996965,
+    "Longitude": -74.992769
+  },
+  {
+    "Address": "New_Jersey Clark Township",
+    "Latitude": 40.627803,
+    "Longitude": -74.312763
+  },
+  {
+    "Address": "New_Jersey Closter",
+    "Latitude": 40.973154,
+    "Longitude": -73.961526
+  },
+  {
+    "Address": "New_Jersey Colts Neck Township",
+    "Latitude": 40.287611,
+    "Longitude": -74.172365
+  },
+  {
+    "Address": "New_Jersey Cranford Township",
+    "Latitude": 40.658421,
+    "Longitude": -74.299593
+  },
+  {
+    "Address": "New_Jersey Delran Township",
+    "Latitude": 40.015892,
+    "Longitude": -74.956425
+  },
+  {
+    "Address": "New_Jersey Eastampton Township",
+    "Latitude": 40.003381,
+    "Longitude": -74.756468
+  },
+  {
+    "Address": "New_Jersey East Brunswick Township",
+    "Latitude": 40.431696,
+    "Longitude": -74.404978
+  },
+  {
+    "Address": "New_Jersey East Hanover Township",
+    "Latitude": 40.820062,
+    "Longitude": -74.364725
+  },
+  {
+    "Address": "New_Jersey East Orange",
+    "Latitude": 40.767323,
+    "Longitude": -74.204868
+  },
+  {
+    "Address": "New_Jersey East Windsor Township",
+    "Latitude": 40.267754,
+    "Longitude": -74.540251
+  },
+  {
+    "Address": "New_Jersey Egg Harbor Township",
+    "Latitude": 39.382254,
+    "Longitude": -74.616619
+  },
+  {
+    "Address": "New_Jersey Elmwood Park",
+    "Latitude": 40.903988,
+    "Longitude": -74.118476
+  },
+  {
+    "Address": "New_Jersey Evesham Township",
+    "Latitude": 39.852295,
+    "Longitude": -74.885799
+  },
+  {
+    "Address": "New_Jersey Ewing Township",
+    "Latitude": 40.259986,
+    "Longitude": -74.790912
+  },
+  {
+    "Address": "New_Jersey Fairview",
+    "Latitude": 40.812601,
+    "Longitude": -73.999028
+  },
+  {
+    "Address": "New_Jersey Fanwood",
+    "Latitude": 40.640936,
+    "Longitude": -74.383484
+  },
+  {
+    "Address": "New_Jersey Fort Lee",
+    "Latitude": 40.850933,
+    "Longitude": -73.970138
+  },
+  {
+    "Address": "New_Jersey Franklin Lakes",
+    "Latitude": 41.016764,
+    "Longitude": -74.205701
+  },
+  {
+    "Address": "New_Jersey Franklin Township",
+    "Latitude": 40.493373,
+    "Longitude": -74.522892
+  },
+  {
+    "Address": "New_Jersey Freehold Township",
+    "Latitude": 40.213675,
+    "Longitude": -74.300088
+  },
+  {
+    "Address": "New_Jersey Galloway Township",
+    "Latitude": 39.492824,
+    "Longitude": -74.559688
+  },
+  {
+    "Address": "New_Jersey Glassboro",
+    "Latitude": 39.702892,
+    "Longitude": -75.111842
+  },
+  {
+    "Address": "New_Jersey Glen Ridge",
+    "Latitude": 40.805378,
+    "Longitude": -74.203757
+  },
+  {
+    "Address": "New_Jersey Gloucester Township",
+    "Latitude": 39.793381,
+    "Longitude": -75.049433
+  },
+  {
+    "Address": "New_Jersey Green Brook Township",
+    "Latitude": 40.604917,
+    "Longitude": -74.485166
+  },
+  {
+    "Address": "New_Jersey Greenwich Township",
+    "Latitude": 40.68262,
+    "Longitude": -75.119511
+  },
+  {
+    "Address": "New_Jersey Haddonfield",
+    "Latitude": 39.891502,
+    "Longitude": -75.037671
+  },
+  {
+    "Address": "New_Jersey Haddon Township",
+    "Latitude": 39.910518,
+    "Longitude": -75.049745
+  },
+  {
+    "Address": "New_Jersey Hardyston Township",
+    "Latitude": 41.113704,
+    "Longitude": -74.554051
+  },
+  {
+    "Address": "New_Jersey Harrison",
+    "Latitude": 40.74649,
+    "Longitude": -74.156255
+  },
+  {
+    "Address": "New_Jersey Harrison Township",
+    "Latitude": 39.729649,
+    "Longitude": -75.207737
+  },
+  {
+    "Address": "New_Jersey Highland Park",
+    "Latitude": 40.495938,
+    "Longitude": -74.424318
+  },
+  {
+    "Address": "New_Jersey Hightstown",
+    "Latitude": 40.269554,
+    "Longitude": -74.523209
+  },
+  {
+    "Address": "New_Jersey Hillsborough Township",
+    "Latitude": 40.510632,
+    "Longitude": -74.647252
+  },
+  {
+    "Address": "New_Jersey Hoboken",
+    "Latitude": 40.743991,
+    "Longitude": -74.032363
+  },
+  {
+    "Address": "New_Jersey Holmdel Township",
+    "Latitude": 40.34511,
+    "Longitude": -74.184032
+  },
+  {
+    "Address": "New_Jersey Howell Township",
+    "Latitude": 40.164579,
+    "Longitude": -74.208267
+  },
+  {
+    "Address": "New_Jersey Irvington",
+    "Latitude": 40.726325,
+    "Longitude": -74.228643
+  },
+  {
+    "Address": "New_Jersey Jackson Township",
+    "Latitude": 40.09189,
+    "Longitude": -74.358747
+  },
+  {
+    "Address": "New_Jersey Jersey City",
+    "Latitude": 40.728157,
+    "Longitude": -74.077642
+  },
+  {
+    "Address": "New_Jersey Keansburg",
+    "Latitude": 40.441774,
+    "Longitude": -74.129864
+  },
+  {
+    "Address": "New_Jersey Lacey Township",
+    "Latitude": 39.872618,
+    "Longitude": -74.295144
+  },
+  {
+    "Address": "New_Jersey Lakewood Township",
+    "Latitude": 40.082129,
+    "Longitude": -74.209701
+  },
+  {
+    "Address": "New_Jersey Lawrence Township",
+    "Latitude": 40.277806,
+    "Longitude": -74.729431
+  },
+  {
+    "Address": "New_Jersey Little Egg Harbor Township",
+    "Latitude": 39.610849,
+    "Longitude": -74.357265
+  },
+  {
+    "Address": "New_Jersey Little Falls Township",
+    "Latitude": 40.86901,
+    "Longitude": -74.208229
+  },
+  {
+    "Address": "New_Jersey Livingston Township",
+    "Latitude": 40.786287,
+    "Longitude": -74.330084
+  },
+  {
+    "Address": "New_Jersey Logan Township",
+    "Latitude": 39.784718,
+    "Longitude": -75.349185
+  },
+  {
+    "Address": "New_Jersey Long Beach Township",
+    "Latitude": 39.615501,
+    "Longitude": -74.199545
+  },
+  {
+    "Address": "New_Jersey Lower Township",
+    "Latitude": 38.974529,
+    "Longitude": -74.900333
+  },
+  {
+    "Address": "New_Jersey Lumberton Township",
+    "Latitude": 39.967648,
+    "Longitude": -74.800388
+  },
+  {
+    "Address": "New_Jersey Mahwah Township",
+    "Latitude": 41.088622,
+    "Longitude": -74.143584
+  },
+  {
+    "Address": "New_Jersey Manalapan Township",
+    "Latitude": 40.28592,
+    "Longitude": -74.348582
+  },
+  {
+    "Address": "New_Jersey Manasquan",
+    "Latitude": 40.113693,
+    "Longitude": -74.037635
+  },
+  {
+    "Address": "New_Jersey Manchester Township",
+    "Latitude": 39.97117,
+    "Longitude": -74.339282
+  },
+  {
+    "Address": "New_Jersey Maple Shade Township",
+    "Latitude": 39.952613,
+    "Longitude": -74.992391
+  },
+  {
+    "Address": "New_Jersey Margate City",
+    "Latitude": 39.327894,
+    "Longitude": -74.503486
+  },
+  {
+    "Address": "New_Jersey Marlboro Township",
+    "Latitude": 40.338095,
+    "Longitude": -74.268729
+  },
+  {
+    "Address": "New_Jersey Medford Lakes",
+    "Latitude": 39.86231,
+    "Longitude": -74.805773
+  },
+  {
+    "Address": "New_Jersey Medford Township",
+    "Latitude": 39.866183,
+    "Longitude": -74.839016
+  },
+  {
+    "Address": "New_Jersey Mendham",
+    "Latitude": 40.775933,
+    "Longitude": -74.600714
+  },
+  {
+    "Address": "New_Jersey Middlesex",
+    "Latitude": 40.411136,
+    "Longitude": -74.358747
+  },
+  {
+    "Address": "New_Jersey Middletown Township",
+    "Latitude": 40.396801,
+    "Longitude": -74.091598
+  },
+  {
+    "Address": "New_Jersey Monroe Township",
+    "Latitude": 40.336419,
+    "Longitude": -74.433047
+  },
+  {
+    "Address": "New_Jersey Montclair",
+    "Latitude": 40.825901,
+    "Longitude": -74.209005
+  },
+  {
+    "Address": "New_Jersey Montgomery Township",
+    "Latitude": 40.432914,
+    "Longitude": -74.663464
+  },
+  {
+    "Address": "New_Jersey Moorestown Township",
+    "Latitude": 39.968882,
+    "Longitude": -74.948886
+  },
+  {
+    "Address": "New_Jersey Morris Township",
+    "Latitude": 40.793383,
+    "Longitude": -74.505312
+  },
+  {
+    "Address": "New_Jersey Mount Laurel Township",
+    "Latitude": 39.934002,
+    "Longitude": -74.890999
+  },
+  {
+    "Address": "New_Jersey Mount Olive Township",
+    "Latitude": 40.851488,
+    "Longitude": -74.732941
+  },
+  {
+    "Address": "New_Jersey Neptune Township",
+    "Latitude": 40.209122,
+    "Longitude": -74.038627
+  },
+  {
+    "Address": "New_Jersey Newark",
+    "Latitude": 40.735657,
+    "Longitude": -74.172367
+  },
+  {
+    "Address": "New_Jersey New Brunswick",
+    "Latitude": 40.486216,
+    "Longitude": -74.451819
+  },
+  {
+    "Address": "New_Jersey New Providence",
+    "Latitude": 40.698435,
+    "Longitude": -74.401541
+  },
+  {
+    "Address": "New_Jersey North Brunswick Township",
+    "Latitude": 40.452516,
+    "Longitude": -74.476671
+  },
+  {
+    "Address": "New_Jersey Nutley Township",
+    "Latitude": 40.822317,
+    "Longitude": -74.159872
+  },
+  {
+    "Address": "New_Jersey Oakland",
+    "Latitude": 41.013153,
+    "Longitude": -74.264314
+  },
+  {
+    "Address": "New_Jersey Oceanport",
+    "Latitude": 40.318166,
+    "Longitude": -74.015138
+  },
+  {
+    "Address": "New_Jersey Old Bridge Township",
+    "Latitude": 40.412855,
+    "Longitude": -74.307282
+  },
+  {
+    "Address": "New_Jersey Palmyra",
+    "Latitude": 40.007057,
+    "Longitude": -75.028227
+  },
+  {
+    "Address": "New_Jersey Paramus",
+    "Latitude": 40.944543,
+    "Longitude": -74.075419
+  },
+  {
+    "Address": "New_Jersey Parsippany-Troy Hills Township",
+    "Latitude": 40.865287,
+    "Longitude": -74.417388
+  },
+  {
+    "Address": "New_Jersey Passaic",
+    "Latitude": 40.856766,
+    "Longitude": -74.128476
+  },
+  {
+    "Address": "New_Jersey Paulsboro",
+    "Latitude": 39.830391,
+    "Longitude": -75.240461
+  },
+  {
+    "Address": "New_Jersey Pemberton Township",
+    "Latitude": 39.960083,
+    "Longitude": -74.584109
+  },
+  {
+    "Address": "New_Jersey Pennsauken Township",
+    "Latitude": 39.956205,
+    "Longitude": -75.058009
+  },
+  {
+    "Address": "New_Jersey Pequannock Township",
+    "Latitude": 40.960201,
+    "Longitude": -74.297324
+  },
+  {
+    "Address": "New_Jersey Phillipsburg",
+    "Latitude": 40.69371,
+    "Longitude": -75.190176
+  },
+  {
+    "Address": "New_Jersey Pine Hill",
+    "Latitude": 39.784281,
+    "Longitude": -74.992111
+  },
+  {
+    "Address": "New_Jersey Piscataway Township",
+    "Latitude": 40.554887,
+    "Longitude": -74.464286
+  },
+  {
+    "Address": "New_Jersey Pitman",
+    "Latitude": 39.732892,
+    "Longitude": -75.131565
+  },
+  {
+    "Address": "New_Jersey Plainsboro Township",
+    "Latitude": 40.338254,
+    "Longitude": -74.585292
+  },
+  {
+    "Address": "New_Jersey Point Pleasant",
+    "Latitude": 40.083171,
+    "Longitude": -74.068193
+  },
+  {
+    "Address": "New_Jersey Randolph Township",
+    "Latitude": 40.847807,
+    "Longitude": -74.574725
+  },
+  {
+    "Address": "New_Jersey Raritan",
+    "Latitude": 40.569547,
+    "Longitude": -74.632936
+  },
+  {
+    "Address": "New_Jersey Readington Township",
+    "Latitude": 40.568714,
+    "Longitude": -74.737662
+  },
+  {
+    "Address": "New_Jersey Robbinsville Township",
+    "Latitude": 40.216204,
+    "Longitude": -74.619533
+  },
+  {
+    "Address": "New_Jersey Runnemede",
+    "Latitude": 39.852336,
+    "Longitude": -75.06795
+  },
+  {
+    "Address": "New_Jersey Salem",
+    "Latitude": 39.57178,
+    "Longitude": -75.467142
+  },
+  {
+    "Address": "New_Jersey Secaucus",
+    "Latitude": 40.789545,
+    "Longitude": -74.05653
+  },
+  {
+    "Address": "New_Jersey Shrewsbury",
+    "Latitude": 40.329555,
+    "Longitude": -74.061529
+  },
+  {
+    "Address": "New_Jersey Somerville",
+    "Latitude": 40.57427,
+    "Longitude": -74.60988
+  },
+  {
+    "Address": "New_Jersey South Brunswick Township",
+    "Latitude": 40.38069,
+    "Longitude": -74.531694
+  },
+  {
+    "Address": "New_Jersey South Orange",
+    "Latitude": 40.748928,
+    "Longitude": -74.26099
+  },
+  {
+    "Address": "New_Jersey South Plainfield",
+    "Latitude": 40.57927,
+    "Longitude": -74.41154
+  },
+  {
+    "Address": "New_Jersey Spotswood",
+    "Latitude": 40.391774,
+    "Longitude": -74.398483
+  },
+  {
+    "Address": "New_Jersey Toms River Township",
+    "Latitude": 39.953736,
+    "Longitude": -74.197946
+  },
+  {
+    "Address": "New_Jersey Totowa",
+    "Latitude": 40.905099,
+    "Longitude": -74.209868
+  },
+  {
+    "Address": "New_Jersey Trenton",
+    "Latitude": 40.217053,
+    "Longitude": -74.742938
+  },
+  {
+    "Address": "New_Jersey Union Beach",
+    "Latitude": 40.446496,
+    "Longitude": -74.178199
+  },
+  {
+    "Address": "New_Jersey Union City",
+    "Latitude": 40.779546,
+    "Longitude": -74.023751
+  },
+  {
+    "Address": "New_Jersey Verona",
+    "Latitude": 40.829801,
+    "Longitude": -74.240161
+  },
+  {
+    "Address": "New_Jersey Vineland",
+    "Latitude": 39.486377,
+    "Longitude": -75.025964
+  },
+  {
+    "Address": "New_Jersey Voorhees Township",
+    "Latitude": 39.851945,
+    "Longitude": -74.961517
+  },
+  {
+    "Address": "New_Jersey Washington",
+    "Latitude": 40.758433,
+    "Longitude": -74.979338
+  },
+  {
+    "Address": "New_Jersey Washington Township",
+    "Latitude": 39.756139,
+    "Longitude": -75.072796
+  },
+  {
+    "Address": "New_Jersey Washington Township",
+    "Latitude": 39.756139,
+    "Longitude": -75.072796
+  },
+  {
+    "Address": "New_Jersey Watchung",
+    "Latitude": 40.63788,
+    "Longitude": -74.450986
+  },
+  {
+    "Address": "New_Jersey Weehawken Township",
+    "Latitude": 40.766371,
+    "Longitude": -74.025371
+  },
+  {
+    "Address": "New_Jersey West Caldwell Township",
+    "Latitude": 40.840933,
+    "Longitude": -74.301815
+  },
+  {
+    "Address": "New_Jersey West Deptford Township",
+    "Latitude": 39.831838,
+    "Longitude": -75.189558
+  },
+  {
+    "Address": "New_Jersey West Long Branch",
+    "Latitude": 40.290389,
+    "Longitude": -74.017638
+  },
+  {
+    "Address": "New_Jersey West Milford Township",
+    "Latitude": 41.131129,
+    "Longitude": -74.367325
+  },
+  {
+    "Address": "New_Jersey Woodbridge Township",
+    "Latitude": 40.557599,
+    "Longitude": -74.284602
+  },
+  {
+    "Address": "New_Jersey Woodbury",
+    "Latitude": 39.838169,
+    "Longitude": -75.152677
+  },
+  {
+    "Address": "New_Jersey Woodbury Heights",
+    "Latitude": 39.817058,
+    "Longitude": -75.155178
+  },
+  {
+    "Address": "New_Jersey Woolwich Township",
+    "Latitude": 39.737154,
+    "Longitude": -75.309629
+  },
+  {
+    "Address": "New_Jersey Camden County Police Department",
+    "Latitude": 39.943702,
+    "Longitude": -75.116222
+  },
+  {
+    "Address": "New_Jersey State Police: Ocean County",
+    "Latitude": 40.133987,
+    "Longitude": -74.717739
+  },
+  {
+    "Address": "New_Jersey State Police: Salem County",
+    "Latitude": 39.662735,
+    "Longitude": -75.375817
+  },
+  {
+    "Address": "New_Mexico Albuquerque",
+    "Latitude": 35.085334,
+    "Longitude": -106.605553
+  },
+  {
+    "Address": "New_Mexico Belen",
+    "Latitude": 34.662765,
+    "Longitude": -106.776155
+  },
+  {
+    "Address": "New_Mexico Los Lunas",
+    "Latitude": 34.806166,
+    "Longitude": -106.73336
+  },
+  {
+    "Address": "New_York Albany",
+    "Latitude": 42.652579,
+    "Longitude": -73.756232
+  },
+  {
+    "Address": "New_York Amherst Town",
+    "Latitude": 42.979007,
+    "Longitude": -78.792272
+  },
+  {
+    "Address": "New_York Batavia",
+    "Latitude": 42.998116,
+    "Longitude": -78.187517
+  },
+  {
+    "Address": "New_York Brighton Town",
+    "Latitude": 43.122272,
+    "Longitude": -77.573405
+  },
+  {
+    "Address": "New_York Buffalo",
+    "Latitude": 42.886447,
+    "Longitude": -78.878369
+  },
+  {
+    "Address": "New_York Canandaigua",
+    "Latitude": 42.887535,
+    "Longitude": -77.281698
+  },
+  {
+    "Address": "New_York Clarkstown Town",
+    "Latitude": 41.125972,
+    "Longitude": -73.959494
+  },
+  {
+    "Address": "New_York Cohoes",
+    "Latitude": 42.774245,
+    "Longitude": -73.700119
+  },
+  {
+    "Address": "New_York Colonie Town",
+    "Latitude": 42.72367,
+    "Longitude": -73.77132
+  },
+  {
+    "Address": "New_York Crawford Town",
+    "Latitude": 41.60293,
+    "Longitude": -74.304785
+  },
+  {
+    "Address": "New_York Croton-on-Hudson Village",
+    "Latitude": 41.208428,
+    "Longitude": -73.891248
+  },
+  {
+    "Address": "New_York Freeport Village",
+    "Latitude": 40.657602,
+    "Longitude": -73.583184
+  },
+  {
+    "Address": "New_York Greece Town",
+    "Latitude": 43.209784,
+    "Longitude": -77.69306
+  },
+  {
+    "Address": "New_York Hamburg Town",
+    "Latitude": 42.715893,
+    "Longitude": -78.829477
+  },
+  {
+    "Address": "New_York Hyde Park Town",
+    "Latitude": 41.76676,
+    "Longitude": -73.901525
+  },
+  {
+    "Address": "New_York Ithaca",
+    "Latitude": 42.443961,
+    "Longitude": -76.501881
+  },
+  {
+    "Address": "New_York Jamestown",
+    "Latitude": 42.097002,
+    "Longitude": -79.235326
+  },
+  {
+    "Address": "New_York Liberty Village",
+    "Latitude": 41.8012,
+    "Longitude": -74.74655
+  },
+  {
+    "Address": "New_York Middletown",
+    "Latitude": 41.445927,
+    "Longitude": -74.422934
+  },
+  {
+    "Address": "New_York Monroe Village",
+    "Latitude": 41.304602,
+    "Longitude": -74.182712
+  },
+  {
+    "Address": "New_York Mount Vernon",
+    "Latitude": 40.912599,
+    "Longitude": -73.837079
+  },
+  {
+    "Address": "New_York Newburgh",
+    "Latitude": 41.503427,
+    "Longitude": -74.010418
+  },
+  {
+    "Address": "New_York New Rochelle",
+    "Latitude": 40.911488,
+    "Longitude": -73.782355
+  },
+  {
+    "Address": "New_York New York",
+    "Latitude": 40.712775,
+    "Longitude": -74.005973
+  },
+  {
+    "Address": "New_York Niagara Falls",
+    "Latitude": 43.096214,
+    "Longitude": -79.037739
+  },
+  {
+    "Address": "New_York North Syracuse Village",
+    "Latitude": 43.13479,
+    "Longitude": -76.129924
+  },
+  {
+    "Address": "New_York Owego Village",
+    "Latitude": 42.103408,
+    "Longitude": -76.262155
+  },
+  {
+    "Address": "New_York Poughkeepsie",
+    "Latitude": 41.700371,
+    "Longitude": -73.92097
+  },
+  {
+    "Address": "New_York Poughkeepsie Town",
+    "Latitude": 41.700371,
+    "Longitude": -73.92097
+  },
+  {
+    "Address": "New_York Ramapo Town",
+    "Latitude": 41.141206,
+    "Longitude": -74.168479
+  },
+  {
+    "Address": "New_York Rochester",
+    "Latitude": 43.16103,
+    "Longitude": -77.610922
+  },
+  {
+    "Address": "New_York Rockville Centre Village",
+    "Latitude": 40.658714,
+    "Longitude": -73.641241
+  },
+  {
+    "Address": "New_York Salamanca",
+    "Latitude": 42.157841,
+    "Longitude": -78.715031
+  },
+  {
+    "Address": "New_York Saratoga Springs",
+    "Latitude": 43.08313,
+    "Longitude": -73.784565
+  },
+  {
+    "Address": "New_York Scarsdale Village",
+    "Latitude": 41.005098,
+    "Longitude": -73.784577
+  },
+  {
+    "Address": "New_York Schodack Town",
+    "Latitude": 42.51912,
+    "Longitude": -73.677166
+  },
+  {
+    "Address": "New_York Sleepy Hollow Village",
+    "Latitude": 41.085652,
+    "Longitude": -73.858468
+  },
+  {
+    "Address": "New_York Spring Valley Village",
+    "Latitude": 41.113151,
+    "Longitude": -74.043752
+  },
+  {
+    "Address": "New_York Troy",
+    "Latitude": 42.728412,
+    "Longitude": -73.691785
+  },
+  {
+    "Address": "New_York Tuckahoe Village",
+    "Latitude": 40.950376,
+    "Longitude": -73.827356
+  },
+  {
+    "Address": "New_York Utica",
+    "Latitude": 43.100903,
+    "Longitude": -75.232664
+  },
+  {
+    "Address": "New_York West Seneca Town",
+    "Latitude": 42.835898,
+    "Longitude": -78.75389
+  },
+  {
+    "Address": "New_York Yonkers",
+    "Latitude": 40.93121,
+    "Longitude": -73.898747
+  },
+  {
+    "Address": "New_York Cornell University",
+    "Latitude": 42.453449,
+    "Longitude": -76.473503
+  },
+  {
+    "Address": "New_York Ithaca College",
+    "Latitude": 42.421658,
+    "Longitude": -76.498564
+  },
+  {
+    "Address": "New_York State University of New York: Binghamton",
+    "Latitude": 42.089355,
+    "Longitude": -75.969705
+  },
+  {
+    "Address": "New_York State University of New York: Stony Brook",
+    "Latitude": 40.912376,
+    "Longitude": -73.123389
+  },
+  {
+    "Address": "New_York State University of New York Agricultural and Technical College: Alfred",
+    "Latitude": 42.255238,
+    "Longitude": -77.794653
+  },
+  {
+    "Address": "New_York State University of New York Agricultural and Technical College: Cobleskill",
+    "Latitude": 42.671702,
+    "Longitude": -74.498279
+  },
+  {
+    "Address": "New_York State University of New York Agricultural and Technical College: Morrisville",
+    "Latitude": 42.891178,
+    "Longitude": -75.641277
+  },
+  {
+    "Address": "New_York State University of New York College: Buffalo",
+    "Latitude": 43.000809,
+    "Longitude": -78.78897
+  },
+  {
+    "Address": "New_York State University of New York College: Cortland",
+    "Latitude": 42.599001,
+    "Longitude": -76.187797
+  },
+  {
+    "Address": "New_York State University of New York College: Fredonia",
+    "Latitude": 42.453867,
+    "Longitude": -79.340363
+  },
+  {
+    "Address": "New_York State University of New York College: New Paltz",
+    "Latitude": 41.739005,
+    "Longitude": -74.085166
+  },
+  {
+    "Address": "New_York State University of New York College: Oneonta",
+    "Latitude": 42.465096,
+    "Longitude": -75.065151
+  },
+  {
+    "Address": "New_York State University of New York College: Oswego",
+    "Latitude": 43.451429,
+    "Longitude": -76.544317
+  },
+  {
+    "Address": "New_York State University of New York College: Potsdam",
+    "Latitude": 44.66431,
+    "Longitude": -74.976106
+  },
+  {
+    "Address": "New_York State University of New York College: Purchase",
+    "Latitude": 41.046649,
+    "Longitude": -73.697766
+  },
+  {
+    "Address": "New_York Broome",
+    "Latitude": 42.491656,
+    "Longitude": -74.288354
+  },
+  {
+    "Address": "New_York Erie",
+    "Latitude": 42.902396,
+    "Longitude": -78.866159
+  },
+  {
+    "Address": "New_York Livingston",
+    "Latitude": 42.142423,
+    "Longitude": -73.777916
+  },
+  {
+    "Address": "New_York Monroe",
+    "Latitude": 41.304602,
+    "Longitude": -74.182712
+  },
+  {
+    "Address": "New_York Nassau",
+    "Latitude": 42.515915,
+    "Longitude": -73.610116
+  },
+  {
+    "Address": "New_York Oneida",
+    "Latitude": 43.092568,
+    "Longitude": -75.651293
+  },
+  {
+    "Address": "New_York Putnam",
+    "Latitude": 41.435107,
+    "Longitude": -73.794852
+  },
+  {
+    "Address": "New_York Suffolk County Police Department",
+    "Latitude": 40.820507,
+    "Longitude": -72.998804
+  },
+  {
+    "Address": "New_York Ulster",
+    "Latitude": 41.858649,
+    "Longitude": -74.311821
+  },
+  {
+    "Address": "New_York Westchester Public Safety",
+    "Latitude": 41.030325,
+    "Longitude": -73.768562
+  },
+  {
+    "Address": "New_York St. Lawrence",
+    "Latitude": 44.447314,
+    "Longitude": -74.930206
+  },
+  {
+    "Address": "New_York State Police: Broome County",
+    "Latitude": 42.906562,
+    "Longitude": -76.1129
+  },
+  {
+    "Address": "New_York State Police: Dutchess County",
+    "Latitude": 41.879709,
+    "Longitude": -73.911964
+  },
+  {
+    "Address": "New_York State Police: Franklin County",
+    "Latitude": 42.323031,
+    "Longitude": -75.351282
+  },
+  {
+    "Address": "New_York State Police: Herkimer County",
+    "Latitude": 43.029474,
+    "Longitude": -74.954334
+  },
+  {
+    "Address": "New_York State Police: Jefferson County",
+    "Latitude": 43.972774,
+    "Longitude": -75.92771
+  },
+  {
+    "Address": "New_York State Police: Madison County",
+    "Latitude": 43.077529,
+    "Longitude": -75.649648
+  },
+  {
+    "Address": "New_York State Police: Nassau County",
+    "Latitude": 42.906562,
+    "Longitude": -76.1129
+  },
+  {
+    "Address": "New_York State Police: Orange County",
+    "Latitude": 42.906562,
+    "Longitude": -76.1129
+  },
+  {
+    "Address": "New_York State Police: Otsego County",
+    "Latitude": 42.851165,
+    "Longitude": -74.97051
+  },
+  {
+    "Address": "New_York State Police: Putnam County",
+    "Latitude": 41.321288,
+    "Longitude": -73.68817
+  },
+  {
+    "Address": "New_York State Police: Saratoga County",
+    "Latitude": 43.176467,
+    "Longitude": -73.736144
+  },
+  {
+    "Address": "New_York State Police: Steuben County",
+    "Latitude": 42.350517,
+    "Longitude": -77.343738
+  },
+  {
+    "Address": "New_York State Police: Ulster County",
+    "Latitude": 41.374996,
+    "Longitude": -74.561108
+  },
+  {
+    "Address": "New_York State Police: Westchester County",
+    "Latitude": 41.321288,
+    "Longitude": -73.68817
+  },
+  {
+    "Address": "New_York New York City Metropolitan Transportation Authority",
+    "Latitude": 40.704423,
+    "Longitude": -74.012844
+  },
+  {
+    "Address": "New_York State Park",
+    "Latitude": 42.767559,
+    "Longitude": -78.743919
+  },
+  {
+    "Address": "North_Carolina Albemarle",
+    "Latitude": 35.350143,
+    "Longitude": -80.200058
+  },
+  {
+    "Address": "North_Carolina Asheboro",
+    "Latitude": 35.707915,
+    "Longitude": -79.813645
+  },
+  {
+    "Address": "North_Carolina Asheville",
+    "Latitude": 35.595058,
+    "Longitude": -82.551487
+  },
+  {
+    "Address": "North_Carolina Burlington",
+    "Latitude": 36.095692,
+    "Longitude": -79.437799
+  },
+  {
+    "Address": "North_Carolina Carrboro",
+    "Latitude": 35.910144,
+    "Longitude": -79.075289
+  },
+  {
+    "Address": "North_Carolina Chapel Hill",
+    "Latitude": 35.9132,
+    "Longitude": -79.055845
+  },
+  {
+    "Address": "North_Carolina Charlotte-Mecklenburg",
+    "Latitude": 35.227087,
+    "Longitude": -80.843127
+  },
+  {
+    "Address": "North_Carolina Concord",
+    "Latitude": 35.408752,
+    "Longitude": -80.579511
+  },
+  {
+    "Address": "North_Carolina Creedmoor",
+    "Latitude": 36.122368,
+    "Longitude": -78.686115
+  },
+  {
+    "Address": "North_Carolina Durham",
+    "Latitude": 35.994033,
+    "Longitude": -78.898619
+  },
+  {
+    "Address": "North_Carolina Fayetteville",
+    "Latitude": 35.052664,
+    "Longitude": -78.878358
+  },
+  {
+    "Address": "North_Carolina Gastonia",
+    "Latitude": 35.262082,
+    "Longitude": -81.1873
+  },
+  {
+    "Address": "North_Carolina Greensboro",
+    "Latitude": 36.072635,
+    "Longitude": -79.791975
+  },
+  {
+    "Address": "North_Carolina Greenville",
+    "Latitude": 35.612661,
+    "Longitude": -77.366354
+  },
+  {
+    "Address": "North_Carolina Hickory",
+    "Latitude": 35.734454,
+    "Longitude": -81.344457
+  },
+  {
+    "Address": "North_Carolina Huntersville",
+    "Latitude": 35.410694,
+    "Longitude": -80.84285
+  },
+  {
+    "Address": "North_Carolina King",
+    "Latitude": 36.280694,
+    "Longitude": -80.35922
+  },
+  {
+    "Address": "North_Carolina Leland",
+    "Latitude": 34.256281,
+    "Longitude": -78.044714
+  },
+  {
+    "Address": "North_Carolina Lilesville",
+    "Latitude": 34.967654,
+    "Longitude": -79.984503
+  },
+  {
+    "Address": "North_Carolina Mint Hill",
+    "Latitude": 35.17354,
+    "Longitude": -80.65703
+  },
+  {
+    "Address": "North_Carolina Morganton",
+    "Latitude": 35.745407,
+    "Longitude": -81.684819
+  },
+  {
+    "Address": "North_Carolina New Bern",
+    "Latitude": 35.108493,
+    "Longitude": -77.044114
+  },
+  {
+    "Address": "North_Carolina Oxford",
+    "Latitude": 36.3107,
+    "Longitude": -78.590835
+  },
+  {
+    "Address": "North_Carolina Raleigh",
+    "Latitude": 35.77959,
+    "Longitude": -78.638179
+  },
+  {
+    "Address": "North_Carolina Rocky Mount",
+    "Latitude": 35.93821,
+    "Longitude": -77.790534
+  },
+  {
+    "Address": "North_Carolina Roxboro",
+    "Latitude": 36.393752,
+    "Longitude": -78.982788
+  },
+  {
+    "Address": "North_Carolina Salisbury",
+    "Latitude": 35.670973,
+    "Longitude": -80.474226
+  },
+  {
+    "Address": "North_Carolina Siler City",
+    "Latitude": 35.723473,
+    "Longitude": -79.462243
+  },
+  {
+    "Address": "North_Carolina Thomasville",
+    "Latitude": 35.882637,
+    "Longitude": -80.081988
+  },
+  {
+    "Address": "North_Carolina Wadesboro",
+    "Latitude": 34.96821,
+    "Longitude": -80.076727
+  },
+  {
+    "Address": "North_Carolina Wilmington",
+    "Latitude": 34.225726,
+    "Longitude": -77.94471
+  },
+  {
+    "Address": "North_Carolina Wilson",
+    "Latitude": 35.721269,
+    "Longitude": -77.91554
+  },
+  {
+    "Address": "North_Carolina Wrightsville Beach",
+    "Latitude": 34.208504,
+    "Longitude": -77.796371
+  },
+  {
+    "Address": "North_Carolina East Carolina University",
+    "Latitude": 35.605511,
+    "Longitude": -77.364565
+  },
+  {
+    "Address": "North_Carolina North Carolina School of the Arts",
+    "Latitude": 36.07625,
+    "Longitude": -80.237002
+  },
+  {
+    "Address": "North_Carolina University of North Carolina: Greensboro",
+    "Latitude": 36.06893,
+    "Longitude": -79.810198
+  },
+  {
+    "Address": "North_Carolina University of North Carolina: Wilmington",
+    "Latitude": 34.22494,
+    "Longitude": -77.870127
+  },
+  {
+    "Address": "North_Carolina Wake Forest University",
+    "Latitude": 36.13525,
+    "Longitude": -80.276342
+  },
+  {
+    "Address": "North_Carolina Buncombe",
+    "Latitude": 35.593138,
+    "Longitude": -82.475276
+  },
+  {
+    "Address": "North_Carolina Cabarrus",
+    "Latitude": 35.416812,
+    "Longitude": -80.58828
+  },
+  {
+    "Address": "North_Carolina Catawba",
+    "Latitude": 35.684075,
+    "Longitude": -81.251883
+  },
+  {
+    "Address": "North_Carolina Guilford",
+    "Latitude": 36.089987,
+    "Longitude": -79.829674
+  },
+  {
+    "Address": "North_Carolina Iredell",
+    "Latitude": 35.83105,
+    "Longitude": -80.89865
+  },
+  {
+    "Address": "North_Carolina New Hanover",
+    "Latitude": 34.215491,
+    "Longitude": -77.88246
+  },
+  {
+    "Address": "North_Carolina Pitt",
+    "Latitude": 35.558922,
+    "Longitude": -77.424297
+  },
+  {
+    "Address": "North_Carolina Rutherford",
+    "Latitude": 35.425874,
+    "Longitude": -81.909826
+  },
+  {
+    "Address": "North_Carolina Surry",
+    "Latitude": 36.374345,
+    "Longitude": -80.677079
+  },
+  {
+    "Address": "North_Carolina Swain",
+    "Latitude": 35.432896,
+    "Longitude": -83.464355
+  },
+  {
+    "Address": "North_Dakota Beulah",
+    "Latitude": 47.26334,
+    "Longitude": -101.777946
+  },
+  {
+    "Address": "North_Dakota Bismarck",
+    "Latitude": 46.808327,
+    "Longitude": -100.783739
+  },
+  {
+    "Address": "North_Dakota Carrington",
+    "Latitude": 47.44972,
+    "Longitude": -99.126223
+  },
+  {
+    "Address": "North_Dakota Devils Lake",
+    "Latitude": 48.112779,
+    "Longitude": -98.86512
+  },
+  {
+    "Address": "North_Dakota Dickinson",
+    "Latitude": 46.879176,
+    "Longitude": -102.789624
+  },
+  {
+    "Address": "North_Dakota Fargo",
+    "Latitude": 46.877186,
+    "Longitude": -96.789803
+  },
+  {
+    "Address": "North_Dakota Mandan",
+    "Latitude": 46.82666,
+    "Longitude": -100.889576
+  },
+  {
+    "Address": "North_Dakota Minot",
+    "Latitude": 48.232967,
+    "Longitude": -101.292291
+  },
+  {
+    "Address": "North_Dakota Valley City",
+    "Latitude": 46.923313,
+    "Longitude": -98.003155
+  },
+  {
+    "Address": "North_Dakota West Fargo",
+    "Latitude": 46.876949,
+    "Longitude": -96.899906
+  },
+  {
+    "Address": "North_Dakota Williston",
+    "Latitude": 48.146968,
+    "Longitude": -103.617974
+  },
+  {
+    "Address": "North_Dakota Cass",
+    "Latitude": 47.071168,
+    "Longitude": -97.121558
+  },
+  {
+    "Address": "North_Dakota Grand Forks",
+    "Latitude": 47.925257,
+    "Longitude": -97.032855
+  },
+  {
+    "Address": "North_Dakota Morton",
+    "Latitude": 46.668387,
+    "Longitude": -101.162174
+  },
+  {
+    "Address": "North_Dakota Dunn",
+    "Latitude": 47.212163,
+    "Longitude": -102.72602
+  },
+  {
+    "Address": "North_Dakota Golden Valley",
+    "Latitude": 47.290842,
+    "Longitude": -102.064617
+  },
+  {
+    "Address": "North_Dakota Grant",
+    "Latitude": 46.395111,
+    "Longitude": -101.553556
+  },
+  {
+    "Address": "North_Dakota Mountrail",
+    "Latitude": 48.216986,
+    "Longitude": -102.326433
+  },
+  {
+    "Address": "North_Dakota Walsh",
+    "Latitude": 48.377787,
+    "Longitude": -97.752887
+  },
+  {
+    "Address": "Ohio Akron",
+    "Latitude": 41.081445,
+    "Longitude": -81.519005
+  },
+  {
+    "Address": "Ohio Alliance",
+    "Latitude": 40.915336,
+    "Longitude": -81.105931
+  },
+  {
+    "Address": "Ohio Ashland",
+    "Latitude": 40.868668,
+    "Longitude": -82.318218
+  },
+  {
+    "Address": "Ohio Athens",
+    "Latitude": 39.32924,
+    "Longitude": -82.101255
+  },
+  {
+    "Address": "Ohio Austintown",
+    "Latitude": 41.101725,
+    "Longitude": -80.764524
+  },
+  {
+    "Address": "Ohio Barberton",
+    "Latitude": 41.012833,
+    "Longitude": -81.605122
+  },
+  {
+    "Address": "Ohio Bath Township",
+    "Latitude": 41.167495,
+    "Longitude": -81.636387
+  },
+  {
+    "Address": "Ohio Bellefontaine",
+    "Latitude": 40.361164,
+    "Longitude": -83.759656
+  },
+  {
+    "Address": "Ohio Blue Ash",
+    "Latitude": 39.232003,
+    "Longitude": -84.378273
+  },
+  {
+    "Address": "Ohio Boardman",
+    "Latitude": 41.024226,
+    "Longitude": -80.662853
+  },
+  {
+    "Address": "Ohio Bucyrus",
+    "Latitude": 40.808391,
+    "Longitude": -82.975465
+  },
+  {
+    "Address": "Ohio Butler Township",
+    "Latitude": 39.864329,
+    "Longitude": -84.243685
+  },
+  {
+    "Address": "Ohio Celina",
+    "Latitude": 40.548936,
+    "Longitude": -84.570234
+  },
+  {
+    "Address": "Ohio Cincinnati",
+    "Latitude": 39.103118,
+    "Longitude": -84.51202
+  },
+  {
+    "Address": "Ohio Circleville",
+    "Latitude": 39.600618,
+    "Longitude": -82.946013
+  },
+  {
+    "Address": "Ohio Clearcreek Township",
+    "Latitude": 39.528367,
+    "Longitude": -84.206799
+  },
+  {
+    "Address": "Ohio Cleveland",
+    "Latitude": 41.49932,
+    "Longitude": -81.694361
+  },
+  {
+    "Address": "Ohio Colerain Township",
+    "Latitude": 39.259177,
+    "Longitude": -84.626982
+  },
+  {
+    "Address": "Ohio Columbus",
+    "Latitude": 39.961176,
+    "Longitude": -82.998794
+  },
+  {
+    "Address": "Ohio Dayton",
+    "Latitude": 39.758948,
+    "Longitude": -84.191607
+  },
+  {
+    "Address": "Ohio East Liverpool",
+    "Latitude": 40.618676,
+    "Longitude": -80.577293
+  },
+  {
+    "Address": "Ohio East Palestine",
+    "Latitude": 40.833951,
+    "Longitude": -80.540347
+  },
+  {
+    "Address": "Ohio Eaton",
+    "Latitude": 39.743941,
+    "Longitude": -84.63662
+  },
+  {
+    "Address": "Ohio Englewood",
+    "Latitude": 39.877555,
+    "Longitude": -84.302167
+  },
+  {
+    "Address": "Ohio Fairborn",
+    "Latitude": 39.820893,
+    "Longitude": -84.019379
+  },
+  {
+    "Address": "Ohio Fairfield",
+    "Latitude": 39.345467,
+    "Longitude": -84.560319
+  },
+  {
+    "Address": "Ohio Findlay",
+    "Latitude": 41.04422,
+    "Longitude": -83.649932
+  },
+  {
+    "Address": "Ohio Gahanna",
+    "Latitude": 40.019231,
+    "Longitude": -82.879345
+  },
+  {
+    "Address": "Ohio Girard",
+    "Latitude": 41.153947,
+    "Longitude": -80.701466
+  },
+  {
+    "Address": "Ohio Greenhills",
+    "Latitude": 39.268113,
+    "Longitude": -84.523
+  },
+  {
+    "Address": "Ohio Grove City",
+    "Latitude": 39.881452,
+    "Longitude": -83.092964
+  },
+  {
+    "Address": "Ohio Hamilton",
+    "Latitude": 39.399501,
+    "Longitude": -84.561335
+  },
+  {
+    "Address": "Ohio Huber Heights",
+    "Latitude": 39.843947,
+    "Longitude": -84.124661
+  },
+  {
+    "Address": "Ohio Hudson",
+    "Latitude": 41.240056,
+    "Longitude": -81.440667
+  },
+  {
+    "Address": "Ohio Jackson Township",
+    "Latitude": 40.86655,
+    "Longitude": -81.493799
+  },
+  {
+    "Address": "Ohio Kettering",
+    "Latitude": 39.689504,
+    "Longitude": -84.168827
+  },
+  {
+    "Address": "Ohio Lancaster",
+    "Latitude": 39.713675,
+    "Longitude": -82.599329
+  },
+  {
+    "Address": "Ohio Lorain",
+    "Latitude": 41.452819,
+    "Longitude": -82.182375
+  },
+  {
+    "Address": "Ohio Mansfield",
+    "Latitude": 40.75839,
+    "Longitude": -82.515447
+  },
+  {
+    "Address": "Ohio Medina",
+    "Latitude": 41.143245,
+    "Longitude": -81.85522
+  },
+  {
+    "Address": "Ohio Mentor-on-the-Lake",
+    "Latitude": 41.712881,
+    "Longitude": -81.36121
+  },
+  {
+    "Address": "Ohio Miami Township",
+    "Latitude": 39.209541,
+    "Longitude": -84.238417
+  },
+  {
+    "Address": "Ohio Montgomery",
+    "Latitude": 39.762003,
+    "Longitude": -84.354205
+  },
+  {
+    "Address": "Ohio Montpelier",
+    "Latitude": 41.584495,
+    "Longitude": -84.605508
+  },
+  {
+    "Address": "Ohio Moraine",
+    "Latitude": 39.70617,
+    "Longitude": -84.219385
+  },
+  {
+    "Address": "Ohio Mount Vernon",
+    "Latitude": 40.393396,
+    "Longitude": -82.485718
+  },
+  {
+    "Address": "Ohio Napoleon",
+    "Latitude": 41.392273,
+    "Longitude": -84.125224
+  },
+  {
+    "Address": "Ohio Nelsonville",
+    "Latitude": 39.458681,
+    "Longitude": -82.231816
+  },
+  {
+    "Address": "Ohio Niles",
+    "Latitude": 41.182835,
+    "Longitude": -80.765358
+  },
+  {
+    "Address": "Ohio North Baltimore",
+    "Latitude": 41.18283,
+    "Longitude": -83.678267
+  },
+  {
+    "Address": "Ohio North Canton",
+    "Latitude": 40.875891,
+    "Longitude": -81.402336
+  },
+  {
+    "Address": "Ohio North College Hill",
+    "Latitude": 39.218391,
+    "Longitude": -84.550778
+  },
+  {
+    "Address": "Ohio Norwalk",
+    "Latitude": 41.242553,
+    "Longitude": -82.615733
+  },
+  {
+    "Address": "Ohio Norwood",
+    "Latitude": 39.16448,
+    "Longitude": -84.45428
+  },
+  {
+    "Address": "Ohio Ottawa Hills",
+    "Latitude": 41.664217,
+    "Longitude": -83.643269
+  },
+  {
+    "Address": "Ohio Parma",
+    "Latitude": 41.404774,
+    "Longitude": -81.722909
+  },
+  {
+    "Address": "Ohio Portsmouth",
+    "Latitude": 38.731743,
+    "Longitude": -82.997674
+  },
+  {
+    "Address": "Ohio Reynoldsburg",
+    "Latitude": 39.954786,
+    "Longitude": -82.812119
+  },
+  {
+    "Address": "Ohio Richwood",
+    "Latitude": 40.426448,
+    "Longitude": -83.296863
+  },
+  {
+    "Address": "Ohio Riverside",
+    "Latitude": 39.779781,
+    "Longitude": -84.124105
+  },
+  {
+    "Address": "Ohio Solon",
+    "Latitude": 41.389776,
+    "Longitude": -81.441226
+  },
+  {
+    "Address": "Ohio South Euclid",
+    "Latitude": 41.523108,
+    "Longitude": -81.518455
+  },
+  {
+    "Address": "Ohio Springfield",
+    "Latitude": 39.924227,
+    "Longitude": -83.808817
+  },
+  {
+    "Address": "Ohio Springfield Township",
+    "Latitude": 41.619782,
+    "Longitude": -83.730539
+  },
+  {
+    "Address": "Ohio Struthers",
+    "Latitude": 41.052559,
+    "Longitude": -80.607851
+  },
+  {
+    "Address": "Ohio Trotwood",
+    "Latitude": 39.797279,
+    "Longitude": -84.311333
+  },
+  {
+    "Address": "Ohio Troy",
+    "Latitude": 40.039498,
+    "Longitude": -84.203277
+  },
+  {
+    "Address": "Ohio Twinsburg",
+    "Latitude": 41.312555,
+    "Longitude": -81.440113
+  },
+  {
+    "Address": "Ohio Union Township",
+    "Latitude": 39.106878,
+    "Longitude": -84.259486
+  },
+  {
+    "Address": "Ohio Upper Arlington",
+    "Latitude": 39.994508,
+    "Longitude": -83.062408
+  },
+  {
+    "Address": "Ohio Urbana",
+    "Latitude": 40.108391,
+    "Longitude": -83.75243
+  },
+  {
+    "Address": "Ohio Vandalia",
+    "Latitude": 39.890612,
+    "Longitude": -84.198831
+  },
+  {
+    "Address": "Ohio Wapakoneta",
+    "Latitude": 40.567827,
+    "Longitude": -84.193559
+  },
+  {
+    "Address": "Ohio Warren",
+    "Latitude": 41.237557,
+    "Longitude": -80.818417
+  },
+  {
+    "Address": "Ohio Warren Township",
+    "Latitude": 41.244711,
+    "Longitude": -80.882053
+  },
+  {
+    "Address": "Ohio Wooster",
+    "Latitude": 40.805057,
+    "Longitude": -81.935143
+  },
+  {
+    "Address": "Ohio Xenia",
+    "Latitude": 39.684782,
+    "Longitude": -83.929653
+  },
+  {
+    "Address": "Ohio Youngstown",
+    "Latitude": 41.09978,
+    "Longitude": -80.649519
+  },
+  {
+    "Address": "Ohio Zanesville",
+    "Latitude": 39.940345,
+    "Longitude": -82.013192
+  },
+  {
+    "Address": "Ohio Bowling Green State University",
+    "Latitude": 41.379779,
+    "Longitude": -83.630083
+  },
+  {
+    "Address": "Ohio Capital University",
+    "Latitude": 39.954925,
+    "Longitude": -82.938559
+  },
+  {
+    "Address": "Ohio Kent State University",
+    "Latitude": 41.149063,
+    "Longitude": -81.341465
+  },
+  {
+    "Address": "Ohio Ohio State University",
+    "Latitude": 40.014191,
+    "Longitude": -83.030914
+  },
+  {
+    "Address": "Ohio Butler",
+    "Latitude": 39.440463,
+    "Longitude": -84.522219
+  },
+  {
+    "Address": "Ohio Clermont",
+    "Latitude": 39.092845,
+    "Longitude": -84.185712
+  },
+  {
+    "Address": "Ohio Delaware",
+    "Latitude": 40.298672,
+    "Longitude": -83.067965
+  },
+  {
+    "Address": "Ohio Franklin",
+    "Latitude": 39.558947,
+    "Longitude": -84.304107
+  },
+  {
+    "Address": "Ohio Fulton",
+    "Latitude": 41.571934,
+    "Longitude": -84.143514
+  },
+  {
+    "Address": "Ohio Geauga",
+    "Latitude": 41.464152,
+    "Longitude": -81.207816
+  },
+  {
+    "Address": "Ohio Greene",
+    "Latitude": 39.697399,
+    "Longitude": -83.889706
+  },
+  {
+    "Address": "Ohio Lorain",
+    "Latitude": 41.452819,
+    "Longitude": -82.182375
+  },
+  {
+    "Address": "Ohio Lucas",
+    "Latitude": 41.689439,
+    "Longitude": -83.378939
+  },
+  {
+    "Address": "Ohio Medina",
+    "Latitude": 41.143245,
+    "Longitude": -81.85522
+  },
+  {
+    "Address": "Ohio Montgomery",
+    "Latitude": 39.762003,
+    "Longitude": -84.354205
+  },
+  {
+    "Address": "Ohio Pickaway",
+    "Latitude": 39.687828,
+    "Longitude": -82.993161
+  },
+  {
+    "Address": "Ohio Richland",
+    "Latitude": 40.756672,
+    "Longitude": -82.518584
+  },
+  {
+    "Address": "Ohio Stark",
+    "Latitude": 40.868468,
+    "Longitude": -81.251883
+  },
+  {
+    "Address": "Ohio Trumbull",
+    "Latitude": 41.306498,
+    "Longitude": -80.721442
+  },
+  {
+    "Address": "Ohio Ashland",
+    "Latitude": 40.868668,
+    "Longitude": -82.318218
+  },
+  {
+    "Address": "Ohio Athens",
+    "Latitude": 39.32924,
+    "Longitude": -82.101255
+  },
+  {
+    "Address": "Ohio Auglaize",
+    "Latitude": 40.578156,
+    "Longitude": -84.354205
+  },
+  {
+    "Address": "Ohio Hancock",
+    "Latitude": 41.027313,
+    "Longitude": -83.677393
+  },
+  {
+    "Address": "Ohio Jackson",
+    "Latitude": 39.052017,
+    "Longitude": -82.636554
+  },
+  {
+    "Address": "Ohio Knox",
+    "Latitude": 40.459564,
+    "Longitude": -82.301773
+  },
+  {
+    "Address": "Ohio Marion",
+    "Latitude": 40.58867,
+    "Longitude": -83.128524
+  },
+  {
+    "Address": "Ohio Meigs",
+    "Latitude": 39.087431,
+    "Longitude": -81.997111
+  },
+  {
+    "Address": "Ohio Ross",
+    "Latitude": 39.312278,
+    "Longitude": -84.650503
+  },
+  {
+    "Address": "Ohio Shelby",
+    "Latitude": 40.881445,
+    "Longitude": -82.661842
+  },
+  {
+    "Address": "Ohio Washington",
+    "Latitude": 39.46264,
+    "Longitude": -81.471839
+  },
+  {
+    "Address": "Ohio Wayne",
+    "Latitude": 41.301442,
+    "Longitude": -83.473539
+  },
+  {
+    "Address": "Ohio Cleveland Metropolitan Park District",
+    "Latitude": 41.530794,
+    "Longitude": -81.651996
+  },
+  {
+    "Address": "Oklahoma Altus",
+    "Latitude": 34.637765,
+    "Longitude": -99.334044
+  },
+  {
+    "Address": "Oklahoma Bixby",
+    "Latitude": 35.942043,
+    "Longitude": -95.883323
+  },
+  {
+    "Address": "Oklahoma Blanchard",
+    "Latitude": 35.137844,
+    "Longitude": -97.658093
+  },
+  {
+    "Address": "Oklahoma Broken Arrow",
+    "Latitude": 36.060949,
+    "Longitude": -95.797453
+  },
+  {
+    "Address": "Oklahoma Choctaw",
+    "Latitude": 33.985147,
+    "Longitude": -95.519739
+  },
+  {
+    "Address": "Oklahoma Cleveland",
+    "Latitude": 36.310069,
+    "Longitude": -96.464189
+  },
+  {
+    "Address": "Oklahoma Elk City",
+    "Latitude": 35.411994,
+    "Longitude": -99.404259
+  },
+  {
+    "Address": "Oklahoma Fairfax",
+    "Latitude": 36.573659,
+    "Longitude": -96.704199
+  },
+  {
+    "Address": "Oklahoma Heavener",
+    "Latitude": 34.895522,
+    "Longitude": -94.603008
+  },
+  {
+    "Address": "Oklahoma Muskogee",
+    "Latitude": 35.747877,
+    "Longitude": -95.369691
+  },
+  {
+    "Address": "Oklahoma Norman",
+    "Latitude": 35.222567,
+    "Longitude": -97.439478
+  },
+  {
+    "Address": "Oklahoma Oklahoma City",
+    "Latitude": 35.46756,
+    "Longitude": -97.516428
+  },
+  {
+    "Address": "Oklahoma Owasso",
+    "Latitude": 36.269539,
+    "Longitude": -95.854712
+  },
+  {
+    "Address": "Oklahoma Sapulpa",
+    "Latitude": 35.998701,
+    "Longitude": -96.114166
+  },
+  {
+    "Address": "Oklahoma Sayre",
+    "Latitude": 35.291162,
+    "Longitude": -99.640097
+  },
+  {
+    "Address": "Oklahoma Skiatook",
+    "Latitude": 36.368425,
+    "Longitude": -96.001385
+  },
+  {
+    "Address": "Oklahoma Talihina",
+    "Latitude": 34.751489,
+    "Longitude": -95.048016
+  },
+  {
+    "Address": "Oklahoma Tonkawa",
+    "Latitude": 36.678368,
+    "Longitude": -97.310044
+  },
+  {
+    "Address": "Oklahoma Southwestern Oklahoma State University",
+    "Latitude": 35.53555,
+    "Longitude": -98.707797
+  },
+  {
+    "Address": "Oklahoma University of Central Oklahoma",
+    "Latitude": 35.654866,
+    "Longitude": -97.471463
+  },
+  {
+    "Address": "Oklahoma Grady",
+    "Latitude": 34.020375,
+    "Longitude": -97.665582
+  },
+  {
+    "Address": "Oklahoma Tulsa",
+    "Latitude": 36.153982,
+    "Longitude": -95.992775
+  },
+  {
+    "Address": "Oklahoma Wagoner",
+    "Latitude": 35.959544,
+    "Longitude": -95.369412
+  },
+  {
+    "Address": "Oklahoma Roger Mills",
+    "Latitude": 35.616176,
+    "Longitude": -99.634135
+  },
+  {
+    "Address": "Oklahoma Tonkawa Tribal",
+    "Latitude": 36.67032,
+    "Longitude": -97.265109
+  },
+  {
+    "Address": "Oregon Ashland",
+    "Latitude": 42.194576,
+    "Longitude": -122.709477
+  },
+  {
+    "Address": "Oregon Beaverton",
+    "Latitude": 45.487062,
+    "Longitude": -122.80371
+  },
+  {
+    "Address": "Oregon Bend",
+    "Latitude": 44.058173,
+    "Longitude": -121.31531
+  },
+  {
+    "Address": "Oregon Eugene",
+    "Latitude": 44.052069,
+    "Longitude": -123.086754
+  },
+  {
+    "Address": "Oregon Newberg-Dundee",
+    "Latitude": 45.273905,
+    "Longitude": -123.001025
+  },
+  {
+    "Address": "Oregon Newport",
+    "Latitude": 44.636784,
+    "Longitude": -124.05345
+  },
+  {
+    "Address": "Oregon Portland",
+    "Latitude": 45.523062,
+    "Longitude": -122.676482
+  },
+  {
+    "Address": "Oregon Salem",
+    "Latitude": 44.942898,
+    "Longitude": -123.035096
+  },
+  {
+    "Address": "Oregon Springfield",
+    "Latitude": 44.046236,
+    "Longitude": -123.022029
+  },
+  {
+    "Address": "Oregon Sutherlin",
+    "Latitude": 43.390118,
+    "Longitude": -123.312576
+  },
+  {
+    "Address": "Oregon Tigard",
+    "Latitude": 45.431229,
+    "Longitude": -122.771486
+  },
+  {
+    "Address": "Oregon Toledo",
+    "Latitude": 44.621507,
+    "Longitude": -123.938448
+  },
+  {
+    "Address": "Oregon Deschutes",
+    "Latitude": 43.83251,
+    "Longitude": -121.261654
+  },
+  {
+    "Address": "Oregon Jackson",
+    "Latitude": 42.334535,
+    "Longitude": -122.764658
+  },
+  {
+    "Address": "Oregon Lane",
+    "Latitude": 43.961009,
+    "Longitude": -122.661823
+  },
+  {
+    "Address": "Oregon Yamhill",
+    "Latitude": 45.177198,
+    "Longitude": -123.23953
+  },
+  {
+    "Address": "Oregon Douglas",
+    "Latitude": 43.126069,
+    "Longitude": -123.249236
+  },
+  {
+    "Address": "Oregon Umatilla",
+    "Latitude": 45.917355,
+    "Longitude": -119.342518
+  },
+  {
+    "Address": "Pennsylvania Ferguson Township",
+    "Latitude": 40.744165,
+    "Longitude": -77.905318
+  },
+  {
+    "Address": "Pennsylvania Johnstown",
+    "Latitude": 40.326741,
+    "Longitude": -78.92197
+  },
+  {
+    "Address": "Pennsylvania Lancaster",
+    "Latitude": 40.037876,
+    "Longitude": -76.305514
+  },
+  {
+    "Address": "Pennsylvania Lewistown",
+    "Latitude": 40.59924,
+    "Longitude": -77.571382
+  },
+  {
+    "Address": "Pennsylvania Northern York Regional",
+    "Latitude": 40.008623,
+    "Longitude": -76.828405
+  },
+  {
+    "Address": "Pennsylvania Philadelphia",
+    "Latitude": 39.952584,
+    "Longitude": -75.165222
+  },
+  {
+    "Address": "Pennsylvania Pittsburgh",
+    "Latitude": 40.440625,
+    "Longitude": -79.995886
+  },
+  {
+    "Address": "Pennsylvania Reading",
+    "Latitude": 40.335648,
+    "Longitude": -75.926875
+  },
+  {
+    "Address": "Pennsylvania Richland Township",
+    "Latitude": 40.474256,
+    "Longitude": -75.352878
+  },
+  {
+    "Address": "Pennsylvania State College",
+    "Latitude": 40.793395,
+    "Longitude": -77.860001
+  },
+  {
+    "Address": "Pennsylvania Lehigh University",
+    "Latitude": 40.606909,
+    "Longitude": -75.378283
+  },
+  {
+    "Address": "Pennsylvania Pennsylvania State University: Altoona",
+    "Latitude": 40.540757,
+    "Longitude": -78.40948
+  },
+  {
+    "Address": "Pennsylvania Pennsylvania State University: University Park",
+    "Latitude": 40.798213,
+    "Longitude": -77.859908
+  },
+  {
+    "Address": "Pennsylvania Lancaster",
+    "Latitude": 40.037876,
+    "Longitude": -76.305514
+  },
+  {
+    "Address": "Pennsylvania State Police: Chester County",
+    "Latitude": 39.948034,
+    "Longitude": -75.732161
+  },
+  {
+    "Address": "Pennsylvania State Police: Franklin County",
+    "Latitude": 39.935427,
+    "Longitude": -77.624983
+  },
+  {
+    "Address": "Pennsylvania State Police: Indiana County",
+    "Latitude": 40.589991,
+    "Longitude": -79.203803
+  },
+  {
+    "Address": "Pennsylvania State Police: Lancaster County",
+    "Latitude": 40.031393,
+    "Longitude": -76.235233
+  },
+  {
+    "Address": "Pennsylvania State Police: Skippack County",
+    "Latitude": 40.231825,
+    "Longitude": -75.403524
+  },
+  {
+    "Address": "Pennsylvania State Police: Pike County",
+    "Latitude": 41.387064,
+    "Longitude": -75.130994
+  },
+  {
+    "Address": "Rhode_Island Central Falls",
+    "Latitude": 41.890655,
+    "Longitude": -71.392278
+  },
+  {
+    "Address": "Rhode_Island Johnston",
+    "Latitude": 41.82052,
+    "Longitude": -71.512617
+  },
+  {
+    "Address": "Rhode_Island Newport",
+    "Latitude": 41.490102,
+    "Longitude": -71.312829
+  },
+  {
+    "Address": "Rhode_Island Providence",
+    "Latitude": 41.823989,
+    "Longitude": -71.412834
+  },
+  {
+    "Address": "Rhode_Island Warwick",
+    "Latitude": 41.700101,
+    "Longitude": -71.416167
+  },
+  {
+    "Address": "Rhode_Island West Warwick",
+    "Latitude": 41.703671,
+    "Longitude": -71.521502
+  },
+  {
+    "Address": "Rhode_Island University of Rhode Island",
+    "Latitude": 41.486065,
+    "Longitude": -71.530854
+  },
+  {
+    "Address": "South_Carolina Anderson",
+    "Latitude": 34.503439,
+    "Longitude": -82.650133
+  },
+  {
+    "Address": "South_Carolina Belton",
+    "Latitude": 34.522888,
+    "Longitude": -82.494295
+  },
+  {
+    "Address": "South_Carolina Chapin",
+    "Latitude": 34.16598,
+    "Longitude": -81.349821
+  },
+  {
+    "Address": "South_Carolina Charleston",
+    "Latitude": 32.776475,
+    "Longitude": -79.931051
+  },
+  {
+    "Address": "South_Carolina Clover",
+    "Latitude": 35.111248,
+    "Longitude": -81.226465
+  },
+  {
+    "Address": "South_Carolina Columbia",
+    "Latitude": 34.00071,
+    "Longitude": -81.034814
+  },
+  {
+    "Address": "South_Carolina Dillon",
+    "Latitude": 34.416551,
+    "Longitude": -79.371158
+  },
+  {
+    "Address": "South_Carolina Forest Acres",
+    "Latitude": 34.019322,
+    "Longitude": -80.989813
+  },
+  {
+    "Address": "South_Carolina Georgetown",
+    "Latitude": 33.376834,
+    "Longitude": -79.294496
+  },
+  {
+    "Address": "South_Carolina Goose Creek",
+    "Latitude": 32.981006,
+    "Longitude": -80.032587
+  },
+  {
+    "Address": "South_Carolina Greenville",
+    "Latitude": 34.852618,
+    "Longitude": -82.39401
+  },
+  {
+    "Address": "South_Carolina Hardeeville",
+    "Latitude": 32.287141,
+    "Longitude": -81.080666
+  },
+  {
+    "Address": "South_Carolina Hartsville",
+    "Latitude": 34.374043,
+    "Longitude": -80.0734
+  },
+  {
+    "Address": "South_Carolina Holly Hill",
+    "Latitude": 33.322662,
+    "Longitude": -80.413704
+  },
+  {
+    "Address": "South_Carolina Honea Path",
+    "Latitude": 34.446502,
+    "Longitude": -82.391512
+  },
+  {
+    "Address": "South_Carolina Latta",
+    "Latitude": 34.337105,
+    "Longitude": -79.431162
+  },
+  {
+    "Address": "South_Carolina Lexington",
+    "Latitude": 33.981537,
+    "Longitude": -81.236211
+  },
+  {
+    "Address": "South_Carolina Manning",
+    "Latitude": 33.695163,
+    "Longitude": -80.210913
+  },
+  {
+    "Address": "South_Carolina Mauldin",
+    "Latitude": 34.77873,
+    "Longitude": -82.310119
+  },
+  {
+    "Address": "South_Carolina Orangeburg",
+    "Latitude": 33.49182,
+    "Longitude": -80.855648
+  },
+  {
+    "Address": "South_Carolina Salley",
+    "Latitude": 33.565705,
+    "Longitude": -81.303437
+  },
+  {
+    "Address": "South_Carolina St. George",
+    "Latitude": 33.185996,
+    "Longitude": -80.575653
+  },
+  {
+    "Address": "South_Carolina Summerville",
+    "Latitude": 33.018504,
+    "Longitude": -80.175648
+  },
+  {
+    "Address": "South_Carolina Winnsboro",
+    "Latitude": 34.380701,
+    "Longitude": -81.086478
+  },
+  {
+    "Address": "South_Carolina The Citadel",
+    "Latitude": 32.797075,
+    "Longitude": -79.960674
+  },
+  {
+    "Address": "South_Carolina University of South Carolina",
+    "Latitude": 33.996112,
+    "Longitude": -81.027428
+  },
+  {
+    "Address": "South_Carolina Berkeley",
+    "Latitude": 33.126062,
+    "Longitude": -80.008775
+  },
+  {
+    "Address": "South_Carolina Fairfield",
+    "Latitude": 34.447835,
+    "Longitude": -81.075466
+  },
+  {
+    "Address": "South_Carolina Horry County Police Department",
+    "Latitude": 33.864389,
+    "Longitude": -79.053428
+  },
+  {
+    "Address": "South_Carolina Lancaster",
+    "Latitude": 34.720426,
+    "Longitude": -80.770901
+  },
+  {
+    "Address": "South_Carolina Lexington",
+    "Latitude": 33.981537,
+    "Longitude": -81.236211
+  },
+  {
+    "Address": "South_Carolina Sumter",
+    "Latitude": 33.920435,
+    "Longitude": -80.341469
+  },
+  {
+    "Address": "South_Carolina Union",
+    "Latitude": 34.715412,
+    "Longitude": -81.623711
+  },
+  {
+    "Address": "South_Carolina York",
+    "Latitude": 34.994302,
+    "Longitude": -81.242018
+  },
+  {
+    "Address": "South_Carolina Chesterfield",
+    "Latitude": 34.735989,
+    "Longitude": -80.088119
+  },
+  {
+    "Address": "South_Carolina Colleton",
+    "Latitude": 32.82423,
+    "Longitude": -80.721442
+  },
+  {
+    "Address": "South_Carolina Georgetown",
+    "Latitude": 33.376834,
+    "Longitude": -79.294496
+  },
+  {
+    "Address": "South_Carolina Hampton",
+    "Latitude": 32.877943,
+    "Longitude": -81.127605
+  },
+  {
+    "Address": "South_Carolina Marlboro",
+    "Latitude": 34.558244,
+    "Longitude": -79.69511
+  },
+  {
+    "Address": "South_Dakota Aberdeen",
+    "Latitude": 45.464699,
+    "Longitude": -98.486483
+  },
+  {
+    "Address": "South_Dakota Mitchell",
+    "Latitude": 43.709428,
+    "Longitude": -98.029799
+  },
+  {
+    "Address": "South_Dakota Rapid City",
+    "Latitude": 44.080543,
+    "Longitude": -103.231015
+  },
+  {
+    "Address": "South_Dakota Sioux Falls",
+    "Latitude": 43.544596,
+    "Longitude": -96.731103
+  },
+  {
+    "Address": "South_Dakota Vermillion",
+    "Latitude": 42.779442,
+    "Longitude": -96.92921
+  },
+  {
+    "Address": "South_Dakota Codington",
+    "Latitude": 44.995359,
+    "Longitude": -97.234875
+  },
+  {
+    "Address": "South_Dakota Corson",
+    "Latitude": 45.762333,
+    "Longitude": -101.690976
+  },
+  {
+    "Address": "South_Dakota Hutchinson",
+    "Latitude": 43.30172,
+    "Longitude": -97.698227
+  },
+  {
+    "Address": "Tennessee Ashland City",
+    "Latitude": 36.274221,
+    "Longitude": -87.06417
+  },
+  {
+    "Address": "Tennessee Athens",
+    "Latitude": 35.442851,
+    "Longitude": -84.59299
+  },
+  {
+    "Address": "Tennessee Atoka",
+    "Latitude": 35.423208,
+    "Longitude": -89.784913
+  },
+  {
+    "Address": "Tennessee Bristol",
+    "Latitude": 36.595106,
+    "Longitude": -82.188744
+  },
+  {
+    "Address": "Tennessee Burns",
+    "Latitude": 36.053394,
+    "Longitude": -87.31251
+  },
+  {
+    "Address": "Tennessee Chattanooga",
+    "Latitude": 35.04563,
+    "Longitude": -85.30968
+  },
+  {
+    "Address": "Tennessee Clarksville",
+    "Latitude": 36.529771,
+    "Longitude": -87.359453
+  },
+  {
+    "Address": "Tennessee Collegedale",
+    "Latitude": 35.05313,
+    "Longitude": -85.050228
+  },
+  {
+    "Address": "Tennessee Covington",
+    "Latitude": 35.576233,
+    "Longitude": -89.653403
+  },
+  {
+    "Address": "Tennessee Dyersburg",
+    "Latitude": 36.034516,
+    "Longitude": -89.385628
+  },
+  {
+    "Address": "Tennessee Elizabethton",
+    "Latitude": 36.34872,
+    "Longitude": -82.210688
+  },
+  {
+    "Address": "Tennessee Fayetteville",
+    "Latitude": 35.152027,
+    "Longitude": -86.570551
+  },
+  {
+    "Address": "Tennessee Franklin",
+    "Latitude": 35.925064,
+    "Longitude": -86.86889
+  },
+  {
+    "Address": "Tennessee Gatlinburg",
+    "Latitude": 35.714259,
+    "Longitude": -83.510164
+  },
+  {
+    "Address": "Tennessee Graysville",
+    "Latitude": 35.447014,
+    "Longitude": -85.0844
+  },
+  {
+    "Address": "Tennessee Greeneville",
+    "Latitude": 36.163157,
+    "Longitude": -82.830986
+  },
+  {
+    "Address": "Tennessee Humboldt",
+    "Latitude": 35.819792,
+    "Longitude": -88.915895
+  },
+  {
+    "Address": "Tennessee Jackson",
+    "Latitude": 35.614517,
+    "Longitude": -88.813947
+  },
+  {
+    "Address": "Tennessee Johnson City",
+    "Latitude": 36.31344,
+    "Longitude": -82.353473
+  },
+  {
+    "Address": "Tennessee Jonesborough",
+    "Latitude": 36.294272,
+    "Longitude": -82.473479
+  },
+  {
+    "Address": "Tennessee Kingsport",
+    "Latitude": 36.548434,
+    "Longitude": -82.561819
+  },
+  {
+    "Address": "Tennessee Knoxville",
+    "Latitude": 35.960638,
+    "Longitude": -83.920739
+  },
+  {
+    "Address": "Tennessee Manchester",
+    "Latitude": 35.481743,
+    "Longitude": -86.088599
+  },
+  {
+    "Address": "Tennessee Mason",
+    "Latitude": 35.414297,
+    "Longitude": -89.537969
+  },
+  {
+    "Address": "Tennessee McMinnville",
+    "Latitude": 35.686589,
+    "Longitude": -85.780145
+  },
+  {
+    "Address": "Tennessee Memphis",
+    "Latitude": 35.149534,
+    "Longitude": -90.04898
+  },
+  {
+    "Address": "Tennessee Milan",
+    "Latitude": 35.919789,
+    "Longitude": -88.758949
+  },
+  {
+    "Address": "Tennessee Millersville",
+    "Latitude": 36.37116,
+    "Longitude": -86.709997
+  },
+  {
+    "Address": "Tennessee Millington",
+    "Latitude": 35.341474,
+    "Longitude": -89.897308
+  },
+  {
+    "Address": "Tennessee Monterey",
+    "Latitude": 36.147564,
+    "Longitude": -85.268302
+  },
+  {
+    "Address": "Tennessee Mount Carmel",
+    "Latitude": 36.545377,
+    "Longitude": -82.66099
+  },
+  {
+    "Address": "Tennessee Munford",
+    "Latitude": 35.439704,
+    "Longitude": -89.817721
+  },
+  {
+    "Address": "Tennessee Murfreesboro",
+    "Latitude": 35.845621,
+    "Longitude": -86.39027
+  },
+  {
+    "Address": "Tennessee Nashville",
+    "Latitude": 36.162664,
+    "Longitude": -86.781602
+  },
+  {
+    "Address": "Tennessee Oliver Springs",
+    "Latitude": 36.044522,
+    "Longitude": -84.344372
+  },
+  {
+    "Address": "Tennessee Paris",
+    "Latitude": 36.302002,
+    "Longitude": -88.326711
+  },
+  {
+    "Address": "Tennessee Pigeon Forge",
+    "Latitude": 35.788424,
+    "Longitude": -83.554333
+  },
+  {
+    "Address": "Tennessee Rossville",
+    "Latitude": 35.048424,
+    "Longitude": -89.542579
+  },
+  {
+    "Address": "Tennessee Shelbyville",
+    "Latitude": 35.483406,
+    "Longitude": -86.460272
+  },
+  {
+    "Address": "Tennessee Spring Hill",
+    "Latitude": 35.751179,
+    "Longitude": -86.930002
+  },
+  {
+    "Address": "Tennessee Tullahoma",
+    "Latitude": 35.362024,
+    "Longitude": -86.209434
+  },
+  {
+    "Address": "Tennessee Wartburg",
+    "Latitude": 36.104798,
+    "Longitude": -84.597162
+  },
+  {
+    "Address": "Tennessee Christian Brothers University",
+    "Latitude": 35.128537,
+    "Longitude": -89.981064
+  },
+  {
+    "Address": "Tennessee Southwest Tennessee Community College",
+    "Latitude": 35.137311,
+    "Longitude": -90.036648
+  },
+  {
+    "Address": "Tennessee Vanderbilt University",
+    "Latitude": 36.144703,
+    "Longitude": -86.802655
+  },
+  {
+    "Address": "Tennessee Hickman",
+    "Latitude": 35.80128,
+    "Longitude": -87.460397
+  },
+  {
+    "Address": "Tennessee Jefferson",
+    "Latitude": 36.041783,
+    "Longitude": -83.464355
+  },
+  {
+    "Address": "Tennessee Marion",
+    "Latitude": 35.092851,
+    "Longitude": -85.643487
+  },
+  {
+    "Address": "Tennessee Robertson",
+    "Latitude": 36.525067,
+    "Longitude": -86.862183
+  },
+  {
+    "Address": "Tennessee Shelby",
+    "Latitude": 35.126855,
+    "Longitude": -89.925323
+  },
+  {
+    "Address": "Tennessee Sullivan",
+    "Latitude": 36.493315,
+    "Longitude": -82.345189
+  },
+  {
+    "Address": "Tennessee Tipton",
+    "Latitude": 35.521718,
+    "Longitude": -89.737996
+  },
+  {
+    "Address": "Tennessee Bledsoe",
+    "Latitude": 35.602886,
+    "Longitude": -85.230841
+  },
+  {
+    "Address": "Tennessee Henry",
+    "Latitude": 36.336994,
+    "Longitude": -88.246118
+  },
+  {
+    "Address": "Tennessee Lake",
+    "Latitude": 36.327068,
+    "Longitude": -89.493118
+  },
+  {
+    "Address": "Tennessee Department of Safety",
+    "Latitude": 35.566535,
+    "Longitude": -89.647117
+  },
+  {
+    "Address": "Texas Austin",
+    "Latitude": 30.267153,
+    "Longitude": -97.743061
+  },
+  {
+    "Address": "Texas Beaumont",
+    "Latitude": 30.080174,
+    "Longitude": -94.126556
+  },
+  {
+    "Address": "Texas Bellaire",
+    "Latitude": 29.705786,
+    "Longitude": -95.45883
+  },
+  {
+    "Address": "Texas Bellmead",
+    "Latitude": 31.594055,
+    "Longitude": -97.10889
+  },
+  {
+    "Address": "Texas Benbrook",
+    "Latitude": 32.673188,
+    "Longitude": -97.460576
+  },
+  {
+    "Address": "Texas Brownwood",
+    "Latitude": 31.70932,
+    "Longitude": -98.991161
+  },
+  {
+    "Address": "Texas Carthage",
+    "Latitude": 32.157384,
+    "Longitude": -94.33742
+  },
+  {
+    "Address": "Texas Commerce",
+    "Latitude": 33.247057,
+    "Longitude": -95.899966
+  },
+  {
+    "Address": "Texas Corpus Christi",
+    "Latitude": 27.800583,
+    "Longitude": -97.396381
+  },
+  {
+    "Address": "Texas Dallas",
+    "Latitude": 32.776664,
+    "Longitude": -96.796988
+  },
+  {
+    "Address": "Texas Denison",
+    "Latitude": 33.755659,
+    "Longitude": -96.536658
+  },
+  {
+    "Address": "Texas Denton",
+    "Latitude": 33.214841,
+    "Longitude": -97.133068
+  },
+  {
+    "Address": "Texas El Paso",
+    "Latitude": 31.761878,
+    "Longitude": -106.485022
+  },
+  {
+    "Address": "Texas Everman",
+    "Latitude": 32.630968,
+    "Longitude": -97.289182
+  },
+  {
+    "Address": "Texas Fort Worth",
+    "Latitude": 32.755488,
+    "Longitude": -97.330766
+  },
+  {
+    "Address": "Texas Frisco",
+    "Latitude": 33.150674,
+    "Longitude": -96.823612
+  },
+  {
+    "Address": "Texas Gainesville",
+    "Latitude": 33.625941,
+    "Longitude": -97.133345
+  },
+  {
+    "Address": "Texas Garland",
+    "Latitude": 32.912624,
+    "Longitude": -96.638883
+  },
+  {
+    "Address": "Texas Grapevine",
+    "Latitude": 32.934292,
+    "Longitude": -97.078065
+  },
+  {
+    "Address": "Texas Harlingen",
+    "Latitude": 26.190631,
+    "Longitude": -97.696103
+  },
+  {
+    "Address": "Texas Houston",
+    "Latitude": 29.760427,
+    "Longitude": -95.369803
+  },
+  {
+    "Address": "Texas Lancaster",
+    "Latitude": 32.59208,
+    "Longitude": -96.756108
+  },
+  {
+    "Address": "Texas Longview",
+    "Latitude": 32.500704,
+    "Longitude": -94.740489
+  },
+  {
+    "Address": "Texas Marble Falls",
+    "Latitude": 30.578245,
+    "Longitude": -98.2728
+  },
+  {
+    "Address": "Texas McAllen",
+    "Latitude": 26.203407,
+    "Longitude": -98.230012
+  },
+  {
+    "Address": "Texas McKinney",
+    "Latitude": 33.197247,
+    "Longitude": -96.639782
+  },
+  {
+    "Address": "Texas Mercedes",
+    "Latitude": 26.149798,
+    "Longitude": -97.913611
+  },
+  {
+    "Address": "Texas Mineral Wells",
+    "Latitude": 32.808461,
+    "Longitude": -98.112822
+  },
+  {
+    "Address": "Texas Pasadena",
+    "Latitude": 29.691063,
+    "Longitude": -95.209101
+  },
+  {
+    "Address": "Texas Plano",
+    "Latitude": 33.019843,
+    "Longitude": -96.698886
+  },
+  {
+    "Address": "Texas Richmond",
+    "Latitude": 29.582181,
+    "Longitude": -95.760783
+  },
+  {
+    "Address": "Texas San Angelo",
+    "Latitude": 31.463772,
+    "Longitude": -100.437037
+  },
+  {
+    "Address": "Texas San Antonio",
+    "Latitude": 29.424122,
+    "Longitude": -98.493628
+  },
+  {
+    "Address": "Texas Springtown",
+    "Latitude": 32.965957,
+    "Longitude": -97.683638
+  },
+  {
+    "Address": "Texas Temple",
+    "Latitude": 31.098234,
+    "Longitude": -97.342782
+  },
+  {
+    "Address": "Texas Terrell",
+    "Latitude": 32.735963,
+    "Longitude": -96.275257
+  },
+  {
+    "Address": "Texas Tyler",
+    "Latitude": 32.35126,
+    "Longitude": -95.301062
+  },
+  {
+    "Address": "Texas Victoria",
+    "Latitude": 28.805267,
+    "Longitude": -97.003598
+  },
+  {
+    "Address": "Texas Vidor",
+    "Latitude": 30.1316,
+    "Longitude": -94.015454
+  },
+  {
+    "Address": "Texas Whitehouse",
+    "Latitude": 32.226821,
+    "Longitude": -95.225504
+  },
+  {
+    "Address": "Texas Amarillo College",
+    "Latitude": 35.189058,
+    "Longitude": -101.84661
+  },
+  {
+    "Address": "Texas Southern Methodist University",
+    "Latitude": 32.841218,
+    "Longitude": -96.784517
+  },
+  {
+    "Address": "Texas University of Texas",
+    "Latitude": 30.284919,
+    "Longitude": -97.734057
+  },
+  {
+    "Address": "Texas Collin",
+    "Latitude": 33.179521,
+    "Longitude": -96.49298
+  },
+  {
+    "Address": "Texas Goliad",
+    "Latitude": 28.668325,
+    "Longitude": -97.388326
+  },
+  {
+    "Address": "Texas Harris",
+    "Latitude": 29.775183,
+    "Longitude": -95.31025
+  },
+  {
+    "Address": "Texas Hunt",
+    "Latitude": 30.071043,
+    "Longitude": -99.337976
+  },
+  {
+    "Address": "Texas Nueces",
+    "Latitude": 27.769335,
+    "Longitude": -97.481416
+  },
+  {
+    "Address": "Texas Travis",
+    "Latitude": 30.209702,
+    "Longitude": -97.698227
+  },
+  {
+    "Address": "Texas Independent School District",
+    "Latitude": 26.097346,
+    "Longitude": -97.993084
+  },
+  {
+    "Address": "Utah Bountiful",
+    "Latitude": 40.88939,
+    "Longitude": -111.880771
+  },
+  {
+    "Address": "Utah Brigham City",
+    "Latitude": 41.510213,
+    "Longitude": -112.015502
+  },
+  {
+    "Address": "Utah Centerville",
+    "Latitude": 40.918001,
+    "Longitude": -111.87216
+  },
+  {
+    "Address": "Utah Draper",
+    "Latitude": 40.524671,
+    "Longitude": -111.863823
+  },
+  {
+    "Address": "Utah Farmington",
+    "Latitude": 40.9805,
+    "Longitude": -111.887439
+  },
+  {
+    "Address": "Utah Grantsville",
+    "Latitude": 40.599943,
+    "Longitude": -112.464399
+  },
+  {
+    "Address": "Utah Heber",
+    "Latitude": 40.507009,
+    "Longitude": -111.413323
+  },
+  {
+    "Address": "Utah Moab",
+    "Latitude": 38.573316,
+    "Longitude": -109.54984
+  },
+  {
+    "Address": "Utah Murray",
+    "Latitude": 40.666892,
+    "Longitude": -111.887991
+  },
+  {
+    "Address": "Utah North Salt Lake",
+    "Latitude": 40.848556,
+    "Longitude": -111.906882
+  },
+  {
+    "Address": "Utah Pleasant Grove",
+    "Latitude": 40.364118,
+    "Longitude": -111.73854
+  },
+  {
+    "Address": "Utah Price",
+    "Latitude": 39.59941,
+    "Longitude": -110.810715
+  },
+  {
+    "Address": "Utah Provo",
+    "Latitude": 40.233844,
+    "Longitude": -111.658534
+  },
+  {
+    "Address": "Utah Roosevelt",
+    "Latitude": 40.299403,
+    "Longitude": -109.988761
+  },
+  {
+    "Address": "Utah Roy",
+    "Latitude": 41.161611,
+    "Longitude": -112.026331
+  },
+  {
+    "Address": "Utah Salt Lake City",
+    "Latitude": 40.760779,
+    "Longitude": -111.891047
+  },
+  {
+    "Address": "Utah South Jordan",
+    "Latitude": 40.56217,
+    "Longitude": -111.929658
+  },
+  {
+    "Address": "Utah South Salt Lake",
+    "Latitude": 40.718835,
+    "Longitude": -111.888269
+  },
+  {
+    "Address": "Utah St. George",
+    "Latitude": 37.096528,
+    "Longitude": -113.568416
+  },
+  {
+    "Address": "Utah Tooele",
+    "Latitude": 40.530778,
+    "Longitude": -112.29828
+  },
+  {
+    "Address": "Utah West Valley",
+    "Latitude": 40.691613,
+    "Longitude": -112.00105
+  },
+  {
+    "Address": "Utah Woods Cross",
+    "Latitude": 40.871612,
+    "Longitude": -111.89216
+  },
+  {
+    "Address": "Utah University of Utah",
+    "Latitude": 40.764937,
+    "Longitude": -111.842102
+  },
+  {
+    "Address": "Utah Utah State University",
+    "Latitude": 41.745161,
+    "Longitude": -111.809742
+  },
+  {
+    "Address": "Utah Salt Lake County Unified Police Department",
+    "Latitude": 40.698637,
+    "Longitude": -111.916415
+  },
+  {
+    "Address": "Utah Tooele",
+    "Latitude": 40.530778,
+    "Longitude": -112.29828
+  },
+  {
+    "Address": "Utah Utah",
+    "Latitude": 39.32098,
+    "Longitude": -111.093731
+  },
+  {
+    "Address": "Utah Washington",
+    "Latitude": 37.130537,
+    "Longitude": -113.508287
+  },
+  {
+    "Address": "Utah Carbon",
+    "Latitude": 39.647981,
+    "Longitude": -110.616892
+  },
+  {
+    "Address": "Utah Emery",
+    "Latitude": 39.073839,
+    "Longitude": -110.712246
+  },
+  {
+    "Address": "Utah Summit",
+    "Latitude": 37.801087,
+    "Longitude": -112.936335
+  },
+  {
+    "Address": "Utah Uintah",
+    "Latitude": 41.14411,
+    "Longitude": -111.923274
+  },
+  {
+    "Address": "Utah Utah Highway Patrol",
+    "Latitude": 40.633589,
+    "Longitude": -111.447164
+  },
+  {
+    "Address": "Utah Parks and Recreation",
+    "Latitude": 37.460877,
+    "Longitude": -111.594349
+  },
+  {
+    "Address": "Utah Utah Transit Authority",
+    "Latitude": 40.277258,
+    "Longitude": -111.731004
+  },
+  {
+    "Address": "Vermont Bennington",
+    "Latitude": 42.878135,
+    "Longitude": -73.196774
+  },
+  {
+    "Address": "Vermont Burlington",
+    "Latitude": 44.475883,
+    "Longitude": -73.212072
+  },
+  {
+    "Address": "Vermont Castleton",
+    "Latitude": 43.610622,
+    "Longitude": -73.179832
+  },
+  {
+    "Address": "Vermont Colchester",
+    "Latitude": 44.543938,
+    "Longitude": -73.147907
+  },
+  {
+    "Address": "Vermont Morristown",
+    "Latitude": 44.557274,
+    "Longitude": -72.623727
+  },
+  {
+    "Address": "Vermont South Burlington",
+    "Latitude": 44.466994,
+    "Longitude": -73.17096
+  },
+  {
+    "Address": "Vermont Springfield",
+    "Latitude": 43.298408,
+    "Longitude": -72.482312
+  },
+  {
+    "Address": "Vermont St. Albans",
+    "Latitude": 44.810713,
+    "Longitude": -73.083558
+  },
+  {
+    "Address": "Vermont University of Vermont",
+    "Latitude": 44.477853,
+    "Longitude": -73.196464
+  },
+  {
+    "Address": "Vermont State Police",
+    "Latitude": 44.331187,
+    "Longitude": -72.755359
+  },
+  {
+    "Address": "Virginia Bedford",
+    "Latitude": 37.334308,
+    "Longitude": -79.523088
+  },
+  {
+    "Address": "Virginia Bristol",
+    "Latitude": 36.595141,
+    "Longitude": -82.188809
+  },
+  {
+    "Address": "Virginia Charlottesville",
+    "Latitude": 38.029306,
+    "Longitude": -78.476678
+  },
+  {
+    "Address": "Virginia Chesapeake",
+    "Latitude": 36.768209,
+    "Longitude": -76.287493
+  },
+  {
+    "Address": "Virginia Christiansburg",
+    "Latitude": 37.129852,
+    "Longitude": -80.408939
+  },
+  {
+    "Address": "Virginia Danville",
+    "Latitude": 36.585972,
+    "Longitude": -79.395023
+  },
+  {
+    "Address": "Virginia Farmville",
+    "Latitude": 37.302097,
+    "Longitude": -78.39194
+  },
+  {
+    "Address": "Virginia Galax",
+    "Latitude": 36.661239,
+    "Longitude": -80.923967
+  },
+  {
+    "Address": "Virginia Hampton",
+    "Latitude": 37.029869,
+    "Longitude": -76.345222
+  },
+  {
+    "Address": "Virginia Harrisonburg",
+    "Latitude": 38.449569,
+    "Longitude": -78.868916
+  },
+  {
+    "Address": "Virginia Hopewell",
+    "Latitude": 37.304315,
+    "Longitude": -77.2872
+  },
+  {
+    "Address": "Virginia Manassas",
+    "Latitude": 38.750949,
+    "Longitude": -77.475267
+  },
+  {
+    "Address": "Virginia Manassas Park",
+    "Latitude": 38.784004,
+    "Longitude": -77.469711
+  },
+  {
+    "Address": "Virginia Newport News",
+    "Latitude": 37.087082,
+    "Longitude": -76.473012
+  },
+  {
+    "Address": "Virginia Norfolk",
+    "Latitude": 36.850769,
+    "Longitude": -76.285873
+  },
+  {
+    "Address": "Virginia Poquoson",
+    "Latitude": 37.122366,
+    "Longitude": -76.345777
+  },
+  {
+    "Address": "Virginia Portsmouth",
+    "Latitude": 36.835426,
+    "Longitude": -76.298274
+  },
+  {
+    "Address": "Virginia Radford",
+    "Latitude": 37.131792,
+    "Longitude": -80.576448
+  },
+  {
+    "Address": "Virginia Richmond",
+    "Latitude": 37.540725,
+    "Longitude": -77.436048
+  },
+  {
+    "Address": "Virginia Roanoke",
+    "Latitude": 37.27097,
+    "Longitude": -79.941427
+  },
+  {
+    "Address": "Virginia Suffolk",
+    "Latitude": 36.728205,
+    "Longitude": -76.583562
+  },
+  {
+    "Address": "Virginia Virginia Beach",
+    "Latitude": 36.852926,
+    "Longitude": -75.977985
+  },
+  {
+    "Address": "Virginia West Point",
+    "Latitude": 37.531533,
+    "Longitude": -76.79635
+  },
+  {
+    "Address": "Virginia Woodstock",
+    "Latitude": 38.881778,
+    "Longitude": -78.505843
+  },
+  {
+    "Address": "Virginia Christopher Newport University",
+    "Latitude": 37.064619,
+    "Longitude": -76.494438
+  },
+  {
+    "Address": "Virginia George Mason University",
+    "Latitude": 38.831554,
+    "Longitude": -77.312089
+  },
+  {
+    "Address": "Virginia James Madison University",
+    "Latitude": 38.435092,
+    "Longitude": -78.869755
+  },
+  {
+    "Address": "Virginia University of Richmond",
+    "Latitude": 37.575868,
+    "Longitude": -77.540974
+  },
+  {
+    "Address": "Virginia Virginia Commonwealth University",
+    "Latitude": 37.548987,
+    "Longitude": -77.453429
+  },
+  {
+    "Address": "Virginia Virginia Military Institute",
+    "Latitude": 37.788981,
+    "Longitude": -79.43946
+  },
+  {
+    "Address": "Virginia Albemarle County Police Department",
+    "Latitude": 38.032342,
+    "Longitude": -78.477371
+  },
+  {
+    "Address": "Virginia Amherst",
+    "Latitude": 37.585141,
+    "Longitude": -79.051413
+  },
+  {
+    "Address": "Virginia Appomattox",
+    "Latitude": 37.357089,
+    "Longitude": -78.825291
+  },
+  {
+    "Address": "Virginia Arlington County Police Department",
+    "Latitude": 38.889979,
+    "Longitude": -77.083492
+  },
+  {
+    "Address": "Virginia Chesterfield County Police Department",
+    "Latitude": 37.376475,
+    "Longitude": -77.507823
+  },
+  {
+    "Address": "Virginia Clarke",
+    "Latitude": 39.151658,
+    "Longitude": -77.973865
+  },
+  {
+    "Address": "Virginia Fairfax County Police Department",
+    "Latitude": 38.866946,
+    "Longitude": -77.068752
+  },
+  {
+    "Address": "Virginia Fluvanna",
+    "Latitude": 37.853286,
+    "Longitude": -78.247615
+  },
+  {
+    "Address": "Virginia Gloucester",
+    "Latitude": 37.412828,
+    "Longitude": -76.502574
+  },
+  {
+    "Address": "Virginia Henrico County Police Department",
+    "Latitude": 37.629908,
+    "Longitude": -77.52888
+  },
+  {
+    "Address": "Virginia James City County Police Department",
+    "Latitude": 37.335852,
+    "Longitude": -76.759299
+  },
+  {
+    "Address": "Virginia Loudoun",
+    "Latitude": 39.076767,
+    "Longitude": -77.653613
+  },
+  {
+    "Address": "Virginia Powhatan",
+    "Latitude": 37.541527,
+    "Longitude": -77.918824
+  },
+  {
+    "Address": "Virginia Prince George County Police Department",
+    "Latitude": 38.815094,
+    "Longitude": -76.741241
+  },
+  {
+    "Address": "Virginia Rockingham",
+    "Latitude": 38.582592,
+    "Longitude": -78.883555
+  },
+  {
+    "Address": "Virginia Spotsylvania",
+    "Latitude": 38.204165,
+    "Longitude": -77.607786
+  },
+  {
+    "Address": "Virginia York",
+    "Latitude": 37.210393,
+    "Longitude": -76.38688
+  },
+  {
+    "Address": "Virginia Carroll",
+    "Latitude": 36.67787,
+    "Longitude": -80.721442
+  },
+  {
+    "Address": "Virginia Cumberland",
+    "Latitude": 37.496392,
+    "Longitude": -78.244866
+  },
+  {
+    "Address": "Virginia King George",
+    "Latitude": 38.266451,
+    "Longitude": -77.180784
+  },
+  {
+    "Address": "Virginia Louisa",
+    "Latitude": 38.025139,
+    "Longitude": -78.004165
+  },
+  {
+    "Address": "Virginia Orange",
+    "Latitude": 38.245411,
+    "Longitude": -78.110834
+  },
+  {
+    "Address": "Virginia Westmoreland",
+    "Latitude": 38.112732,
+    "Longitude": -76.779817
+  },
+  {
+    "Address": "Virginia State Police",
+    "Latitude": 36.858278,
+    "Longitude": -79.399418
+  },
+  {
+    "Address": "Washington Aberdeen",
+    "Latitude": 46.975371,
+    "Longitude": -123.815722
+  },
+  {
+    "Address": "Washington Auburn",
+    "Latitude": 47.307323,
+    "Longitude": -122.228453
+  },
+  {
+    "Address": "Washington Bellevue",
+    "Latitude": 47.61015,
+    "Longitude": -122.201516
+  },
+  {
+    "Address": "Washington Bellingham",
+    "Latitude": 48.751911,
+    "Longitude": -122.478685
+  },
+  {
+    "Address": "Washington Burien",
+    "Latitude": 47.466838,
+    "Longitude": -122.34053
+  },
+  {
+    "Address": "Washington Cheney",
+    "Latitude": 47.48739,
+    "Longitude": -117.575762
+  },
+  {
+    "Address": "Washington Clarkston",
+    "Latitude": 46.416272,
+    "Longitude": -117.045158
+  },
+  {
+    "Address": "Washington Covington",
+    "Latitude": 47.359559,
+    "Longitude": -122.118012
+  },
+  {
+    "Address": "Washington Des Moines",
+    "Latitude": 47.401766,
+    "Longitude": -122.32429
+  },
+  {
+    "Address": "Washington Everett",
+    "Latitude": 47.978985,
+    "Longitude": -122.202079
+  },
+  {
+    "Address": "Washington Federal Way",
+    "Latitude": 47.322322,
+    "Longitude": -122.312622
+  },
+  {
+    "Address": "Washington Ferndale",
+    "Latitude": 48.846499,
+    "Longitude": -122.591006
+  },
+  {
+    "Address": "Washington Fife",
+    "Latitude": 47.239267,
+    "Longitude": -122.357066
+  },
+  {
+    "Address": "Washington Granite Falls",
+    "Latitude": 48.08399,
+    "Longitude": -121.968742
+  },
+  {
+    "Address": "Washington Hoquiam",
+    "Latitude": 46.980925,
+    "Longitude": -123.889335
+  },
+  {
+    "Address": "Washington Kalama",
+    "Latitude": 46.008447,
+    "Longitude": -122.844551
+  },
+  {
+    "Address": "Washington Kelso",
+    "Latitude": 46.146779,
+    "Longitude": -122.908444
+  },
+  {
+    "Address": "Washington Kenmore",
+    "Latitude": 47.758358,
+    "Longitude": -122.249686
+  },
+  {
+    "Address": "Washington Lacey",
+    "Latitude": 47.034263,
+    "Longitude": -122.823191
+  },
+  {
+    "Address": "Washington Lakewood",
+    "Latitude": 47.171765,
+    "Longitude": -122.518458
+  },
+  {
+    "Address": "Washington Maple Valley",
+    "Latitude": 47.373348,
+    "Longitude": -122.036924
+  },
+  {
+    "Address": "Washington Mercer Island",
+    "Latitude": 47.570655,
+    "Longitude": -122.222067
+  },
+  {
+    "Address": "Washington Mill Creek",
+    "Latitude": 47.860097,
+    "Longitude": -122.204297
+  },
+  {
+    "Address": "Washington Milton",
+    "Latitude": 47.248156,
+    "Longitude": -122.312899
+  },
+  {
+    "Address": "Washington Mount Vernon",
+    "Latitude": 48.421216,
+    "Longitude": -122.334047
+  },
+  {
+    "Address": "Washington Napavine",
+    "Latitude": 46.57455,
+    "Longitude": -122.908178
+  },
+  {
+    "Address": "Washington Normandy Park",
+    "Latitude": 47.43621,
+    "Longitude": -122.34068
+  },
+  {
+    "Address": "Washington Oak Harbor",
+    "Latitude": 48.293156,
+    "Longitude": -122.643224
+  },
+  {
+    "Address": "Washington Olympia",
+    "Latitude": 47.037874,
+    "Longitude": -122.900695
+  },
+  {
+    "Address": "Washington Omak",
+    "Latitude": 48.410985,
+    "Longitude": -119.527551
+  },
+  {
+    "Address": "Washington Orting",
+    "Latitude": 47.09788,
+    "Longitude": -122.204282
+  },
+  {
+    "Address": "Washington Pacific",
+    "Latitude": 47.264545,
+    "Longitude": -122.25012
+  },
+  {
+    "Address": "Washington Pasco",
+    "Latitude": 46.239579,
+    "Longitude": -119.100566
+  },
+  {
+    "Address": "Washington Port Townsend",
+    "Latitude": 48.117039,
+    "Longitude": -122.760447
+  },
+  {
+    "Address": "Washington Pullman",
+    "Latitude": 46.729777,
+    "Longitude": -117.181738
+  },
+  {
+    "Address": "Washington Redmond",
+    "Latitude": 47.673988,
+    "Longitude": -122.121512
+  },
+  {
+    "Address": "Washington Renton",
+    "Latitude": 47.482878,
+    "Longitude": -122.217066
+  },
+  {
+    "Address": "Washington Seattle",
+    "Latitude": 47.60621,
+    "Longitude": -122.332071
+  },
+  {
+    "Address": "Washington Sedro Woolley",
+    "Latitude": 48.50389,
+    "Longitude": -122.23611
+  },
+  {
+    "Address": "Washington Shelton",
+    "Latitude": 47.215095,
+    "Longitude": -123.100707
+  },
+  {
+    "Address": "Washington Shoreline",
+    "Latitude": 47.755966,
+    "Longitude": -122.345697
+  },
+  {
+    "Address": "Washington Spokane",
+    "Latitude": 47.65878,
+    "Longitude": -117.426046
+  },
+  {
+    "Address": "Washington Spokane Valley",
+    "Latitude": 47.673228,
+    "Longitude": -117.239375
+  },
+  {
+    "Address": "Washington Sunnyside",
+    "Latitude": 46.323742,
+    "Longitude": -120.008654
+  },
+  {
+    "Address": "Washington Tacoma",
+    "Latitude": 47.252877,
+    "Longitude": -122.444291
+  },
+  {
+    "Address": "Washington Tukwila",
+    "Latitude": 47.473988,
+    "Longitude": -122.260956
+  },
+  {
+    "Address": "Washington Tumwater",
+    "Latitude": 47.007319,
+    "Longitude": -122.909306
+  },
+  {
+    "Address": "Washington Vancouver",
+    "Latitude": 45.63184,
+    "Longitude": -122.671606
+  },
+  {
+    "Address": "Washington Washougal",
+    "Latitude": 45.582619,
+    "Longitude": -122.353425
+  },
+  {
+    "Address": "Washington Wenatchee",
+    "Latitude": 47.42346,
+    "Longitude": -120.310349
+  },
+  {
+    "Address": "Washington Yakima",
+    "Latitude": 46.602071,
+    "Longitude": -120.505899
+  },
+  {
+    "Address": "Washington Eastern Washington University",
+    "Latitude": 47.490616,
+    "Longitude": -117.585481
+  },
+  {
+    "Address": "Washington University of Washington",
+    "Latitude": 47.655335,
+    "Longitude": -122.30352
+  },
+  {
+    "Address": "Washington Washington State University",
+    "Latitude": 46.731923,
+    "Longitude": -117.154212
+  },
+  {
+    "Address": "Washington Western Washington University",
+    "Latitude": 48.734288,
+    "Longitude": -122.486611
+  },
+  {
+    "Address": "Washington Benton",
+    "Latitude": 46.316636,
+    "Longitude": -119.502158
+  },
+  {
+    "Address": "Washington Chelan",
+    "Latitude": 47.840832,
+    "Longitude": -120.016808
+  },
+  {
+    "Address": "Washington Clark",
+    "Latitude": 45.746647,
+    "Longitude": -122.519438
+  },
+  {
+    "Address": "Washington Columbia",
+    "Latitude": 38.907192,
+    "Longitude": -77.036871
+  },
+  {
+    "Address": "Washington Cowlitz",
+    "Latitude": 46.174647,
+    "Longitude": -122.77469
+  },
+  {
+    "Address": "Washington King",
+    "Latitude": 47.548034,
+    "Longitude": -121.983603
+  },
+  {
+    "Address": "Washington Kitsap",
+    "Latitude": 47.647661,
+    "Longitude": -122.641258
+  },
+  {
+    "Address": "Washington Pend Oreille",
+    "Latitude": 48.435906,
+    "Longitude": -117.317338
+  },
+  {
+    "Address": "Washington Pierce",
+    "Latitude": 47.067588,
+    "Longitude": -122.129527
+  },
+  {
+    "Address": "Washington Skagit",
+    "Latitude": 48.424196,
+    "Longitude": -121.711436
+  },
+  {
+    "Address": "Washington Skamania",
+    "Latitude": 45.942852,
+    "Longitude": -121.896226
+  },
+  {
+    "Address": "Washington Snohomish",
+    "Latitude": 47.912876,
+    "Longitude": -122.098185
+  },
+  {
+    "Address": "Washington Spokane",
+    "Latitude": 47.65878,
+    "Longitude": -117.426046
+  },
+  {
+    "Address": "Washington Stevens",
+    "Latitude": 48.455825,
+    "Longitude": -117.905991
+  },
+  {
+    "Address": "Washington Thurston",
+    "Latitude": 46.864575,
+    "Longitude": -122.769599
+  },
+  {
+    "Address": "Washington Yakima",
+    "Latitude": 46.602071,
+    "Longitude": -120.505899
+  },
+  {
+    "Address": "Washington Clallam",
+    "Latitude": 48.040512,
+    "Longitude": -124.016766
+  },
+  {
+    "Address": "Washington Grant",
+    "Latitude": 45.084411,
+    "Longitude": -92.910491
+  },
+  {
+    "Address": "Washington Jefferson",
+    "Latitude": 38.905932,
+    "Longitude": -77.036856
+  },
+  {
+    "Address": "Washington Klickitat",
+    "Latitude": 45.888824,
+    "Longitude": -120.971103
+  },
+  {
+    "Address": "Washington Lincoln",
+    "Latitude": 47.829046,
+    "Longitude": -118.414992
+  },
+  {
+    "Address": "Washington Mason",
+    "Latitude": 47.425115,
+    "Longitude": -123.195138
+  },
+  {
+    "Address": "Washington San Juan",
+    "Latitude": 48.611804,
+    "Longitude": -122.960262
+  },
+  {
+    "Address": "Washington Port of Seattle",
+    "Latitude": 47.610551,
+    "Longitude": -122.348589
+  },
+  {
+    "Address": "West_Virginia Barboursville",
+    "Latitude": 38.40953,
+    "Longitude": -82.294592
+  },
+  {
+    "Address": "West_Virginia Beckley",
+    "Latitude": 37.77817,
+    "Longitude": -81.188156
+  },
+  {
+    "Address": "West_Virginia Buckhannon",
+    "Latitude": 38.993987,
+    "Longitude": -80.232028
+  },
+  {
+    "Address": "West_Virginia Charleston",
+    "Latitude": 38.34982,
+    "Longitude": -81.632623
+  },
+  {
+    "Address": "West_Virginia Dunbar",
+    "Latitude": 38.360651,
+    "Longitude": -81.737348
+  },
+  {
+    "Address": "West_Virginia Fairmont",
+    "Latitude": 39.485085,
+    "Longitude": -80.142578
+  },
+  {
+    "Address": "West_Virginia Huntington",
+    "Latitude": 38.41925,
+    "Longitude": -82.445154
+  },
+  {
+    "Address": "West_Virginia Martinsburg",
+    "Latitude": 39.45621,
+    "Longitude": -77.963887
+  },
+  {
+    "Address": "West_Virginia Morgantown",
+    "Latitude": 39.629526,
+    "Longitude": -79.955897
+  },
+  {
+    "Address": "West_Virginia Moundsville",
+    "Latitude": 39.920353,
+    "Longitude": -80.743141
+  },
+  {
+    "Address": "West_Virginia Oak Hill",
+    "Latitude": 37.972334,
+    "Longitude": -81.148713
+  },
+  {
+    "Address": "West_Virginia Wellsburg",
+    "Latitude": 40.272015,
+    "Longitude": -80.609519
+  },
+  {
+    "Address": "West_Virginia Brooke",
+    "Latitude": 40.269776,
+    "Longitude": -80.566066
+  },
+  {
+    "Address": "West_Virginia Fayette",
+    "Latitude": 38.061591,
+    "Longitude": -81.075466
+  },
+  {
+    "Address": "West_Virginia Hancock",
+    "Latitude": 40.512356,
+    "Longitude": -80.566066
+  },
+  {
+    "Address": "West_Virginia Harrison",
+    "Latitude": 39.334813,
+    "Longitude": -80.365865
+  },
+  {
+    "Address": "West_Virginia McDowell",
+    "Latitude": 37.386047,
+    "Longitude": -81.647344
+  },
+  {
+    "Address": "Wisconsin Algoma",
+    "Latitude": 44.608888,
+    "Longitude": -87.432589
+  },
+  {
+    "Address": "Wisconsin Appleton",
+    "Latitude": 44.261931,
+    "Longitude": -88.415385
+  },
+  {
+    "Address": "Wisconsin Burlington",
+    "Latitude": 42.678073,
+    "Longitude": -88.276203
+  },
+  {
+    "Address": "Wisconsin Fond du Lac",
+    "Latitude": 43.773045,
+    "Longitude": -88.447051
+  },
+  {
+    "Address": "Wisconsin Green Bay",
+    "Latitude": 44.519159,
+    "Longitude": -88.019826
+  },
+  {
+    "Address": "Wisconsin Janesville",
+    "Latitude": 42.682789,
+    "Longitude": -89.018722
+  },
+  {
+    "Address": "Wisconsin La Crosse",
+    "Latitude": 43.801356,
+    "Longitude": -91.239581
+  },
+  {
+    "Address": "Wisconsin Madison",
+    "Latitude": 43.076592,
+    "Longitude": -89.412487
+  },
+  {
+    "Address": "Wisconsin Merrill",
+    "Latitude": 45.180522,
+    "Longitude": -89.683459
+  },
+  {
+    "Address": "Wisconsin Milwaukee",
+    "Latitude": 43.038903,
+    "Longitude": -87.906474
+  },
+  {
+    "Address": "Wisconsin Oak Creek",
+    "Latitude": 42.88585,
+    "Longitude": -87.863136
+  },
+  {
+    "Address": "Wisconsin River Falls",
+    "Latitude": 44.861356,
+    "Longitude": -92.623808
+  },
+  {
+    "Address": "Wisconsin Sparta",
+    "Latitude": 43.944133,
+    "Longitude": -90.812912
+  },
+  {
+    "Address": "Wisconsin Wausau",
+    "Latitude": 44.959135,
+    "Longitude": -89.630122
+  },
+  {
+    "Address": "Wisconsin University of Wisconsin",
+    "Latitude": 43.076592,
+    "Longitude": -89.412487
+  },
+  {
+    "Address": "Wisconsin Dane",
+    "Latitude": 43.018607,
+    "Longitude": -89.549763
+  },
+  {
+    "Address": "Wisconsin Burnett",
+    "Latitude": 45.805119,
+    "Longitude": -92.288813
+  },
+  {
+    "Address": "Wisconsin Grant",
+    "Latitude": 42.939702,
+    "Longitude": -90.677305
+  },
+  {
+    "Address": "Wisconsin Lincoln",
+    "Latitude": 45.37431,
+    "Longitude": -89.77258
+  },
+  {
+    "Address": "Wisconsin Manitowoc",
+    "Latitude": 44.088606,
+    "Longitude": -87.657584
+  },
+  {
+    "Address": "Wisconsin Oneida",
+    "Latitude": 44.479939,
+    "Longitude": -88.226643
+  },
+  {
+    "Address": "Wyoming Gillette",
+    "Latitude": 44.291092,
+    "Longitude": -105.502221
+  }
+]
